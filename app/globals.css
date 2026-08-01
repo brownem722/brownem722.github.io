@@ -16,7 +16,7 @@ h1, h2, h3, p { margin-top: 0; }
 h1, h2, h3 { font-family: Georgia, "Times New Roman", serif; font-weight: 400; letter-spacing: -.025em; }
 h1 { margin-bottom: 22px; font-size: clamp(3rem, 7vw, 5.8rem); line-height: .94; }
 h2 { margin-bottom: 18px; font-size: clamp(1.8rem, 3vw, 2.8rem); line-height: 1.02; }
-.intro { display: grid; grid-template-columns: 1fr 270px; gap: 92px; align-items: center; padding: 70px 0 66px; }
+.intro { display: grid; grid-template-columns: 1fr 300px; gap: 62px; align-items: start; padding: 70px 0 66px; }
 .lede { max-width: 650px; margin-bottom: 18px; color: #47453f; font: 1.1rem/1.55 Georgia, serif; }
 .quiet-note { margin: 0; color: var(--muted); font-size: .75rem; }
 .portrait-frame { margin: 0; }
