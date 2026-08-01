@@ -69,4 +69,5 @@ test("CV sync output contains the maintained bibliography", async () => {
   assert.equal(data.publications.length, 271);
   assert.equal(data.projects.length, 65);
   assert.equal(data.name, "Matthew Browne");
+  assert.match(data.employment.join("\n"), /Commonwealth Scientific and Industrial Research Organisation/);
 });
