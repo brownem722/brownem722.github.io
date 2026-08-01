@@ -1,5 +1,4 @@
 import Link from "next/link";
-import Image from "next/image";
 import { cv } from "../lib/site-data";
 
 const featuredYears = [...new Set(cv.publications.map((publication) => publication.year).filter(Boolean))].slice(0, 3);
@@ -28,7 +27,8 @@ export default function Home() {
           </div>
         </div>
         <div className="portrait-frame">
-          <Image src="/headshot.png" alt="Black and white portrait of Matthew Browne" width={1536} height={1536} priority />
+          {/* eslint-disable-next-line @next/next/no-img-element */}
+          <img src="/headshot.png" alt="Black and white portrait of Matthew Browne" width="1536" height="1536" />
           <span className="portrait-caption">Professor · Central Queensland University</span>
         </div>
       </section>
