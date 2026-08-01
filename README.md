@@ -35,3 +35,5 @@ npm run lint
 ```
 
 The first version contains a monochrome home page and a searchable publications page. The appearances database can be populated later without changing the CV structure.
+
+The public site is deployed from the static export in `dist/client` by GitHub Pages. The repository's `main` branch is the source; the generated public data in `data/cv.json` is refreshed locally from the maintained CV before it is committed.
