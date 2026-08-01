@@ -14,8 +14,10 @@ test("static export contains the personal home page", async () => {
   assert.match(html, /computational statistics/);
   assert.match(html, /advises PhD, master's, and honours students in the psychology program/);
   assert.match(html, /Selected observations/);
-  assert.match(html, /Recognised in the Stanford.*Top 2% Scientists list/);
-  assert.match(await readFile(new URL("../app/quote-cycle.tsx", import.meta.url), "utf8"), /Gag Halfrunt/);
+  assert.match(html, /Among the world.*top 2% of scientists/);
+  const quoteSource = await readFile(new URL("../app/quote-cycle.tsx", import.meta.url), "utf8");
+  assert.match(quoteSource, /top 200 scientists in his field/);
+  assert.match(quoteSource, /Private brain care specialist to Zaphod Beeblebrox/);
   assert.match(html, /Chris Kavanagh, Associate Professor of Psychology at Rikkyo University/);
   assert.match(html, /Research funding/);
   assert.match(html, /Major funded projects/);

@@ -25,10 +25,13 @@ h2 { margin-bottom: 18px; font-size: clamp(1.8rem, 3vw, 2.8rem); line-height: 1.
 .quote-section { padding: 28px 0 36px; }
 .quote-stack { position: relative; max-width: 820px; min-height: 132px; }
 .quote-cycle { position: absolute; inset: 0; margin: 0; opacity: 1; transition: opacity .65s ease; }
-.quote-cycle.is-fading, .quote-incoming { opacity: 0; }
-.quote-incoming.is-visible { opacity: 1; }
+.quote-cycle.is-fading { animation: quote-fade-out .65s ease forwards; }
+.quote-incoming { opacity: 0; }
+.quote-incoming.is-visible { animation: quote-fade-in .65s ease forwards; }
 .quote-cycle p { margin: 0 0 14px; color: #47453f; font: clamp(1.5rem, 3.2vw, 2.7rem)/1.12 Georgia, "Times New Roman", serif; letter-spacing: -.025em; }
 .quote-cycle cite { color: var(--ink); font-size: .75rem; font-style: normal; font-weight: 700; letter-spacing: .08em; text-transform: uppercase; }
+@keyframes quote-fade-out { from { opacity: 1; } to { opacity: 0; } }
+@keyframes quote-fade-in { from { opacity: 0; } to { opacity: 1; } }
 .record-summary { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); border-top: 1px solid var(--line); border-bottom: 1px solid var(--line); }
 .record-summary div { display: flex; flex-direction: column; gap: 5px; padding: 17px 20px 17px 0; border-right: 1px solid var(--line); }
 .record-summary div:not(:first-child) { padding-left: 20px; }
@@ -85,5 +88,6 @@ h2 { margin-bottom: 18px; font-size: clamp(1.8rem, 3vw, 2.8rem); line-height: 1.
   .site-footer { gap: 16px; flex-direction: column; }
 }
 @media (prefers-reduced-motion: reduce) {
-  .quote-cycle { transition: none; }
+  .quote-cycle { animation: none !important; transition: none; }
+  .quote-current, .quote-incoming { opacity: 1; }
 }

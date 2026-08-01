@@ -3,11 +3,12 @@
 import { useEffect, useState } from "react";
 
 const quotes = [
-  { text: "Recognised in the Stanford–Elsevier World's Top 2% Scientists list (2024, 2025).", attribution: "Stanford–Elsevier World's Top 2% Scientists" },
+  { text: "Among the world's top 2% of scientists.", attribution: "Stanford–Elsevier World's Top 2% Scientists list" },
+  { text: "Ranked among the top 200 scientists in his field.", attribution: "Stanford–Elsevier World's Top 2% Scientists list" },
   { text: "Nominated for the Vice Chancellor's Award for Research Excellence.", attribution: "CQUniversity" },
   { text: "After 20 years he still hasn't learned how to stack the dishwasher correctly.", attribution: "Michiko Browne" },
   { text: "Who is Matthew Browne?", attribution: "Dr Eric Weinstein" },
-  { text: "Vell, Matt's just zis guy, you know?", attribution: "Gag Halfrunt · The Hitchhiker's Guide to the Galaxy" },
+  { text: "Vell, Matt's just zis guy, you know?", attribution: "Private brain care specialist to Zaphod Beeblebrox · Gag Halfrunt" },
 ];
 
 const displayMs = 5000;
@@ -16,25 +17,20 @@ const fadeMs = 650;
 export default function QuoteCycle() {
   const [index, setIndex] = useState(0);
   const [transitioning, setTransitioning] = useState(false);
-  const [incomingVisible, setIncomingVisible] = useState(false);
 
   useEffect(() => {
     let finishTimer;
-    let frame;
     const startTimer = window.setTimeout(() => {
       setTransitioning(true);
-      frame = window.requestAnimationFrame(() => setIncomingVisible(true));
       finishTimer = window.setTimeout(() => {
         setIndex((current) => (current + 1) % quotes.length);
         setTransitioning(false);
-        setIncomingVisible(false);
       }, fadeMs);
     }, displayMs - fadeMs);
 
     return () => {
       window.clearTimeout(startTimer);
       if (finishTimer) window.clearTimeout(finishTimer);
-      if (frame) window.cancelAnimationFrame(frame);
     };
   }, [index]);
 
@@ -57,7 +53,7 @@ export default function QuoteCycle() {
           {renderQuote(quote)}
         </blockquote>
         {transitioning && (
-          <blockquote className={`quote-cycle quote-incoming${incomingVisible ? " is-visible" : ""}`}>
+          <blockquote className="quote-cycle quote-incoming is-visible">
             {renderQuote(incomingQuote)}
           </blockquote>
         )}
