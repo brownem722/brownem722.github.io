@@ -22,7 +22,6 @@ export default function Home() {
           <p className="eyebrow">{cv.currentPosition} · {cv.institution}</p>
           <h1>{cv.name}</h1>
           <p className="lede">{cv.profile}</p>
-          <p className="quiet-note">Curriculum vitae updated {cv.updated}.</p>
         </div>
         <figure className="portrait-frame">
           {/* eslint-disable-next-line @next/next/no-img-element */}
@@ -80,15 +79,14 @@ export default function Home() {
               </article>
             ))}
           </div>
-          <Link className="quiet-link" href="/publications">View all {cv.publications.length} publications →</Link>
+          <Link className="quiet-link" href="/publications">View all publications →</Link>
         </div>
       </section>
 
       <section className="section section-rule shell">
         <div className="section-label">Research projects</div>
         <div className="section-content project-summary">
-          <p>Completed research projects are listed by year, with investigators, funders, schemes, and award amounts where recorded.</p>
-          <Link className="quiet-link" href="/projects">View all {cv.projects.length} completed projects →</Link>
+          <Link className="quiet-link" href="/projects">View all research projects →</Link>
         </div>
       </section>
 
@@ -102,7 +100,6 @@ export default function Home() {
 
       <footer className="site-footer shell">
         <span>Matthew Browne</span>
-        <span>CV data updated {cv.updated}</span>
       </footer>
     </main>
   );

@@ -31,7 +31,6 @@ export default function PublicationBrowser({ publications }: { publications: Pub
           </select>
         </label>
       </div>
-      <p className="results-count">Showing {filtered.length} of {publications.length} publications</p>
       <div className="publication-browser">
         {filtered.map((publication) => (
           <article className="publication-row" key={publication.id}>

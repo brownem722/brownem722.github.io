@@ -12,9 +12,9 @@ test("static export contains the personal home page", async () => {
   assert.match(html, /<h1>Matthew Browne<\/h1>/);
   assert.match(html, /Central Queensland University/);
   assert.match(html, /271/);
-  assert.match(html, /View all[\s\S]*?271[\s\S]*?publications/);
+  assert.match(html, /View all publications/);
   assert.match(html, /headshot\.png/);
-  assert.doesNotMatch(html, /codex-preview|Your site is taking shape|SkeletonPreview|Selected work|Latest publications/i);
+  assert.doesNotMatch(html, /codex-preview|Your site is taking shape|SkeletonPreview|Selected work|Latest publications|CV data updated|Curriculum vitae updated/i);
 });
 
 test("static export contains the CV-derived publication page", async () => {
@@ -23,15 +23,15 @@ test("static export contains the CV-derived publication page", async () => {
   assert.match(html, /Search title, author, or venue/);
   assert.match(html, /All years/);
   assert.match(html, /A Model-Based National Estimate of Gambling Harm in Australia/);
-  assert.match(html, /Showing[\s\S]*?271[\s\S]*?of[\s\S]*?271[\s\S]*?publications/);
+  assert.doesNotMatch(html, /recorded in the maintained CV bibliography|Showing[\s\S]*?publications/i);
 });
 
 test("static export contains the CV-derived project page", async () => {
   const html = await readExport("projects/index.html");
   assert.match(html, /<h1>Research projects<\/h1>/);
   assert.match(html, /Search title, investigator, or funder/);
-  assert.match(html, /Showing[\s\S]*?65[\s\S]*?of[\s\S]*?65[\s\S]*?projects/);
   assert.match(html, /The Sixth Social and Economic Impact Study of Gambling in Tasmania/);
+  assert.doesNotMatch(html, /recorded in the CV project database|Showing[\s\S]*?projects/i);
 });
 
 test("CV sync output contains the maintained bibliography", async () => {

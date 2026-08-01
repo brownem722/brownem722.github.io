@@ -31,7 +31,6 @@ export default function ProjectBrowser({ projects }: { projects: Project[] }) {
           </select>
         </label>
       </div>
-      <p className="results-count">Showing {filtered.length} of {projects.length} projects</p>
       <div className="project-browser">
         {filtered.map((project) => (
           <article className="project-row" key={project.id}>

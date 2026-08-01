@@ -4,7 +4,7 @@ import PublicationBrowser from "./PublicationBrowser";
 
 export const metadata = {
   title: "Publications | Matthew Browne",
-  description: "The complete publication record of Professor Matthew Browne.",
+  description: "Publications by Professor Matthew Browne.",
 };
 
 export default function PublicationsPage() {
@@ -17,7 +17,6 @@ export default function PublicationsPage() {
       <section className="page-hero shell">
         <p className="eyebrow">Publications</p>
         <h1>Publications</h1>
-        <p className="lede">{cv.publications.length} publications recorded in the maintained CV bibliography.</p>
       </section>
       <section className="publications-section shell">
         <PublicationBrowser publications={cv.publications} />
