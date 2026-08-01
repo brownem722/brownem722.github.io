@@ -19,7 +19,7 @@ export default function Home() {
       <header className="site-header shell">
         <Link className="wordmark" href="/">Matthew Browne</Link>
         <nav aria-label="Main navigation">
-          <Link href="#cv">CV</Link>
+          <a href="/Matthew_Browne_CV.pdf">CV</a>
           <Link href="/publications">Publications</Link>
           <Link href="/projects">Projects</Link>
           <Link href="#contact">Contact</Link>
