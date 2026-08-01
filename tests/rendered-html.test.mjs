@@ -12,22 +12,36 @@ test("static export contains the personal home page", async () => {
   assert.match(html, /<h1>Matthew Browne<\/h1>/);
   assert.match(html, /Central Queensland University/);
   assert.match(html, /computational statistics/);
-  assert.match(html, /Chris Kavanagh/);
-  assert.match(html, /Government-funded projects/);
+  assert.match(html, /Chris Kavanagh, Associate Professor of Psychology at Rikkyo University/);
+  assert.match(html, /Research funding/);
   assert.match(html, /updated[\s\S]*?2026-06-26/);
   assert.match(html, /271/);
-  assert.match(html, /View all publications/);
+  assert.match(html, /Academic publications/);
+  assert.match(html, /Research projects/);
+  assert.match(html, /Popular articles/);
+  assert.match(html, /Gambling in Australia: how bad is the problem/);
+  assert.match(html, /You're probably not Galileo/);
+  assert.match(html, /Recent episodes/);
+  assert.match(html, /Matthew the Succulent, Bin-faced Politicians/);
+  assert.doesNotMatch(html, /Government-funded projects/);
   assert.match(html, /headshot\.png/);
   assert.doesNotMatch(html, /codex-preview|Your site is taking shape|SkeletonPreview|Selected work|Latest publications|Curriculum vitae updated|CV data updated|<div class="section-label">About<\/div>/i);
 });
 
 test("static export contains the CV-derived publication page", async () => {
   const html = await readExport("publications/index.html");
-  assert.match(html, /<h1>Publications<\/h1>/);
+  assert.match(html, /<h1>Academic publications<\/h1>/);
   assert.match(html, /Search title, author, or venue/);
   assert.match(html, /All years/);
   assert.match(html, /A Model-Based National Estimate of Gambling Harm in Australia/);
   assert.doesNotMatch(html, /recorded in the maintained CV bibliography|Showing[\s\S]*?publications/i);
+});
+
+test("static export contains the podcast episode page", async () => {
+  const html = await readExport("episodes/index.html");
+  assert.match(html, /<h1>Podcast episodes<\/h1>/);
+  assert.match(html, /Matthew the Succulent, Bin-faced Politicians/);
+  assert.match(html, /feeds\.captivate\.fm\/decoding-the-gurus/);
 });
 
 test("static export contains the CV-derived project page", async () => {

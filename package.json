@@ -7,6 +7,7 @@
   },
   "scripts": {
     "sync-cv": "node scripts/sync-cv.mjs",
+    "sync-rss": "node scripts/sync-rss.mjs",
     "dev": "vinext dev",
     "build": "vinext build",
     "start": "vinext start",

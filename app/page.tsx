@@ -1,7 +1,17 @@
 import Link from "next/link";
-import { cv } from "../lib/site-data";
+import { academicPublications, cv, episodes, writing } from "../lib/site-data";
 
-const funding = cv.summary.find((item) => item.label.toLowerCase().includes("fund")) ?? { label: "Government-funded projects", value: "" };
+const funding = cv.summary.find((item) => item.label.toLowerCase().includes("fund")) ?? { label: "Research funding", value: "" };
+const firstAuthorPattern = /^Browne,\s*M\./i;
+const featuredPublications = [...academicPublications]
+  .sort((a, b) => (b.year ?? 0) - (a.year ?? 0) || Number(firstAuthorPattern.test(b.authors)) - Number(firstAuthorPattern.test(a.authors)) || a.title.localeCompare(b.title))
+  .slice(0, 6);
+const featuredProjects = [...cv.projects].sort((a, b) => b.year - a.year || a.title.localeCompare(b.title)).slice(0, 6);
+const featuredEpisodes = episodes.slice(0, 5);
+
+function episodeDate(value: string) {
+  return new Intl.DateTimeFormat("en-AU", { day: "numeric", month: "short", year: "numeric", timeZone: "UTC" }).format(new Date(value));
+}
 
 export default function Home() {
   return (
@@ -51,10 +61,10 @@ export default function Home() {
       </section>
 
       <section className="section section-rule shell">
-        <div className="section-label">Recent publications</div>
+        <div className="section-label">Academic publications</div>
         <div className="section-content">
           <div className="recent-list compact-list">
-            {cv.publications.slice(0, 6).map((publication) => (
+            {featuredPublications.map((publication) => (
               <article className="publication-row" key={publication.id}>
                 <span className="publication-year">{publication.year}</span>
                 <div>
@@ -65,14 +75,64 @@ export default function Home() {
               </article>
             ))}
           </div>
-          <Link className="quiet-link" href="/publications">View all publications →</Link>
+          <Link className="quiet-link" href="/publications">View all academic publications →</Link>
         </div>
       </section>
 
       <section className="section section-rule shell">
         <div className="section-label">Research projects</div>
-        <div className="section-content project-summary">
+        <div className="section-content">
+          <div className="project-browser compact-list">
+            {featuredProjects.map((project) => (
+              <article className="project-row" key={project.id}>
+                <span className="publication-year">{project.period || project.year}</span>
+                <div>
+                  <h3>{project.title}</h3>
+                  <p>{project.investigators}</p>
+                  <p className="project-meta">{project.funder}{project.scheme ? ` · ${project.scheme}` : ""}</p>
+                </div>
+                <span className="project-amount">{project.amount}</span>
+              </article>
+            ))}
+          </div>
           <Link className="quiet-link" href="/projects">View all research projects →</Link>
+        </div>
+      </section>
+
+      <section className="section section-rule shell">
+        <div className="section-label">Popular articles</div>
+        <div className="section-content">
+          <div className="recent-list compact-list">
+            {writing.map((article) => (
+              <article className="publication-row" key={article.id}>
+                <span className="publication-year">{article.year}</span>
+                <div>
+                  <h3>{article.title}</h3>
+                  <p>{article.authors} · {article.venue}</p>
+                </div>
+                <a href={article.url} target="_blank" rel="noreferrer" aria-label={`Read ${article.title}`}>↗</a>
+              </article>
+            ))}
+          </div>
+        </div>
+      </section>
+
+      <section className="section section-rule shell">
+        <div className="section-label">Recent episodes</div>
+        <div className="section-content">
+          <div className="recent-list compact-list">
+            {featuredEpisodes.map((episode) => (
+              <article className="publication-row" key={episode.id}>
+                <span className="publication-year">{episodeDate(episode.published)}</span>
+                <div>
+                  <h3>{episode.title}</h3>
+                  <p>Decoding the Gurus{episode.type === "bonus" ? " · Bonus" : ""}{episode.duration ? ` · ${episode.duration}` : ""}</p>
+                </div>
+                <a href={episode.url} target="_blank" rel="noreferrer" aria-label={`Listen to ${episode.title}`}>↗</a>
+              </article>
+            ))}
+          </div>
+          <Link className="quiet-link" href="/episodes">View all episodes →</Link>
         </div>
       </section>
 

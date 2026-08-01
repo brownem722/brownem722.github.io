@@ -4,7 +4,7 @@
   "institution": "Central Queensland University",
   "qualifications": "B.Beh.Sc (Hons) PhD",
   "email": "m.browne@cqu.edu.au",
-  "profile": "Professor Matthew Browne is an academic researcher at Central Queensland University. His research includes computational statistics, modelling in health research, gambling harm, psychometrics, and applied social science. He is co-host of Decoding the Gurus with Chris Kavanagh, where they analyse public intellectuals and online influencers through a psychosocial and anthropological lens, with particular attention to how they persuade and influence.",
+  "profile": "Professor Matthew Browne is an academic researcher at Central Queensland University. His research includes computational statistics, modelling in health research, gambling harm, psychometrics, and applied social science. He is co-host of Decoding the Gurus with Chris Kavanagh, Associate Professor of Psychology at Rikkyo University, where they analyse public intellectuals and online influencers through a psychosocial and anthropological lens, with particular attention to how they persuade and influence.",
   "education": [
     "Doctor of Philosophy (Ph.D.), Griffith University, Mt Gravatt, Brisbane, Australia, 2002.",
     "Bachelor of Behavioural Science (B.Beh.Sc), first class honours, Griffith University, Mt Gravatt, Brisbane, Australia, 1998."
@@ -27,11 +27,11 @@
       "value": "65"
     },
     {
-      "label": "Government-funded projects",
+      "label": "Research funding",
       "value": "$30,904,000"
     }
   ],
-  "publicEngagement": "Co-host of Decoding the Gurus with Chris Kavanagh, an educational podcast that analyses public intellectuals and online influencers through a psychosocial and anthropological lens, with particular attention to how they persuade and influence.",
+  "publicEngagement": "Co-host of Decoding the Gurus with Chris Kavanagh, Associate Professor of Psychology at Rikkyo University, an educational podcast that analyses public intellectuals and online influencers through a psychosocial and anthropological lens, with particular attention to how they persuade and influence.",
   "updated": "2026-06-26",
   "publications": [
     {

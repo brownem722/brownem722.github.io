@@ -1,10 +1,10 @@
 import Link from "next/link";
-import { cv } from "../../lib/site-data";
+import { academicPublications } from "../../lib/site-data";
 import PublicationBrowser from "./PublicationBrowser";
 
 export const metadata = {
-  title: "Publications | Matthew Browne",
-  description: "Publications by Professor Matthew Browne.",
+  title: "Academic publications | Matthew Browne",
+  description: "Academic publications by Professor Matthew Browne.",
 };
 
 export default function PublicationsPage() {
@@ -15,11 +15,11 @@ export default function PublicationsPage() {
         <Link className="back-link" href="/">← Back to home</Link>
       </header>
       <section className="page-hero shell">
-        <p className="eyebrow">Publications</p>
-        <h1>Publications</h1>
+        <p className="eyebrow">Academic publications</p>
+        <h1>Academic publications</h1>
       </section>
       <section className="publications-section shell">
-        <PublicationBrowser publications={cv.publications} />
+        <PublicationBrowser publications={academicPublications} />
       </section>
       <footer className="site-footer shell"><span>Matthew Browne</span><Link href="/">Home</Link></footer>
     </main>
