@@ -6,10 +6,12 @@ const projectRoot = fileURLToPath(new URL("..", import.meta.url));
 const cvRoot = process.env.CV_ROOT ?? "D:\\archive\\CV";
 const cvPath = path.join(cvRoot, "Matthew_Browne_CV.md");
 const bibPath = path.join(cvRoot, "my_citations.bib");
+const projectsPath = path.join(cvRoot, "research_projects.csv");
 const outputPath = path.join(projectRoot, "data", "cv.json");
 
 const markdown = fs.readFileSync(cvPath, "utf8");
 const bibtex = fs.readFileSync(bibPath, "utf8");
+const projectCsv = fs.readFileSync(projectsPath, "utf8");
 
 function section(title) {
   const heading = `## ${title}`;
@@ -27,6 +29,68 @@ function bullets(text) {
     .split(/\r?\n/)
     .map((line) => line.match(/^[-*]\s+(.+)$/)?.[1]?.trim())
     .filter(Boolean);
+}
+
+function parseCsv(source) {
+  const rows = [];
+  let row = [];
+  let field = "";
+  let quoted = false;
+
+  for (let index = 0; index < source.length; index += 1) {
+    const character = source[index];
+    const next = source[index + 1];
+
+    if (quoted) {
+      if (character === '"' && next === '"') {
+        field += '"';
+        index += 1;
+      } else if (character === '"') {
+        quoted = false;
+      } else {
+        field += character;
+      }
+    } else if (character === '"') {
+      quoted = true;
+    } else if (character === ",") {
+      row.push(field);
+      field = "";
+    } else if (character === "\n") {
+      row.push(field.replace(/\r$/, ""));
+      rows.push(row);
+      row = [];
+      field = "";
+    } else {
+      field += character;
+    }
+  }
+
+  if (field.length || row.length) {
+    row.push(field.replace(/\r$/, ""));
+    rows.push(row);
+  }
+
+  const headers = rows.shift() ?? [];
+  return rows
+    .filter((values) => values.some((value) => value.trim()))
+    .map((values) => Object.fromEntries(headers.map((header, index) => [header, values[index] ?? ""])));
+}
+
+function parseProjects(source) {
+  return parseCsv(source)
+    .map((project, index) => ({
+      id: `${project.year}-${index + 1}`,
+      year: Number.parseInt(project.year, 10),
+      period: project.project_year_text.trim(),
+      category: project.category.trim(),
+      title: project.title.trim(),
+      investigators: project.investigators.trim(),
+      funder: project.funder.trim(),
+      scheme: project.scheme.trim(),
+      amount: project.amount_display.trim(),
+    }))
+    .filter((project) => project.title)
+    .sort((a, b) => b.year - a.year || a.title.localeCompare(b.title));
 }
 
 function cleanBibValue(value) {
@@ -74,10 +138,10 @@ function parseBibtex(source) {
 
 const contactLine = markdown.match(/^\*\*Contact:\*\*\s*(.+)$/m)?.[1] ?? "";
 const email = contactLine.match(/[\w.+-]+@[\w.-]+\.\w+/)?.[0] ?? "";
-const currentPosition = markdown.match(/^\*\*Current position:\*\*\s*(.+)$/m)?.[1] ?? "Professor";
-const institution = markdown.match(/^\*\*Institution:\*\*\s*(.+)$/m)?.[1] ?? "Central Queensland University";
-const qualifications = markdown.match(/^\*\*Qualifications:\*\*\s*(.+)$/m)?.[1] ?? "";
-const updated = markdown.match(/^updated:\\s*(.+)$/m)?.[1]?.trim() ?? new Date().toISOString().slice(0, 10);
+const currentPosition = markdown.match(/^\*\*Current position:\*\*\s*(.+)$/m)?.[1]?.trim() ?? "Professor";
+const institution = markdown.match(/^\*\*Institution:\*\*\s*(.+)$/m)?.[1]?.trim() ?? "Central Queensland University";
+const qualifications = markdown.match(/^\*\*Qualifications:\*\*\s*(.+)$/m)?.[1]?.trim() ?? "";
+const updated = markdown.match(/^updated:\s*(.+)$/m)?.[1]?.trim() ?? new Date().toISOString().slice(0, 10);
 
 const summary = bullets(section("Research Summary")).map((item) => {
   const [label, ...rest] = item.split(":");
@@ -94,11 +158,16 @@ const output = {
   education: bullets(section("Education")),
   employment: bullets(section("Employment")),
   summary,
-  publicEngagement: section("Public Engagement").replace(/\s+/g, " ").trim(),
+  publicEngagement: section("Public Engagement")
+    .replace(/\*+/g, "")
+    .replace(/\s+As of .*$/i, "")
+    .replace(/\s+/g, " ")
+    .trim(),
   updated,
   publications: parseBibtex(bibtex),
+  projects: parseProjects(projectCsv),
 };
 
 fs.mkdirSync(path.dirname(outputPath), { recursive: true });
 fs.writeFileSync(outputPath, `${JSON.stringify(output, null, 2)}\n`, "utf8");
-console.log(`Synced ${output.publications.length} publications from ${cvRoot}`);
+console.log(`Synced ${output.publications.length} publications and ${output.projects.length} projects from ${cvRoot}`);

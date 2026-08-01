@@ -2,9 +2,8 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Matthew Browne | Researcher and public educator",
-  description:
-    "The research, writing, public work, and publications of Professor Matthew Browne.",
+  title: "Matthew Browne | CV and publications",
+  description: "The CV, publications, and research projects of Professor Matthew Browne.",
   icons: {
     icon: "/favicon.svg",
     shortcut: "/favicon.svg",

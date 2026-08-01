@@ -4,7 +4,7 @@ The public website for Matthew Browne, generated from the maintained CV and bibl
 
 ## Content model
 
-- `data/cv.json` is the current public export of the CV and bibliography.
+- `data/cv.json` is the current public export of the CV, bibliography, and research project record.
 - `data/writing.json` is reserved for selected Substack and other public writing.
 - `data/appearances.json` is reserved for podcasts, interviews, talks, and other recorded appearances.
 - `data/links.json` is reserved for the public link directory.
@@ -34,6 +34,6 @@ npm test
 npm run lint
 ```
 
-The first version contains a monochrome home page and a searchable publications page. The appearances database can be populated later without changing the CV structure.
+The site contains a compact biography/CV page plus searchable publications and research-project pages. The appearances database can be added later without changing the CV structure.
 
 The public site is deployed from the static export in `dist/client` by GitHub Pages. The repository's `main` branch is the source; the generated public data in `data/cv.json` is refreshed locally from the maintained CV before it is committed.

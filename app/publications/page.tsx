@@ -16,8 +16,8 @@ export default function PublicationsPage() {
       </header>
       <section className="page-hero shell">
         <p className="eyebrow">Publications</p>
-        <h1>The complete record.</h1>
-        <p className="lede">{cv.publications.length} publications, generated from the maintained CV bibliography.</p>
+        <h1>Publications</h1>
+        <p className="lede">{cv.publications.length} publications recorded in the maintained CV bibliography.</p>
       </section>
       <section className="publications-section shell">
         <PublicationBrowser publications={cv.publications} />
