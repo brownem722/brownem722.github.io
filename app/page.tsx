@@ -1,7 +1,7 @@
 import Link from "next/link";
 import { academicPublications, cv, episodes, writing } from "../lib/site-data";
 
-const funding = cv.summary.find((item) => item.label.toLowerCase().includes("fund")) ?? { label: "Research funding", value: "" };
+const funding = cv.summary.find((item) => item.label.toLowerCase() === "research funding") ?? { label: "Research funding", value: "" };
 const firstAuthorPattern = /^Browne,\s*M\./i;
 const featuredPublications = [...academicPublications]
   .sort((a, b) => (b.year ?? 0) - (a.year ?? 0) || Number(firstAuthorPattern.test(b.authors)) - Number(firstAuthorPattern.test(a.authors)) || a.title.localeCompare(b.title))
@@ -42,7 +42,7 @@ export default function Home() {
 
       <section className="record-summary shell" aria-label="Record summary">
         <div><strong>{cv.publications.length}</strong><span>Publications</span></div>
-        <div><strong>{cv.projects.length}</strong><span>Completed research projects</span></div>
+        <div><strong>{cv.projects.length}</strong><span>Major funded projects</span></div>
         <div><strong>{funding.value}</strong><span>{funding.label}</span></div>
         <div><strong>{episodes.length}</strong><span>Podcast episodes</span></div>
       </section>

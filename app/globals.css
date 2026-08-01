@@ -22,7 +22,7 @@ h2 { margin-bottom: 18px; font-size: clamp(1.8rem, 3vw, 2.8rem); line-height: 1.
 .portrait-frame { margin: 0; }
 .portrait-frame img { display: block; width: 100%; height: auto; filter: grayscale(1); }
 .portrait-frame figcaption { padding-top: 10px; color: var(--muted); font-size: .66rem; letter-spacing: .07em; text-transform: uppercase; }
-.record-summary { display: grid; grid-template-columns: repeat(3, 1fr); border-top: 1px solid var(--line); border-bottom: 1px solid var(--line); }
+.record-summary { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); border-top: 1px solid var(--line); border-bottom: 1px solid var(--line); }
 .record-summary div { display: flex; flex-direction: column; gap: 5px; padding: 17px 20px 17px 0; border-right: 1px solid var(--line); }
 .record-summary div:not(:first-child) { padding-left: 20px; }
 .record-summary div:last-child { border-right: 0; }
