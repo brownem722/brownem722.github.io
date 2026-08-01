@@ -24,10 +24,10 @@ h2 { margin-bottom: 18px; font-size: clamp(1.8rem, 3vw, 2.8rem); line-height: 1.
 .portrait-frame figcaption { padding-top: 10px; color: var(--muted); font-size: .66rem; letter-spacing: .07em; text-transform: uppercase; }
 .quote-section { padding: 28px 0 36px; }
 .quote-stack { position: relative; max-width: 820px; min-height: 132px; }
-.quote-cycle { position: absolute; inset: 0; margin: 0; opacity: 1; transition: opacity .65s ease; }
-.quote-cycle.is-fading { animation: quote-fade-out .65s ease forwards; }
+.quote-cycle { position: absolute; inset: 0; margin: 0; opacity: 1; transition: opacity 1.2s ease; }
+.quote-cycle.is-fading { animation: quote-fade-out 1.2s ease forwards; }
 .quote-incoming { opacity: 0; }
-.quote-incoming.is-visible { animation: quote-fade-in .65s ease forwards; }
+.quote-incoming.is-visible { animation: quote-fade-in 1.2s ease forwards; }
 .quote-cycle p { margin: 0 0 14px; color: #47453f; font: clamp(1.5rem, 3.2vw, 2.7rem)/1.12 Georgia, "Times New Roman", serif; letter-spacing: -.025em; }
 .quote-cycle cite { color: var(--ink); font-size: .75rem; font-style: normal; font-weight: 700; letter-spacing: .08em; text-transform: uppercase; }
 @keyframes quote-fade-out { from { opacity: 1; } to { opacity: 0; } }
