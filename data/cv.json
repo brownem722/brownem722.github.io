@@ -1,0 +1,2748 @@
+{
+  "name": "Matthew Browne",
+  "currentPosition": "Professor  ",
+  "institution": "Central Queensland University  ",
+  "qualifications": "B.Beh.Sc (Hons) PhD",
+  "email": "m.browne@cqu.edu.au",
+  "profile": "Professor Matthew Browne is an academic researcher at Central Queensland University with a publication and grant record spanning computational modelling, health research, gambling harm, public health measurement, and applied social science.",
+  "education": [
+    "Doctor of Philosophy (Ph.D.), Griffith University, Mt Gravatt, Brisbane, Australia, 2002.",
+    "Bachelor of Behavioural Science (B.Beh.Sc), first class honours, Griffith University, Mt Gravatt, Brisbane, Australia, 1998."
+  ],
+  "employment": [
+    "2011-present: Professor, School of Health, Human, & Social Sciences, Central Queensland University. Formerly Associate Professor, Senior Lecturer, and Lecturer.",
+    "2008-2010: Director, Arden Architectural.",
+    "2009-2010: Principle Research Fellow, CoastalCOMs.",
+    "2006-2008: Research Scientist, CSIRO.",
+    "2004-2006: Research Fellow, Griffith University.",
+    "2003-2004: Research Fellow, FhG GMD-JRL - Fraunhofer-Gesellschaft Japan Research Laboratory."
+  ],
+  "summary": [
+    {
+      "label": "Publications",
+      "value": "271"
+    },
+    {
+      "label": "Completed research projects",
+      "value": "65"
+    },
+    {
+      "label": "Total research funding",
+      "value": "$30,904,000"
+    }
+  ],
+  "publicEngagement": "Co-host of *Decoding the Gurus*, an educational podcast addressing science communication, critical information literacy, conspiracy theories, online disinformation, and public reasoning. As of May 2026, Captivate analytics report approximately **7.2 million all-time downloads**, with recent averages of **3,459 downloads per day**, **24,200 per week**, and **96,800 per 28 days**.",
+  "updated": "2026-08-01",
+  "publications": [
+    {
+      "id": "tulloch2026model",
+      "type": "article",
+      "title": "A Model-Based National Estimate of Gambling Harm in Australia: Integrating Person-Counting with Health-Related Quality of Life Data",
+      "authors": "Tulloch, C. and Browne, M.",
+      "year": 2026,
+      "venue": "Journal of Gambling Studies",
+      "doi": "10.1007/s10899-026-10529-9",
+      "url": "https://doi.org/10.1007/s10899-026-10529-9"
+    },
+    {
+      "id": "Rockloff2026DirectGamblingMarketing",
+      "type": "article",
+      "title": "Direct gambling marketing, direct harm: A randomised experiment",
+      "authors": "Rockloff, M. and Browne, M. and Hing, N. and Russell, A. M. T. and Rawat, V. and Newall, P.",
+      "year": 2026,
+      "venue": "Addiction",
+      "doi": "10.1111/add.70369",
+      "url": "https://doi.org/10.1111/add.70369"
+    },
+    {
+      "id": "browne2026six",
+      "type": "article",
+      "title": "From 'Six Others' to Edge Conservation: A Network Reconciliation of Gambling Harm to Others",
+      "authors": "Browne, M. and Tulloch, C. and Woodbright, M. D.",
+      "year": 2026,
+      "venue": "Journal of Gambling Studies",
+      "doi": "10.1007/s10899-026-10521-3",
+      "url": "https://doi.org/10.1007/s10899-026-10521-3"
+    },
+    {
+      "id": "browne2026gamblingharms",
+      "type": "article",
+      "title": "Gambling harms statistically mediate the association between risk-weighted gambling involvement and wellbeing in a population-representative sample",
+      "authors": "Browne, M. and Shannahan, T. and Platz, J. and Tulloch, C. and Russell, A. M. T. and Hing, N. and Rockloff, M. J.",
+      "year": 2026,
+      "venue": "Journal of Gambling Studies",
+      "doi": "10.1007/s10899-026-10524-0",
+      "url": "https://doi.org/10.1007/s10899-026-10524-0"
+    },
+    {
+      "id": "tulloch2026improving",
+      "type": "unpublished",
+      "title": "Improving the odds: How modifiable social factors influence gambling harm and recovery – a narrative review of longitudinal evidence",
+      "authors": "Tulloch, C. and Hing, N. and Browne, M. and Rockloff, M. and Russell, A. M. T.",
+      "year": 2026,
+      "venue": "",
+      "doi": "",
+      "url": ""
+    },
+    {
+      "id": "Hing2026Journeys",
+      "type": "article",
+      "title": "Journeys Towards Harm Among Young Adult Sports Bettors: Dynamic Influences From Childhood to Early Adulthood",
+      "authors": "Hing, N. and Rawat, V. and Lole, L. and Tulloch, C. and Dittman, C. and Rockloff, M. and Browne, M.",
+      "year": 2026,
+      "venue": "International Journal of Mental Health and Addiction",
+      "doi": "10.1007/s11469-025-01625-9",
+      "url": "https://doi.org/10.1007/s11469-025-01625-9"
+    },
+    {
+      "id": "goodwin2026mapping",
+      "type": "article",
+      "title": "Mapping the Aggregated Behavioural Risk Factors for Colorectal Cancer by Small Areas Across Australia",
+      "authors": "Goodwin, B. C. and Myers, L. S. and Perry, N. and Cameron, J. K. and Baade, P. and Browne, M. and Murawski, B. and Collins, L. G.",
+      "year": 2026,
+      "venue": "Australian Journal of Rural Health",
+      "doi": "10.1111/ajr.70221",
+      "url": "https://doi.org/10.1111/ajr.70221"
+    },
+    {
+      "id": "tulloch2026synthesising",
+      "type": "article",
+      "title": "Synthesising the available evidence to identify the health impact of gambling harm and gambling problems",
+      "authors": "Tulloch, C. and Browne, M. and Russell, A. M. T. and Rockloff, M.",
+      "year": 2026,
+      "venue": "Addictive Behaviors",
+      "doi": "10.1016/j.addbeh.2026.108612",
+      "url": "https://doi.org/10.1016/j.addbeh.2026.108612"
+    },
+    {
+      "id": "browne2025temporal",
+      "type": "article",
+      "title": "Temporal Asymmetry in Cross-Lagged Panel Models: Improved Causal Inference from Longitudinal Data",
+      "authors": "Browne, M. and Woodbright, M. D. and Goodwin, B. and Russell, A. M. T.",
+      "year": 2026,
+      "venue": "Structural Equation Modeling: A Multidisciplinary Journal",
+      "doi": "10.1080/10705511.2025.2569468",
+      "url": "https://doi.org/10.1080/10705511.2025.2569468"
+    },
+    {
+      "id": "hing2025wild",
+      "type": "article",
+      "title": "The ‘Wild West’ of Wagering Affiliate Marketing and Implications for Gambling Harm",
+      "authors": "Hing, N. and Rockloff, M. and Browne, M. and Russell, A. M. T. and Rawat, V. and Thorne, H. and Lole, L. and Sproston, K. and Hodge, N.",
+      "year": 2026,
+      "venue": "International Journal of Mental Health and Addiction",
+      "doi": "10.1007/s11469-024-01422-w",
+      "url": "https://doi.org/10.1007/s11469-024-01422-w"
+    },
+    {
+      "id": "browne2025gambling",
+      "type": "article",
+      "title": "The 10-item and 20-item gambling harms scale for affected others (GHS-10-AO, GHS-20-AO): Benchmarked to health utility using propensity weighting and control for comorbidities",
+      "authors": "Browne, M. and Tulloch, C. and Rockloff, M. and Hing, N. and Russell, A. M. T. and Li, E. and Rawat, V. and Dellosa, G. and Newall, P.",
+      "year": 2026,
+      "venue": "Addictive Behaviors",
+      "doi": "10.1016/j.addbeh.2025.108513",
+      "url": "https://doi.org/10.1016/j.addbeh.2025.108513"
+    },
+    {
+      "id": "hing2026casino",
+      "type": "techreport",
+      "title": "The casino gambling environment study",
+      "authors": "Hing, N. and Dellosa, G. and Rockloff, M. and Browne, M. and Hodge, N. and Wong, P. and Sproston, K.",
+      "year": 2026,
+      "venue": "",
+      "doi": "",
+      "url": "https://www.justice.vic.gov.au/safer-communities/gambling/the-casino-gambling-environment-study"
+    },
+    {
+      "id": "dittman2026role",
+      "type": "article",
+      "title": "The role of parents in adolescent gambling participation and gambling problems",
+      "authors": "Dittman, C. K. and Hunter, M. and Gossner, M. and Hing, N. and Rockloff, M. and Browne, M. and Lole, L. and Russell, A. M. T.",
+      "year": 2026,
+      "venue": "Journal of Gambling Studies",
+      "doi": "10.1007/s10899-026-10520-4",
+      "url": "https://doi.org/10.1007/s10899-026-10520-4"
+    },
+    {
+      "id": "browne2026weighing",
+      "type": "article",
+      "title": "Weighing the harm: Direct elicitation of gambling harm severity through expert evaluation of narrative accounts",
+      "authors": "Browne, M. and Rawat, V. and Tulloch, C. and Newall, P. and Rockloff, M.",
+      "year": 2026,
+      "venue": "Journal of Gambling Studies",
+      "doi": "",
+      "url": ""
+    },
+    {
+      "id": "spence2025it",
+      "type": "article",
+      "title": "“It Was Never-Ending…”: Investigating Gambling Harm Reported by Affected Others",
+      "authors": "Spence, K. and Dowling, N. A. and Browne, M. and Rockloff, M. and Merkouris, S. S. and Dias, S. E.",
+      "year": 2025,
+      "venue": "Journal of Gambling Studies",
+      "doi": "10.1007/s10899-025-10388-w",
+      "url": "https://doi.org/10.1007/s10899-025-10388-w"
+    },
+    {
+      "id": "rockloff2025act",
+      "type": "techreport",
+      "title": "2024 ACT Gambling Survey",
+      "authors": "Rockloff, M. and Russell, A. M. T. and Browne, M. and Hing, N.",
+      "year": 2025,
+      "venue": "",
+      "doi": "",
+      "url": "https://www.gamblingandracing.act.gov.au/__data/assets/pdf_file/0012/2861796/2024-ACT-Gambling-Survey.pdf"
+    },
+    {
+      "id": "collard2025holistic",
+      "type": "unpublished",
+      "title": "A Holistic Framework of Gambling Harms and Recovery, Derived from a Rapid Evidence Assessment and Qualitative Interviews with People who Gamble and Affected Others",
+      "authors": "Collard, S. and Wheaton, J. and Davies, S. and Statton, R. and Martin, I. and Pinto, C. and Browne, M. and Conway, M. and Walsh, C. and Dobson, N. and Close, J.",
+      "year": 2025,
+      "venue": "",
+      "doi": "10.31234/osf.io/yudq6_v1",
+      "url": "https://doi.org/10.31234/osf.io/yudq6_v1"
+    },
+    {
+      "id": "dowling2025affected",
+      "type": "article",
+      "title": "Affected Other Prevalence and Profiles: Findings from a Cross-Sectional Australian Population-Representative Gambling Study",
+      "authors": "Dowling, N. A. and Spence, K. and Browne, M. and Rockloff, M. and Merkouris, S. S.",
+      "year": 2025,
+      "venue": "Journal of Gambling Studies",
+      "doi": "10.1007/s10899-025-10377-z",
+      "url": "https://doi.org/10.1007/s10899-025-10377-z"
+    },
+    {
+      "id": "wilcoxson2025beliefs",
+      "type": "article",
+      "title": "Beliefs about deception in Australia",
+      "authors": "Wilcoxson, R. and Denault, V. and Browne, M. and Brooks, N. and Duckett, P.",
+      "year": 2025,
+      "venue": "The International Journal of Evidence \\& Proof",
+      "doi": "10.1177/13657127251326782",
+      "url": "https://doi.org/10.1177/13657127251326782"
+    },
+    {
+      "id": "close2025development",
+      "type": "unpublished",
+      "title": "Development and Validation of the Gambling Harms Severity Index (GHSI-10) and the GHSI for Affected Others (GHSI-AO-10): Measurement Instruments for People Experiencing Gambling Related Harms and Affected Others",
+      "authors": "Close, J. and Statton, R. and Collard, S. and Wheaton, J. and Davies, S. and Martin, I. and Pinto, C. and Conway, M. and Walsh, C. and Browne, M.",
+      "year": 2025,
+      "venue": "",
+      "doi": "10.31234/osf.io/w8fb6_v1",
+      "url": "https://doi.org/10.31234/osf.io/w8fb6_v1"
+    },
+    {
+      "id": "newall2024does",
+      "type": "article",
+      "title": "Does the lived experience of gambling accord with quantitative self-report scores of gambling-related harm?",
+      "authors": "Newall, P. and Rawat, V. and Hing, N. and Browne, M. and Russell, A. M. T. and Li, E. and Rockloff, M. and Dellosa, G.",
+      "year": 2025,
+      "venue": "Addiction Research \\& Theory",
+      "doi": "10.1080/16066359.2024.2365177",
+      "url": "https://doi.org/10.1080/16066359.2024.2365177"
+    },
+    {
+      "id": "wilcoxson2025eeg",
+      "type": "article",
+      "title": "EEG Lie Detection Evidence and Potential Australian Jurors",
+      "authors": "Wilcoxson, R. and Browne, M. and Brooks, N. and Duckett, P.",
+      "year": 2025,
+      "venue": "Journal of Police and Criminal Psychology",
+      "doi": "10.1007/s11896-024-09670-1",
+      "url": "https://doi.org/10.1007/s11896-024-09670-1"
+    },
+    {
+      "id": "hing2025quirky",
+      "type": "article",
+      "title": "From ‘Quirky and Cool’ to ‘Addicted’: Lived Experiences of Sports Betting Harm in Early Adulthood",
+      "authors": "Hing, N. and Rawat, V. and Lole, L. and Tulloch, C. and Dittman, C. K. and Rockloff, M. and Browne, M.",
+      "year": 2025,
+      "venue": "International Journal of Mental Health and Addiction",
+      "doi": "10.1007/s11469-025-01612-0",
+      "url": "https://doi.org/10.1007/s11469-025-01612-0"
+    },
+    {
+      "id": "browne2025crucial",
+      "type": "article",
+      "title": "It is Crucial to Ground Gambling Harm as an Impact to Health-Related Quality of Life",
+      "authors": "Browne, M. and Tulloch, C. and Rockloff, M.",
+      "year": 2025,
+      "venue": "Current Addiction Reports",
+      "doi": "10.1007/s40429-025-00647-6",
+      "url": "https://doi.org/10.1007/s40429-025-00647-6"
+    },
+    {
+      "id": "hing2025journeys",
+      "type": "techreport",
+      "title": "Journeys towards harm: Gambling and gambling harm among young online sports bettors, from childhood to early adulthood",
+      "authors": "Hing, N. and Rawat, V. and Lole, L. and Tulloch, C. and Dittman, C. and Rockloff, M. and Browne, M.",
+      "year": 2025,
+      "venue": "",
+      "doi": "",
+      "url": "https://www.justice.vic.gov.au/safer-communities/gambling/journeys-towards-harm-gambling-and-gambling-harm-among-young-online"
+    },
+    {
+      "id": "thorne2025laboratory",
+      "type": "article",
+      "title": "Laboratory-induced extended wakefulness impairs mood and vigilance but not gambling behaviour in regular gamblers",
+      "authors": "Thorne, H. B. and Rockloff, M. and Vincent, G. E. and Browne, M. and Ferguson, S. A.",
+      "year": 2025,
+      "venue": "Scientific Reports",
+      "doi": "10.1038/s41598-025-02027-6",
+      "url": "https://doi.org/10.1038/s41598-025-02027-6"
+    },
+    {
+      "id": "hing2025nsw",
+      "type": "techreport",
+      "title": "NSW Longitudinal Youth Gambling Study",
+      "authors": "Hing, N. and Lole, L. and Dellosa, G. and Tulloch, C. and Browne, M. and Russell, A. M. T. and Rockloff, M.",
+      "year": 2025,
+      "venue": "",
+      "doi": "",
+      "url": "https://www.gambleaware.nsw.gov.au/resources-and-education/check-out-our-research/published-research/nsw-longitudinal-youth-gambling-study-2024"
+    },
+    {
+      "id": "hing2025self",
+      "type": "article",
+      "title": "Self-Regulatory Strategies Reduce Gambling Spend and Harm in a Randomised Controlled Trial of Electronic Gaming Machine Players",
+      "authors": "Hing, N. and Browne, M. and Tulloch, C. and Russell, A. M. T. and Rockloff, M.",
+      "year": 2025,
+      "venue": "International Journal of Mental Health and Addiction",
+      "doi": "10.1007/s11469-024-01308-x",
+      "url": "https://doi.org/10.1007/s11469-024-01308-x"
+    },
+    {
+      "id": "rigney2025sleep",
+      "type": "article",
+      "title": "Sleep Timing Across the Lifespan of Australian Adults",
+      "authors": "Rigney, G. and Browne, M. and Sargent, C. and Lastella, M.",
+      "year": 2025,
+      "venue": "Clocks \\& Sleep",
+      "doi": "10.3390/clockssleep7010016",
+      "url": "https://doi.org/10.3390/clockssleep7010016"
+    },
+    {
+      "id": "dittman2025sure",
+      "type": "article",
+      "title": "Sure they Gamble – But At Least They’re Not Being Bullied! A Survey of Parental Perspectives of Adolescent Gambling",
+      "authors": "Dittman, C. K. and Gossner, M. and Browne, M. and Hing, N. and Rockloff, M. and Russell, A. M. T. and Lole, L.",
+      "year": 2025,
+      "venue": "International Journal of Mental Health and Addiction",
+      "doi": "10.1007/s11469-025-01444-y",
+      "url": "https://doi.org/10.1007/s11469-025-01444-y"
+    },
+    {
+      "id": "hayes2024active",
+      "type": "article",
+      "title": "The active foundations of the illusion of control: an experimental test of the Henslin effect",
+      "authors": "Hayes, T. and Walasek, L. and Browne, M. and Newall, P.",
+      "year": 2025,
+      "venue": "Addiction Research \\& Theory",
+      "doi": "10.1080/16066359.2024.2415590",
+      "url": "https://doi.org/10.1080/16066359.2024.2415590"
+    },
+    {
+      "id": "hing2025convergence",
+      "type": "techreport",
+      "title": "The convergence of simulated gambling, monetary gambling and gambling harm: An integrative literature review of stimulus and suppression pathways",
+      "authors": "Hing, N. and Gossner, M. and Lole, L. and Rockloff, M. and Browne, M.",
+      "year": 2025,
+      "venue": "",
+      "doi": "",
+      "url": "https://www.health.govt.nz/publications/the-convergence-of-simulated-gambling-monetary-gambling-and-gambling-harm"
+    },
+    {
+      "id": "hing2025high",
+      "type": "article",
+      "title": "The high cost of direct marketing from wagering operators, tipsters and affiliates: An ecological momentary assessment of how wagering promotions drive betting, expenditure, and harm",
+      "authors": "Hing, N. and Browne, M. and Russell, A. M. T. and Rockloff, M. and Rawat, V.",
+      "year": 2025,
+      "venue": "Journal of Behavioral Addictions",
+      "doi": "10.1556/2006.2025.00067",
+      "url": "https://doi.org/10.1556/2006.2025.00067"
+    },
+    {
+      "id": "tulloch2025roles",
+      "type": "article",
+      "title": "The roles of coping style and social support in the experience of harm and distress among people affected by another person's gambling",
+      "authors": "Tulloch, C. and Browne, M. and Rockloff, M. and Hing, N. and Hilbrecht, M.",
+      "year": 2025,
+      "venue": "Addictive Behaviors",
+      "doi": "10.1016/j.addbeh.2024.108236",
+      "url": "https://doi.org/10.1016/j.addbeh.2024.108236"
+    },
+    {
+      "id": "browne2025social",
+      "type": "techreport",
+      "title": "The social costs of gambling to Victoria, 2023",
+      "authors": "Browne, M. and Tulloch, C. and Rawat, V. and Dellosa, G. and Russell, A. M. T. and Hing, N. and Rockloff, M. and Doran, C.",
+      "year": 2025,
+      "venue": "",
+      "doi": "",
+      "url": "https://www.justice.vic.gov.au/safer-communities/gambling/social-costs-of-gambling-to-victoria-2023"
+    },
+    {
+      "id": "hing2024immediate",
+      "type": "article",
+      "title": "‘Immediate access… everywhere you go’: A grounded theory study of how smartphone betting can facilitate harmful sports betting behaviours amongst young adults",
+      "authors": "Hing, N. and Thorne, H. and Russell, A. M. T. and Newall, P. W. S. and Lole, L. and Rockloff, M. and Browne, M. and Greer, N. and Tulloch, C.",
+      "year": 2024,
+      "venue": "International Journal of Mental Health and Addiction",
+      "doi": "10.1007/s11469-022-00933-8",
+      "url": "https://doi.org/10.1007/s11469-022-00933-8"
+    },
+    {
+      "id": "newall2024chances",
+      "type": "article",
+      "title": "`Chances are you're about to lose': new independent Australian safer gambling messages tested in UK and USA bettor samples",
+      "authors": "Newall, P. and Torrance, J. and Russell, A. M. T. and Rockloff, M. and Hing, N. and Browne, M.",
+      "year": 2024,
+      "venue": "Addiction Research \\& Theory",
+      "doi": "10.1080/16066359.2023.2282545",
+      "url": "https://doi.org/10.1080/16066359.2023.2282545"
+    },
+    {
+      "id": "newall2024no",
+      "type": "article",
+      "title": "`No evidence of harm' implies no evidence of safety: Framing the lack of causal evidence in gambling advertising research",
+      "authors": "Newall, P. and Allami, Y. and Andrade, M. and Ayton, P. and Baker-Frampton, R. and Bennett, D. and Browne, M. and others",
+      "year": 2024,
+      "venue": "Addiction",
+      "doi": "10.1111/add.16369",
+      "url": "https://doi.org/10.1111/add.16369"
+    },
+    {
+      "id": "hing2024direct",
+      "type": "techreport",
+      "title": "Direct and affiliate wagering marketing and gambling-related harm",
+      "authors": "Hing, N. and Rockloff, M. and Browne, M. and Russell, A. M. T. and Rawat, V. and Thorne, H. and Lole, L. and Sproston, K. and Hodge, N. and Sadler, K. and Sellers, L.",
+      "year": 2024,
+      "venue": "",
+      "doi": "10.25946/32051985.v1",
+      "url": "https://www.gamblingresearch.org.au/sites/default/files/2024-08/gra_direct_affiliate_wagering_marketing_final_report_0.pdf"
+    },
+    {
+      "id": "hing2024feature",
+      "type": "article",
+      "title": "Feature preferences of sports betting platforms: A discrete choice experiment shows why young bettors prefer smartphones",
+      "authors": "Hing, N. and Russell, A. M. T. and Tulloch, C. and Lole, L. and Rockloff, M. and Browne, M. and Thorne, H. and Newall, P.",
+      "year": 2024,
+      "venue": "Journal of Behavioral Addictions",
+      "doi": "10.1556/2006.2023.00073",
+      "url": "https://doi.org/10.1556/2006.2023.00073"
+    },
+    {
+      "id": "tulloch2024harm",
+      "type": "article",
+      "title": "Harm-to-self from gambling: A national study of Australian adults",
+      "authors": "Tulloch, C. and Hing, N. and Browne, M. and Russell, A. M. T. and Rockloff, M. and Rawat, V.",
+      "year": 2024,
+      "venue": "Journal of Behavioral Addictions",
+      "doi": "10.1556/2006.2024.00025",
+      "url": "https://doi.org/10.1556/2006.2024.00025"
+    },
+    {
+      "id": "rockloff2024illusions",
+      "type": "article",
+      "title": "Illusions of control: A quasi-experiment comparing skill-based and traditional slot machines",
+      "authors": "Rockloff, M. and Russell, A. M. T. and Hing, N. and Browne, M. and Thorne, H. and Newall, P. and Visintin, T.",
+      "year": 2024,
+      "venue": "Journal of Behavioral Addictions",
+      "doi": "10.1556/2006.2024.00057",
+      "url": "https://doi.org/10.1556/2006.2024.00057"
+    },
+    {
+      "id": "lelagadec2024indicators",
+      "type": "article",
+      "title": "Indicators of patient deterioration in poorly resourced private hospitals: Which vital sign to watch? A retrospective case–control study",
+      "authors": "Le Lagadec, M. D. and Dwyer, T. and Browne, M.",
+      "year": 2024,
+      "venue": "Australian Critical Care",
+      "doi": "10.1016/j.aucc.2023.05.006",
+      "url": "https://doi.org/10.1016/j.aucc.2023.05.006"
+    },
+    {
+      "id": "russell2025mapping",
+      "type": "unpublished",
+      "title": "Mapping journeys into and out of gambling harm: Assessing modifiable predictors of onset, maintenance, cessation and relapse",
+      "authors": "Russell, A. M. T. and Tulloch, C. and Browne, M. and Hing, N. and Rockloff, M.",
+      "year": 2024,
+      "venue": "",
+      "doi": "",
+      "url": ""
+    },
+    {
+      "id": "hwang2024national",
+      "type": "article",
+      "title": "National burden of gambling in Japan: an estimation from an online-based cross-sectional investigation and national epidemiological survey",
+      "authors": "Hwang, C. and So, R. and Hashimoto, N. and Baba, T. and Matsushita, S. and Browne, M. and Murai, T. and Watanabe, N. and Takiguchi, N.",
+      "year": 2024,
+      "venue": "BMC Public Health",
+      "doi": "10.1186/s12889-024-19197-z",
+      "url": "https://doi.org/10.1186/s12889-024-19197-z"
+    },
+    {
+      "id": "browne2024nsw",
+      "type": "techreport",
+      "title": "NSW Gambling Survey 2024",
+      "authors": "Browne, M. and Russell, A. M. T. and Dellosa, G. and Rockloff, M. and Hing, N.",
+      "year": 2024,
+      "venue": "",
+      "doi": "10.25946/29898023.v1",
+      "url": "https://doi.org/10.25946/29898023.v1"
+    },
+    {
+      "id": "woodbright2024optimised",
+      "type": "inproceedings",
+      "title": "Optimised Hybrid-Model Selection for the Autonomous Relevance Technique Explainable Framework",
+      "authors": "Woodbright, M. D. and Morshed, A. and Browne, M. and Ray, B. and Moore, S.",
+      "year": 2024,
+      "venue": "2024 International Conference on Data Science and Its Applications (ICoDSA)",
+      "doi": "10.1109/ICoDSA62899.2024.10651906",
+      "url": "https://doi.org/10.1109/ICoDSA62899.2024.10651906"
+    },
+    {
+      "id": "williams2024revising",
+      "type": "article",
+      "title": "Revising the core knowledge confusions scale: a measure of logical error associated with cognitive and personality traits",
+      "authors": "Williams, B. M. and Browne, M. and Rockloff, M. and Stuart, G.",
+      "year": 2024,
+      "venue": "Current Psychology",
+      "doi": "10.1007/s12144-024-05611-7",
+      "url": "https://doi.org/10.1007/s12144-024-05611-7"
+    },
+    {
+      "id": "newall2024skill",
+      "type": "article",
+      "title": "Skill-based electronic gaming machines: Features that mimic video gaming, features that could contribute to harm, and their potential attraction to different groups",
+      "authors": "Newall, P. and Rockloff, M. and Thorne, H. and Russell, A. M. T. and Visintin, T. and Hing, N. and Browne, M. and Dellosa, G.",
+      "year": 2024,
+      "venue": "Journal of Gambling Studies",
+      "doi": "10.1007/s10899-024-10296-5",
+      "url": "https://doi.org/10.1007/s10899-024-10296-5"
+    },
+    {
+      "id": "rockloff2024testing",
+      "type": "article",
+      "title": "Testing the effectiveness of different safer gambling messages for sports and race betting: A five-week experiment",
+      "authors": "Rockloff, M. and Browne, M. and Russell, A. M. T. and Newall, P. and Hing, N. and Armstrong, T.",
+      "year": 2024,
+      "venue": "Addictive Behaviors",
+      "doi": "10.1016/j.addbeh.2023.107893",
+      "url": "https://doi.org/10.1016/j.addbeh.2023.107893"
+    },
+    {
+      "id": "hing2024covid",
+      "type": "article",
+      "title": "The COVID-19 lockdown experience suggests that restricting the supply of gambling can reduce gambling problems: An Australian prospective study",
+      "authors": "Hing, N. and Russell, A. M. T. and Rawat, V. and Bryden, G. M. and Browne, M. and Rockloff, M. and Thorne, H. B. and Newall, P. and Dowling, N. A. and Merkouris, S. S. and Stevens, M.",
+      "year": 2024,
+      "venue": "Journal of Behavioral Addictions",
+      "doi": "10.1556/2006.2023.00085",
+      "url": "https://doi.org/10.1556/2006.2023.00085"
+    },
+    {
+      "id": "dellosa2024influence",
+      "type": "article",
+      "title": "The influence of age on gambling problems worldwide: A systematic review and meta-analysis of risk among younger, middle-aged, and older adults",
+      "authors": "Dellosa, G. and Browne, M.",
+      "year": 2024,
+      "venue": "Journal of Behavioral Addictions",
+      "doi": "10.1556/2006.2024.00051",
+      "url": "https://doi.org/10.1556/2006.2024.00051"
+    },
+    {
+      "id": "woodbright2024toward",
+      "type": "article",
+      "title": "Toward Transparent AI for Neurological Disorders: A Feature Extraction and Relevance Analysis Framework",
+      "authors": "Woodbright, M. D. and Morshed, A. and Browne, M. and Ray, B. and Moore, S.",
+      "year": 2024,
+      "venue": "IEEE Access",
+      "doi": "10.1109/ACCESS.2024.3375877",
+      "url": "https://doi.org/10.1109/ACCESS.2024.3375877"
+    },
+    {
+      "id": "hing2023bad",
+      "type": "article",
+      "title": "A bad bet for sports fans: The case for ending the \"gamblification\" of sport",
+      "authors": "Hing, N. and Rockloff, M. and Browne, M.",
+      "year": 2023,
+      "venue": "Sport Management Review",
+      "doi": "10.1080/14413523.2023.2260079",
+      "url": "https://doi.org/10.1080/14413523.2023.2260079"
+    },
+    {
+      "id": "hing2023adoption",
+      "type": "article",
+      "title": "Adoption, Adaptation or Exposure? Novel Digital Gambling Activities and Links with Gambling Problems",
+      "authors": "Hing, N. and Rockloff, M. and Browne, M.",
+      "year": 2023,
+      "venue": "Current Addiction Reports",
+      "doi": "10.1007/s40429-023-00473-8",
+      "url": "https://doi.org/10.1007/s40429-023-00473-8"
+    },
+    {
+      "id": "hing2023catalyst",
+      "type": "techreport",
+      "title": "Catalyst or circuit-breaker? A prospective study to assess COVID-19’s effects on relationships between gambling availability, gambling and harmful gambling, and social, psychological and financial wellbeing",
+      "authors": "Hing, N. and Russell, A. M. T. and Rockloff, M. and Browne, M. and Rawat, V. and Bryden, G. and Greer, N. and Thorne, H. and Newall, P. and Dowling, N. A. and Merkouris, S. S.",
+      "year": 2023,
+      "venue": "",
+      "doi": "",
+      "url": "https://responsiblegambling.vic.gov.au/resources/publications/catalyst-or-circuit-breaker-a-prospective-study-to-assess-covid-19s-effects-on-relationships-between-gambling-availability-gambling-and-harmful-gambling-and-social-psychological-and-financial-wellbeing-1303/"
+    },
+    {
+      "id": "martin2023comparing",
+      "type": "article",
+      "title": "Comparing outcomes of an innovative interprofessional student placement model to standard placement models in rural healthcare settings",
+      "authors": "Martin, P. and Ford, M. and Hill, A. and Argus, G. and Graham, N. and Browne, M.",
+      "year": 2023,
+      "venue": "Journal of Interprofessional Care",
+      "doi": "10.1080/13561820.2023.2166906",
+      "url": "https://doi.org/10.1080/13561820.2023.2166906"
+    },
+    {
+      "id": "newall2023designing",
+      "type": "article",
+      "title": "Designing Improved Safer Gambling Messages for Race and Sports Betting: What can be Learned from Other Gambling Formats and the Broader Public Health Literature?",
+      "authors": "Newall, P. W. S. and Rockloff, M. and Hing, N. and Thorne, H. and Russell, A. M. T. and Browne, M. and Armstrong, T.",
+      "year": 2023,
+      "venue": "Journal of Gambling Studies",
+      "doi": "10.1007/s10899-023-10203-4",
+      "url": "https://doi.org/10.1007/s10899-023-10203-4"
+    },
+    {
+      "id": "russell2023electronic",
+      "type": "article",
+      "title": "Electronic gaming machine accessibility and gambling problems: A natural policy experiment",
+      "authors": "Russell, A. M. T. and Browne, M. and Hing, N. and Rockloff, M. and Newall, P. and Dowling, N. A. and Merkouris, S. S. and King, D. L. and Stevens, M. and Salonen, A. H. and Breen, H. and Greer, N. and Thorne, H. B. and Visintin, T. and Rawat, V. and Woo, L.",
+      "year": 2023,
+      "venue": "Journal of Behavioral Addictions",
+      "doi": "10.1556/2006.2023.00044",
+      "url": "https://doi.org/10.1556/2006.2023.00044"
+    },
+    {
+      "id": "russell2023gambling",
+      "type": "article",
+      "title": "Gambling advertising on Twitter before, during and after the initial Australian COVID-19 lockdown",
+      "authors": "Russell, A. M. T. and Hing, N. and Bryden, G. M. and Thorne, H. and Rockloff, M. J. and Browne, M.",
+      "year": 2023,
+      "venue": "Journal of Behavioral Addictions",
+      "doi": "10.1556/2006.2023.00020",
+      "url": "https://doi.org/10.1556/2006.2023.00020"
+    },
+    {
+      "id": "newall2023how",
+      "type": "article",
+      "title": "How do academics, regulators, and treatment providers think that safer gambling messages can be improved?",
+      "authors": "Newall, P. W. S. and Rockloff, M. and Hing, N. and Browne, M. and Thorne, H. and Russell, A. M. T. and Armstrong, T.",
+      "year": 2023,
+      "venue": "Addiction Research \\& Theory",
+      "doi": "10.1080/16066359.2022.2148663",
+      "url": "https://doi.org/10.1080/16066359.2022.2148663"
+    },
+    {
+      "id": "tulloch2023how",
+      "type": "article",
+      "title": "How gambling harms others: The influence of relationship-type and closeness on harm, health, and wellbeing",
+      "authors": "Tulloch, C. and Browne, M. and Hing, N. and Rockloff, M. and Hilbrecht, M.",
+      "year": 2023,
+      "venue": "Journal of Behavioral Addictions",
+      "doi": "10.1556/2006.2023.00036",
+      "url": "https://doi.org/10.1556/2006.2023.00036"
+    },
+    {
+      "id": "tulloch2023how_b",
+      "type": "article",
+      "title": "How gambling problems relate to health and wellbeing in Australian households: Evidence from the Household Income and Labour Dynamics of Australia Survey",
+      "authors": "Tulloch, C. and Hing, N. and Browne, M. and Rockloff, M.",
+      "year": 2023,
+      "venue": "Addictive Behaviors",
+      "doi": "10.1016/j.addbeh.2022.107538",
+      "url": "https://doi.org/10.1016/j.addbeh.2022.107538"
+    },
+    {
+      "id": "greer2023motivations",
+      "type": "article",
+      "title": "Motivations for Esports Betting and Skin Gambling and Their Association with Gambling Frequency, Problems, and Harm",
+      "authors": "Greer, N. and Hing, N. and Rockloff, M. and Browne, M. and King, D. L.",
+      "year": 2023,
+      "venue": "Journal of Gambling Studies",
+      "doi": "10.1007/s10899-022-10137-3",
+      "url": "https://doi.org/10.1007/s10899-022-10137-3"
+    },
+    {
+      "id": "hing2023not",
+      "type": "article",
+      "title": "Not all games are created equal: Adolescents who play and spend money on simulated gambling games show greater risk for gaming disorder",
+      "authors": "Hing, N. and Russell, A. M. T. and King, D. L. and Rockloff, M. and Browne, M. and Newall, P. and Greer, N.",
+      "year": 2023,
+      "venue": "Addictive Behaviors",
+      "doi": "10.1016/j.addbeh.2022.107525",
+      "url": "https://doi.org/10.1016/j.addbeh.2022.107525"
+    },
+    {
+      "id": "flenady2023queensland",
+      "type": "article",
+      "title": "Queensland Adult Deterioration Detection System observation chart diagnostic accuracy in detecting patient deterioration: A retrospective case–control study",
+      "authors": "Flenady, T. and Dwyer, T. and Signal, T. and Murray-Boyle, C. and Le Lagadec, D. and Kahl, J. and Browne, M.",
+      "year": 2023,
+      "venue": "Collegian",
+      "doi": "10.1016/j.colegn.2023.05.006",
+      "url": "https://doi.org/10.1016/j.colegn.2023.05.006"
+    },
+    {
+      "id": "hing2023situational",
+      "type": "article",
+      "title": "Situational features of smartphone betting are linked to sports betting harm: An ecological momentary assessment study",
+      "authors": "Hing, N. and Browne, M. and Rockloff, M. and Russell, A. M. T. and Tulloch, C. and Lole, L. and Thorne, H. and Newall, P.",
+      "year": 2023,
+      "venue": "Journal of Behavioral Addictions",
+      "doi": "10.1556/2006.2023.00065",
+      "url": "https://doi.org/10.1556/2006.2023.00065"
+    },
+    {
+      "id": "rockloff2024skill",
+      "type": "techreport",
+      "title": "Skill-based Gambling in Australia",
+      "authors": "Rockloff, M. and Thorne, H. and Russell, A. M. T. and Newall, P. and Visintin, T. and Hing, N. and Browne, M. and John Luan, R.",
+      "year": 2023,
+      "venue": "",
+      "doi": "10.25946/27023776",
+      "url": "https://doi.org/10.25946/27023776"
+    },
+    {
+      "id": "greer2023skin",
+      "type": "article",
+      "title": "Skin Gambling Contributes to Gambling Problems and Harm After Controlling for Other Forms of Traditional Gambling",
+      "authors": "Greer, N. and Rockloff, M. and Hing, N. and Browne, M. and King, D. L.",
+      "year": 2023,
+      "venue": "Journal of Gambling Studies",
+      "doi": "10.1007/s10899-022-10111-z",
+      "url": "https://doi.org/10.1007/s10899-022-10111-z"
+    },
+    {
+      "id": "newall2022statistical",
+      "type": "article",
+      "title": "Statistical risk warnings in gambling",
+      "authors": "Newall, P. W. S. and Walasek, L. and Hassanniakalager, A. and Russell, A. M. T. and Ludvig, E. A. and Browne, M.",
+      "year": 2023,
+      "venue": "Behavioural Public Policy",
+      "doi": "10.1017/bpp.2020.59",
+      "url": "https://doi.org/10.1017/bpp.2020.59"
+    },
+    {
+      "id": "tulloch2023trajectories",
+      "type": "article",
+      "title": "Trajectories of wellbeing in people who live with gamblers experiencing a gambling problem: An 18-year longitudinal analysis of the Household, Income and Labour Dynamics in Australia (HILDA) survey",
+      "authors": "Tulloch, C. and Browne, M. and Hing, N. and Rockloff, M. and Hilbrecht, M.",
+      "year": 2023,
+      "venue": "PLOS ONE",
+      "doi": "10.1371/journal.pone.0281099",
+      "url": "https://doi.org/10.1371/journal.pone.0281099"
+    },
+    {
+      "id": "browne2023unambiguous",
+      "type": "article",
+      "title": "Unambiguous evidence that over half of gambling problems in Australia are caused by electronic gambling machines: Results from a large-scale composite population study",
+      "authors": "Browne, M. and Delfabbro, P. and Thorne, H. B. and Tulloch, C. and Rockloff, M. J. and Hing, N. and Dowling, N. A. and Stevens, M.",
+      "year": 2023,
+      "venue": "Journal of Behavioral Addictions",
+      "doi": "10.1556/2006.2022.00083",
+      "url": "https://doi.org/10.1556/2006.2022.00083"
+    },
+    {
+      "id": "syvertsen2023validation",
+      "type": "article",
+      "title": "Validation of the 7-Item Domain-General Gambling Harm Scale (DGHS-7)",
+      "authors": "Syvertsen, A. and Kristensen, J. H. and Browne, M. and Li, E. and Pallesen, S.",
+      "year": 2023,
+      "venue": "Addictive Behaviors Reports",
+      "doi": "10.1016/j.abrep.2023.100499",
+      "url": "https://doi.org/10.1016/j.abrep.2023.100499"
+    },
+    {
+      "id": "hing2022adolescent",
+      "type": "article",
+      "title": "Adolescent betting on esports using cash and skins: Links with gaming, monetary gambling, and problematic gambling",
+      "authors": "Hing, N. and Lole, L. and Russell, A. M. T. and Rockloff, M. and King, D. L. and Browne, M. and Newall, P. and Greer, N.",
+      "year": 2022,
+      "venue": "PLOS ONE",
+      "doi": "10.1371/journal.pone.0266571",
+      "url": "https://doi.org/10.1371/journal.pone.0266571"
+    },
+    {
+      "id": "hing2022adolescents",
+      "type": "article",
+      "title": "Adolescents Who Play and Spend Money in Simulated Gambling Games Are at Heightened Risk of Gambling Problems",
+      "authors": "Hing, N. and Dittman, C. K. and Russell, A. M. T. and King, D. L. and Rockloff, M. and Browne, M. and Newall, P. and Greer, N.",
+      "year": 2022,
+      "venue": "International Journal of Environmental Research and Public Health",
+      "doi": "10.3390/ijerph191710652",
+      "url": "https://doi.org/10.3390/ijerph191710652"
+    },
+    {
+      "id": "russell2022samples",
+      "type": "article",
+      "title": "Are any samples representative or unbiased? Reply to Pickering and Blaszczynski",
+      "authors": "Russell, A. M. T. and Browne, M. and Hing, N. and Rockloff, M. and Newall, P.",
+      "year": 2022,
+      "venue": "International Gambling Studies",
+      "doi": "10.1080/14459795.2021.1973535",
+      "url": "https://doi.org/10.1080/14459795.2021.1973535"
+    },
+    {
+      "id": "browne2022benchmarking",
+      "type": "article",
+      "title": "Benchmarking gambling screens to health-state utility: the PGSI and the SGHS estimate similar levels of population gambling-harm",
+      "authors": "Browne, M. and Russell, A. M. T. and Begg, S. and Rockloff, M. J. and Li, E. and Rawat, V. and Hing, N.",
+      "year": 2022,
+      "venue": "BMC Public Health",
+      "doi": "10.1186/s12889-022-13243-4",
+      "url": "https://doi.org/10.1186/s12889-022-13243-4"
+    },
+    {
+      "id": "hing2022development",
+      "type": "techreport",
+      "title": "Development and randomised controlled trial of safer gambling practices for EGM play",
+      "authors": "Hing, N. and Browne, M. and Russell, A. M. T. and Rockloff, M. and Tulloch, C.",
+      "year": 2022,
+      "venue": "",
+      "doi": "",
+      "url": "https://www.gambleaware.nsw.gov.au/resources-and-education/research/development-and-randomised-controlled-trial-of-safer-gambling-practices-for-egm-play"
+    },
+    {
+      "id": "lee2022differential",
+      "type": "article",
+      "title": "Differential effects of intuitive and disordered eating on physical and psychological outcomes for women with young children",
+      "authors": "Lee, M. F. and Madsen, J. and Williams, S. L. and Browne, M. and Burke, K. J.",
+      "year": 2022,
+      "venue": "Maternal and Child Health Journal",
+      "doi": "10.1007/s10995-021-03251-y",
+      "url": "https://doi.org/10.1007/s10995-021-03251-y"
+    },
+    {
+      "id": "hing2022gamblification",
+      "type": "article",
+      "title": "Gamblification: Risks of digital gambling games to adolescents",
+      "authors": "Hing, N. and Browne, M. and Rockloff, M. and Lole, L. and Russell, A. M. T.",
+      "year": 2022,
+      "venue": "The Lancet Child \\& Adolescent Health",
+      "doi": "10.1016/S2352-4642(22)00124-9",
+      "url": "https://doi.org/10.1016/S2352-4642(22)00124-9"
+    },
+    {
+      "id": "hing2022gambling",
+      "type": "article",
+      "title": "Gambling prevalence and gambling problems amongst land-based-only, online-only and mixed-mode gamblers in Australia: A national study",
+      "authors": "Hing, N. and Russell, A. M. T. and Black, A. and Rockloff, M. and Browne, M. and Rawat, V. and Greer, N. and Stevens, M. and Dowling, N. A. and Merkouris, S. and King, D. L. and Salonen, A. H. and Breen, H. and Woo, L.",
+      "year": 2022,
+      "venue": "Computers in Human Behavior",
+      "doi": "10.1016/j.chb.2022.107269",
+      "url": "https://doi.org/10.1016/j.chb.2022.107269"
+    },
+    {
+      "id": "hing2022harms",
+      "type": "article",
+      "title": "Gambling-related harms to concerned significant others: A national Australian prevalence study",
+      "authors": "Hing, N. and Russell, A. M. T. and Browne, M. and Rockloff, M. and Tulloch, C. and Rawat, V. and Greer, N. and Dowling, N. A. and Merkouris, S. S. and King, D. L. and Stevens, M. and Salonen, A. H. and Breen, H. and Woo, L.",
+      "year": 2022,
+      "venue": "Journal of Behavioral Addictions",
+      "doi": "10.1556/2006.2022.00045",
+      "url": "https://doi.org/10.1556/2006.2022.00045"
+    },
+    {
+      "id": "tulloch2022how",
+      "type": "article",
+      "title": "How gambling harms the wellbeing of family and others: a review",
+      "authors": "Tulloch, C. and Browne, M. and Hing, N. and Rockloff, M. and Hilbrecht, M.",
+      "year": 2022,
+      "venue": "International Gambling Studies",
+      "doi": "10.1080/14459795.2021.2002384",
+      "url": "https://doi.org/10.1080/14459795.2021.2002384"
+    },
+    {
+      "id": "rockloff2022legacy_b",
+      "type": "article",
+      "title": "Legacy gambling harms: What are they and how long do they last?",
+      "authors": "Rockloff, M. and Browne, M. and Russell, A. M. T. and Hing, N. and Armstrong, T. and Greer, N.",
+      "year": 2022,
+      "venue": "Journal of Behavioral Addictions",
+      "doi": "10.1556/2006.2022.00073",
+      "url": "https://doi.org/10.1556/2006.2022.00073"
+    },
+    {
+      "id": "rockloff2022legacy",
+      "type": "article",
+      "title": "Legacy Gambling Harms: What Happens Once the Gambling Stops?",
+      "authors": "Rockloff, M. and Armstrong, T. and Hing, N. and Browne, M. and Russell, A. M. T. and Bellringer, M. and Palmer du Preez, K. and Lowe, G.",
+      "year": 2022,
+      "venue": "Current Addiction Reports",
+      "doi": "10.1007/s40429-022-00434-7",
+      "url": "https://doi.org/10.1007/s40429-022-00434-7"
+    },
+    {
+      "id": "hing2022loot",
+      "type": "article",
+      "title": "Loot box purchasing is linked to problem gambling in adolescents when controlling for monetary gambling participation",
+      "authors": "Hing, N. and Rockloff, M. and Russell, A. M. T. and Browne, M. and Newall, P. and Greer, N. and King, D. L. and Thorne, H.",
+      "year": 2022,
+      "venue": "Journal of Behavioral Addictions",
+      "doi": "10.1556/2006.2022.00015",
+      "url": "https://doi.org/10.1556/2006.2022.00015"
+    },
+    {
+      "id": "li2022minding",
+      "type": "article",
+      "title": "Minding the consumer mindsets in addressing gambling consumption harms",
+      "authors": "Li, E. and Thorne, H. and Browne, M. and Rockloff, M.",
+      "year": 2022,
+      "venue": "Frontiers in Psychology",
+      "doi": "10.3389/fpsyg.2022.905785",
+      "url": "https://doi.org/10.3389/fpsyg.2022.905785"
+    },
+    {
+      "id": "tulloch2022parental",
+      "type": "article",
+      "title": "Parental Gambling and the Health and Wellbeing of Children Derived From Two Nationally Representative Cohorts of Australian Children",
+      "authors": "Tulloch, C. and Hing, N. and Browne, M. and Rockloff, M. and Hilbrecht, M.",
+      "year": 2022,
+      "venue": "Applied Research in Quality of Life",
+      "doi": "10.1007/s11482-022-10052-0",
+      "url": "https://doi.org/10.1007/s11482-022-10052-0"
+    },
+    {
+      "id": "williams2022protective",
+      "type": "article",
+      "title": "Protective action and risky beliefs: The relationship between religion and gambling fallacies",
+      "authors": "Williams, B. M. and Browne, M. and Rockloff, M. and Stuart, G. and Smith, B. P.",
+      "year": 2022,
+      "venue": "Journal of Gambling Studies",
+      "doi": "10.1007/s10899-021-10028-z",
+      "url": "https://doi.org/10.1007/s10899-021-10028-z"
+    },
+    {
+      "id": "hing2022smartphone",
+      "type": "techreport",
+      "title": "Smartphone betting on sports, esports and daily fantasy sports amongst young adults",
+      "authors": "Hing, N. and Russell, A. M. T. and Browne, M. and Rockloff, M. and Lole, L. and Tulloch, C. and Newall, P. and Thorne, H. and Greer, N.",
+      "year": 2022,
+      "venue": "",
+      "doi": "10.25946/31697380.v1",
+      "url": "https://www.gambleaware.nsw.gov.au/resources-and-education/research/smartphone-betting-on-sports-esports-and-daily-fantasy-sports-amongst-young-adults"
+    },
+    {
+      "id": "russell2022stressful",
+      "type": "article",
+      "title": "Stressful Life Events Precede Gambling Problems, and Continued Gambling Problems Exacerbate Stressful Life Events; A Life Course Calendar Study",
+      "authors": "Russell, A. M. T. and Browne, M. and Hing, N. and Visintin, T. and Begg, S. and Rawat, V. and Rockloff, M.",
+      "year": 2022,
+      "venue": "Journal of Gambling Studies",
+      "doi": "10.1007/s10899-021-10090-7",
+      "url": "https://doi.org/10.1007/s10899-021-10090-7"
+    },
+    {
+      "id": "browne2022gambling",
+      "type": "techreport",
+      "title": "The Gambling Harms Scales: Instruments to assess impact to gamblers and affected others that are benchmarked to health utility",
+      "authors": "Browne, M. and Newall, P. and Rawat, V. and Tulloch, C. and Rockloff, M. and Li, E. and Hing, N. and Russell, A. and Begg, S.",
+      "year": 2022,
+      "venue": "",
+      "doi": "",
+      "url": "https://responsiblegambling.vic.gov.au/resources/publications/the-gambling-harms-scales-instruments-to-assess-impact-to-gamblers-and-affected-others-that-are-benchmarked-to-health-utility-1206/"
+    },
+    {
+      "id": "dittman2023role",
+      "type": "techreport",
+      "title": "The Role of Parents in Youth Gambling",
+      "authors": "Dittman, C. K. and Gossner, M. and Hing, N. and Rockloff, M. and Browne, M. and Russell, A. M. T. and Lole, L.",
+      "year": 2022,
+      "venue": "",
+      "doi": "",
+      "url": "https://www.gambleaware.nsw.gov.au/resources-and-education/research/the-role-of-parents-in-youth-gambling"
+    },
+    {
+      "id": "latvala202118",
+      "type": "article",
+      "title": "18-Item Version of the Short Gambling Harm Screen (SGHS-18): Validation of Screen for Assessing Gambling-Related Harm among Finnish Population",
+      "authors": "Latvala, T. and Browne, M. and Rockloff, M. and Salonen, A. H.",
+      "year": 2021,
+      "venue": "International Journal of Environmental Research and Public Health",
+      "doi": "10.3390/ijerph182111552",
+      "url": "https://doi.org/10.3390/ijerph182111552"
+    },
+    {
+      "id": "alley2021pandemic",
+      "type": "article",
+      "title": "As the Pandemic Progresses, How Does Willingness to Vaccinate against COVID-19 Evolve?",
+      "authors": "Alley, S. J. and Stanton, R. and Browne, M. and To, Q. G. and Khalesi, S. and Williams, S. L. and Thwaite, T. L. and Fenning, A. S. and Vandelanotte, C.",
+      "year": 2021,
+      "venue": "International Journal of Environmental Research and Public Health",
+      "doi": "10.3390/ijerph18020797",
+      "url": "https://doi.org/10.3390/ijerph18020797"
+    },
+    {
+      "id": "rockloff2021behavioural",
+      "type": "techreport",
+      "title": "Behavioural trial for consistent gambling messaging under the national consumer protection framework",
+      "authors": "Rockloff, M. and Newall, P. and Browne, M. and Russell, A. M. T. and Visintin, T. and Hing, N. and Thorne, H.",
+      "year": 2021,
+      "venue": "",
+      "doi": "",
+      "url": "https://www.gamblingresearch.org.au/publications/behavioural-trial-consistent-gambling-messaging-under-national-consumer-protection-framework"
+    },
+    {
+      "id": "bryden2021effect",
+      "type": "article",
+      "title": "Effect of contamination and purity priming on attitudes to vaccination and other health interventions: A randomised controlled experiment",
+      "authors": "Bryden, G. M. and Rockloff, M. and Browne, M. and Unsworth, C.",
+      "year": 2021,
+      "venue": "Vaccine",
+      "doi": "10.1016/j.vaccine.2021.09.063",
+      "url": "https://doi.org/10.1016/j.vaccine.2021.09.063"
+    },
+    {
+      "id": "scott2021fitness",
+      "type": "article",
+      "title": "Fitness to drive practices among non-driver trained occupational therapists in an Australian community-based rehabilitation setting",
+      "authors": "Scott, H. and Unsworth, C. and Browne, M.",
+      "year": 2021,
+      "venue": "Australian Occupational Therapy Journal",
+      "doi": "10.1111/1440-1630.12733",
+      "url": "https://doi.org/10.1111/1440-1630.12733"
+    },
+    {
+      "id": "thorne2021gambling",
+      "type": "article",
+      "title": "Gambling problems are associated with alcohol misuse and insomnia: Results from a representative national telephone survey",
+      "authors": "Thorne, H. B. and Rockloff, M. J. and Ferguson, S. A. and Vincent, G. and Browne, M.",
+      "year": 2021,
+      "venue": "International Journal of Environmental Research and Public Health",
+      "doi": "10.3390/ijerph18136683",
+      "url": "https://doi.org/10.3390/ijerph18136683"
+    },
+    {
+      "id": "murrayboyle2021opportunity",
+      "type": "article",
+      "title": "Opportunity costs or not? Validating the Short Gambling Harm Screen against a set of \"unimpeachable\" negative impacts",
+      "authors": "Murray Boyle, C. and Browne, M. and Rockloff, M. R. and Flenady, T.",
+      "year": 2021,
+      "venue": "Journal of Clinical Medicine",
+      "doi": "10.3390/jcm10030549",
+      "url": "https://doi.org/10.3390/jcm10030549"
+    },
+    {
+      "id": "lelagadec2020patient",
+      "type": "article",
+      "title": "Patient Deterioration in Australian Regional and Rural Hospitals: Is the Queensland Adult Deterioration Detection System the Criterion Standard?",
+      "authors": "Le Lagadec, M. D. and Dwyer, T. and Browne, M.",
+      "year": 2021,
+      "venue": "Journal of Patient Safety",
+      "doi": "10.1097/PTS.0000000000000689",
+      "url": "https://doi.org/10.1097/PTS.0000000000000689"
+    },
+    {
+      "id": "dwyer2021predictive",
+      "type": "article",
+      "title": "Predictive factors of the general public’s willingness to be seen and seek treatment from a nurse practitioner in Australia: a cross-sectional national survey",
+      "authors": "Dwyer, T. and Craswell, A. and Browne, M.",
+      "year": 2021,
+      "venue": "Human Resources for Health",
+      "doi": "10.1186/s12960-021-00562-7",
+      "url": "https://doi.org/10.1186/s12960-021-00562-7"
+    },
+    {
+      "id": "hing2021skin",
+      "type": "article",
+      "title": "Skin gambling predicts problematic gambling amongst adolescents when controlling for monetary gambling",
+      "authors": "Hing, N. and Russell, A. M. T. and Bryden, G. M. and Newall, P. and King, D. L. and Rockloff, M. and Browne, M. and Greer, N.",
+      "year": 2021,
+      "venue": "Journal of Behavioral Addictions",
+      "doi": "10.1556/2006.2021.00078",
+      "url": "https://doi.org/10.1556/2006.2021.00078"
+    },
+    {
+      "id": "latvala2021social",
+      "type": "article",
+      "title": "Social disadvantage and gambling severity: a population-based study with register-linkage",
+      "authors": "Latvala, T. A. and Lintonen, T. P. and Browne, M. and Rockloff, M. and Salonen, A. H.",
+      "year": 2021,
+      "venue": "European Journal of Public Health",
+      "doi": "10.1093/eurpub/ckab162",
+      "url": "https://doi.org/10.1093/eurpub/ckab162"
+    },
+    {
+      "id": "browne2021survey",
+      "type": "techreport",
+      "title": "Survey of South Australian adults’ (18+) attitudes, beliefs and behaviours regarding sports betting",
+      "authors": "Browne, M. and Bryden, G. M. and Russell, A. M. T. and Rockloff, M. and Hing, N. and Dittman, C. and Lastella, M.",
+      "year": 2021,
+      "venue": "",
+      "doi": "",
+      "url": "https://acquire.cqu.edu.au/articles/report/Survey_of_South_Australian_adults_18_attitudes_beliefs_and_behaviours_regarding_sports_betting_2021/27222450"
+    },
+    {
+      "id": "tulloch2021effect",
+      "type": "article",
+      "title": "The effect of gambling problems on the subjective wellbeing of gamblers’ family and friends: Evidence from large-scale population research in Australia and Canada",
+      "authors": "Tulloch, C. and Hing, N. and Browne, M. and Rockloff, M. and Hilbrecht, M.",
+      "year": 2021,
+      "venue": "Journal of Behavioral Addictions",
+      "doi": "10.1556/2006.2021.00077",
+      "url": "https://doi.org/10.1556/2006.2021.00077"
+    },
+    {
+      "id": "browne2021evolution",
+      "type": "article",
+      "title": "The evolution of gambling-related harm measurement: lessons from the last decade",
+      "authors": "Browne, M. and Rawat, V. and Tulloch, C. and Murray-Boyle, C. and Rockloff, M.",
+      "year": 2021,
+      "venue": "International Journal of Environmental Research and Public Health",
+      "doi": "10.3390/ijerph18094395",
+      "url": "https://doi.org/10.3390/ijerph18094395"
+    },
+    {
+      "id": "dowling2021identification",
+      "type": "article",
+      "title": "The identification of Australian low-risk gambling limits: A comparison of gambling-related harm measures",
+      "authors": "Dowling, N. A. and Greenwood, C. J. and Merkouris, S. S. and Youssef, G. J. and Browne, M. and Rockloff, M. and Myers, P.",
+      "year": 2021,
+      "venue": "Journal of Behavioral Addictions",
+      "doi": "10.1556/2006.2021.00012",
+      "url": "https://doi.org/10.1556/2006.2021.00012"
+    },
+    {
+      "id": "tulloch2021relationship",
+      "type": "article",
+      "title": "The Relationship Between Family Gambling Problems, Other Family Stressors, and Health Indicators in a Large Population-Representative Sample of Australian Adults",
+      "authors": "Tulloch, C. and Browne, M. and Hing, N. and Rockloff, M.",
+      "year": 2021,
+      "venue": "Journal of Gambling Studies",
+      "doi": "10.1007/s10899-020-09990-x",
+      "url": "https://doi.org/10.1007/s10899-020-09990-x"
+    },
+    {
+      "id": "hing2021second",
+      "type": "techreport",
+      "title": "The Second National Study of Interactive Gambling in Australia (2019-20)",
+      "authors": "Hing, N. and Russell, A. M. T. and Browne, M. and Rockloff, M. and Greer, N. and Rawat, V. and Stevens, M. and Dowling, N. and Merkouris, S. and King, D. and Breen, H. and Salonen, A. and Woo, L.",
+      "year": 2021,
+      "venue": "",
+      "doi": "",
+      "url": "https://www.gamblingresearch.org.au/publications/second-national-study-interactive-gambling-australia-2019-20"
+    },
+    {
+      "id": "browne2021galileo",
+      "type": "article",
+      "title": "You're probably not Galileo: Scientific advance rarely comes from lone, contrarian outsiders",
+      "authors": "Browne, M. and Kavanagh, C.",
+      "year": 2021,
+      "venue": "The Skeptic",
+      "doi": "",
+      "url": "https://www.skeptic.org.uk/2021/06/youre-probably-not-galileo-scientific-advance-rarely-comes-from-lone-contrarian-outsiders/"
+    },
+    {
+      "id": "rockloff2021young",
+      "type": "article",
+      "title": "Young people who purchase loot boxes are more likely to have gambling problems: An online survey of adolescents and young adults living in NSW Australia",
+      "authors": "Rockloff, M. and Russell, A. M. T. and Greer, N. and Lole, L. and Hing, N. and Browne, M.",
+      "year": 2021,
+      "venue": "Journal of Behavioral Addictions",
+      "doi": "10.1556/2006.2021.00007",
+      "url": "https://doi.org/10.1556/2006.2021.00007"
+    },
+    {
+      "id": "browne2020framework",
+      "type": "article",
+      "title": "A framework for indirect elicitation of the public health impact of gambling problems",
+      "authors": "Browne, M. and Rawat, V. and Newall, P. and Begg, S. and Rockloff, M. and Hing, N.",
+      "year": 2020,
+      "venue": "BMC Public Health",
+      "doi": "10.1186/s12889-020-09813-z",
+      "url": "https://doi.org/10.1186/s12889-020-09813-z"
+    },
+    {
+      "id": "armstrong2020beliefs",
+      "type": "article",
+      "title": "Beliefs about gambling mediate the effect of cognitive style on gambling problems",
+      "authors": "Armstrong, T. and Rockloff, M. and Browne, M. and Blaszczynski, A.",
+      "year": 2020,
+      "venue": "Journal of Gambling Studies",
+      "doi": "10.1007/s10899-020-09942-5",
+      "url": "https://doi.org/10.1007/s10899-020-09942-5"
+    },
+    {
+      "id": "wilcoxon2020brain",
+      "type": "article",
+      "title": "Brain fingerprinting: A warning against early implementation",
+      "authors": "Wilcoxson, R. G. and Brooks, N. S. and Duckett, P. S. and Browne, M.",
+      "year": 2020,
+      "venue": "Australian Police Journal",
+      "doi": "",
+      "url": ""
+    },
+    {
+      "id": "flenady2020developing",
+      "type": "article",
+      "title": "Developing a sociocultural framework of compliance: an exploration of factors related to the use of early warning systems among acute care clinicians",
+      "authors": "Flenady, T. and Dwyer, T. and Sobolewska, A. and Le Lagadec, D. and Connor, J. and Kahl, J. and Signal, T. and Browne, M.",
+      "year": 2020,
+      "venue": "BMC Health Services Research",
+      "doi": "10.1186/s12913-020-05615-6",
+      "url": "https://doi.org/10.1186/s12913-020-05615-6"
+    },
+    {
+      "id": "delfabbro2020do",
+      "type": "article",
+      "title": "Do EGMs Have a Stronger Association with Problem Gambling than Racing and Casino Table Games? Evidence from a Decade of Australian Prevalence Studies",
+      "authors": "Delfabbro, P. and King, D. L. and Browne, M. and Dowling, N.",
+      "year": 2020,
+      "venue": "Journal of Gambling Studies",
+      "doi": "10.1007/s10899-020-09950-5",
+      "url": "https://doi.org/10.1007/s10899-020-09950-5"
+    },
+    {
+      "id": "lastella2020electronic",
+      "type": "article",
+      "title": "Electronic device use in bed reduces sleep duration and quality in adults",
+      "authors": "Lastella, M. and Rigney, G. and Browne, M. and Sargent, C.",
+      "year": 2020,
+      "venue": "Sleep and Biological Rhythms",
+      "doi": "10.1007/s41105-019-00251-y",
+      "url": "https://doi.org/10.1007/s41105-019-00251-y"
+    },
+    {
+      "id": "armstrong2020encouraging",
+      "type": "article",
+      "title": "Encouraging gamblers to think critically using generalised analytical priming is ineffective at reducing gambling biases",
+      "authors": "Armstrong, T. and Rockloff, M. and Browne, M. and Blaszczynski, A.",
+      "year": 2020,
+      "venue": "Journal of Gambling Studies",
+      "doi": "10.1007/s10899-019-09910-8",
+      "url": "https://doi.org/10.1007/s10899-019-09910-8"
+    },
+    {
+      "id": "mclauchlan2020evaluating",
+      "type": "article",
+      "title": "Evaluating the reliability and validity of the short gambling harm screen: are binary scales worse than Likert scales at capturing gambling harm?",
+      "authors": "McLauchlan, J. and Browne, M. and Russell, A. M. T. and Rockloff, M.",
+      "year": 2020,
+      "venue": "Journal of Gambling Issues",
+      "doi": "10.4309/jgi.2020.44.6",
+      "url": "https://doi.org/10.4309/jgi.2020.44.6"
+    },
+    {
+      "id": "russell2020exploring",
+      "type": "techreport",
+      "title": "Exploring the changing landscape of gambling in childhood, adolescence and young adulthood",
+      "authors": "Russell, A. M. T. and Armstrong, T. and Rockloff, M. and Greer, N. and Hing, N. and Browne, M.",
+      "year": 2020,
+      "venue": "",
+      "doi": "10.25946/5f2335f6d50d1",
+      "url": "https://www.responsiblegambling.nsw.gov.au/__data/assets/pdf_file/0008/294029/Exploring-the-changing-landscape-of-gambling-in-childhood-adolescence-and-young-adulthood.pdf"
+    },
+    {
+      "id": "armstrong2020gamble",
+      "type": "article",
+      "title": "Gamble With Your Head and Not Your Heart: A Conceptual Model for How Thinking-Style Promotes Irrational Gambling Beliefs",
+      "authors": "Armstrong, T. and Rockloff, M. and Browne, M.",
+      "year": 2020,
+      "venue": "Journal of Gambling Studies",
+      "doi": "10.1007/s10899-019-09927-z",
+      "url": "https://doi.org/10.1007/s10899-019-09927-z"
+    },
+    {
+      "id": "hoffman2020human",
+      "type": "article",
+      "title": "Human-Animal Co-Sleeping: An Actigraphy-Based Assessment of Dogs’ Impacts on Women’s Nighttime Movements",
+      "authors": "Hoffman, C. L. and Browne, M. and Smith, B. P.",
+      "year": 2020,
+      "venue": "Animals",
+      "doi": "10.3390/ani10020278",
+      "url": "https://doi.org/10.3390/ani10020278"
+    },
+    {
+      "id": "rockloff2020loot",
+      "type": "techreport",
+      "title": "Loot boxes: Are they grooming youth for gambling?",
+      "authors": "Rockloff, M. and Russell, A. M. T. and Greer, N. and Lole, L. and Hing, N. and Browne, M.",
+      "year": 2020,
+      "venue": "",
+      "doi": "10.25946/5ef151ac1ce6f",
+      "url": "https://www.responsiblegambling.nsw.gov.au/__data/assets/pdf_file/0017/294020/Loot-boxes-Are-they-grooming-youth-for-gambling.pdf"
+    },
+    {
+      "id": "unsworth2020maze",
+      "type": "article",
+      "title": "Maze test score time adjustments when using nondominant hand in fitness-to-drive assessments",
+      "authors": "Unsworth, C. A. and Hext, G. and Baker, A. M. and Ratzon, N. Z. and Browne, M.",
+      "year": 2020,
+      "venue": "International Journal of Rehabilitation Research",
+      "doi": "10.1097/MRR.0000000000000429",
+      "url": "https://doi.org/10.1097/MRR.0000000000000429"
+    },
+    {
+      "id": "browne2020measuring",
+      "type": "article",
+      "title": "Measuring Behavioural Dependence in Gambling: A Case for Removing Harmful Consequences from the Assessment of Problem Gambling Pathology",
+      "authors": "Browne, M. and Rockloff, M.",
+      "year": 2020,
+      "venue": "Journal of Gambling Studies",
+      "doi": "10.1007/s10899-019-09916-2",
+      "url": "https://doi.org/10.1007/s10899-019-09916-2"
+    },
+    {
+      "id": "browne2019measuring",
+      "type": "incollection",
+      "title": "Measuring harm from gambling and estimating its distribution in the population",
+      "authors": "Browne, M.",
+      "year": 2020,
+      "venue": "Harm Reduction for Gambling: A Public Health Approach",
+      "doi": "10.4324/9780429490750-3",
+      "url": "https://doi.org/10.4324/9780429490750-3"
+    },
+    {
+      "id": "rockloff2020mobile",
+      "type": "article",
+      "title": "Mobile EGM Games: Evidence that simulated games encourage real-money gambling",
+      "authors": "Rockloff, M. and Browne, M. and Greer, N. and Armstrong, T. and Thorne, H.",
+      "year": 2020,
+      "venue": "Journal of Gambling Studies",
+      "doi": "10.1007/s10899-019-09869-6",
+      "url": "https://doi.org/10.1007/s10899-019-09869-6"
+    },
+    {
+      "id": "hing2020nsw",
+      "type": "techreport",
+      "title": "NSW Youth Gambling Study 2020",
+      "authors": "Hing, N. and Russell, A. M. T. and King, D. L. and Rockloff, M. and Browne, M. and Greer, N. and Newall, P. and Sproston, K. and Chen, L. and Coughlin, S.",
+      "year": 2020,
+      "venue": "",
+      "doi": "",
+      "url": "https://www.responsiblegambling.nsw.gov.au/__data/assets/pdf_file/0009/280548/NSW-Youth-Gambling-Study-2020.pdf"
+    },
+    {
+      "id": "timmer2020occupational",
+      "type": "article",
+      "title": "Occupational therapy and activity pacing with hospital-associated deconditioned older adults: a randomised controlled trial",
+      "authors": "Timmer, A. J. and Unsworth, C. A. and Browne, M.",
+      "year": 2020,
+      "venue": "Disability and Rehabilitation",
+      "doi": "10.1080/09638288.2018.1535630",
+      "url": "https://doi.org/10.1080/09638288.2018.1535630"
+    },
+    {
+      "id": "lelagadec2020efficacy",
+      "type": "article",
+      "title": "The efficacy of twelve early warning systems for potential use in regional medical facilities in Queensland, Australia",
+      "authors": "Le Lagadec, M. D. and Dwyer, T. and Browne, M.",
+      "year": 2020,
+      "venue": "Australian Critical Care",
+      "doi": "10.1016/j.aucc.2019.03.001",
+      "url": "https://doi.org/10.1016/j.aucc.2019.03.001"
+    },
+    {
+      "id": "browne2020prevention",
+      "type": "article",
+      "title": "The prevention paradox applies to some but not all gambling harms: Results from a Finnish population-representative survey",
+      "authors": "Browne, M. and Volberg, R. and Rockloff, M. and Salonen, A. H.",
+      "year": 2020,
+      "venue": "Journal of Behavioral Addictions",
+      "doi": "10.1556/2006.2020.00018",
+      "url": "https://doi.org/10.1556/2006.2020.00018"
+    },
+    {
+      "id": "armstrong2020training",
+      "type": "article",
+      "title": "Training gamblers to re-think their gambling choices: How contextual analytical thinking may be useful in promoting safer gambling",
+      "authors": "Armstrong, T. and Rockloff, M. and Browne, M. and Blaszczynski, A.",
+      "year": 2020,
+      "venue": "Journal of Behavioral Addictions",
+      "doi": "10.1556/2006.2020.00049",
+      "url": "https://doi.org/10.1556/2006.2020.00049"
+    },
+    {
+      "id": "rockloff2020victorian",
+      "type": "techreport",
+      "title": "Victorian population gambling and health study 2018–2019",
+      "authors": "Rockloff, M. and Browne, M. and Hing, N. and Thorne, H. and Russell, A. M. T. and Greer, N. and Tran, K. and Brook, K. and Sproston, K.",
+      "year": 2020,
+      "venue": "",
+      "doi": "",
+      "url": "https://responsiblegambling.vic.gov.au/resources/publications/victorian-population-gambling-and-health-study-20182019-759/"
+    },
+    {
+      "id": "browne2019multivariate",
+      "type": "article",
+      "title": "A multivariate evaluation of 25 proximal and distal risk-factors for gambling-related harm",
+      "authors": "Browne, M. and Hing, N. and Rockloff, M. and Russell, A. M. T. and Greer, N. and Nicoll, F. and Smith, G.",
+      "year": 2019,
+      "venue": "Journal of Clinical Medicine",
+      "doi": "10.3390/jcm8040509",
+      "url": "https://doi.org/10.3390/jcm8040509"
+    },
+    {
+      "id": "rockloff2019quantification",
+      "type": "article",
+      "title": "A Quantification of the Net Consumer Surplus from Gambling Participation",
+      "authors": "Rockloff, M. J. and Browne, M. and Russell, A. M. T. and Merkouris, S. S. and Dowling, N. A.",
+      "year": 2019,
+      "venue": "Journal of Gambling Studies",
+      "doi": "10.1007/s10899-019-09845-0",
+      "url": "https://doi.org/10.1007/s10899-019-09845-0"
+    },
+    {
+      "id": "hing2019avoiding",
+      "type": "article",
+      "title": "Avoiding gambling harm: An evidence-based set of safe gambling practices for consumers",
+      "authors": "Hing, N. and Browne, M. and Russell, A. and Rockloff, M. and Rawat, V. and Nicoll, F. and Smith, G.",
+      "year": 2019,
+      "venue": "PLOS ONE",
+      "doi": "10.1371/journal.pone.0224083",
+      "url": "https://doi.org/10.1371/journal.pone.0224083"
+    },
+    {
+      "id": "blackman2019contrasting",
+      "type": "article",
+      "title": "Contrasting effects of gambling consumption and gambling problems on subjective wellbeing",
+      "authors": "Blackman, A. and Browne, M. and Rockloff, M. and Hing, N. and Russell, A. M. T.",
+      "year": 2019,
+      "venue": "Journal of Gambling Studies",
+      "doi": "10.1007/s10899-019-09862-z",
+      "url": "https://doi.org/10.1007/s10899-019-09862-z"
+    },
+    {
+      "id": "armstrong2019development",
+      "type": "article",
+      "title": "Development and validation of the Protective Gambling Beliefs Scale (PGBS)",
+      "authors": "Armstrong, T. and Rockloff, M. and Browne, M. and Blaszczynski, A.",
+      "year": 2019,
+      "venue": "International Gambling Studies",
+      "doi": "10.1080/14459795.2018.1500624",
+      "url": "https://doi.org/10.1080/14459795.2018.1500624"
+    },
+    {
+      "id": "unsworth2019effect",
+      "type": "article",
+      "title": "Effect of navigation problems, assessment location and a practice test on driving assessment performance for people with Alzheimer's disease",
+      "authors": "Unsworth, C. A. and Russell, K. and Lovell, R. and Woodward, M. and Browne, M.",
+      "year": 2019,
+      "venue": "Journal of Alzheimer's Disease",
+      "doi": "10.3233/JAD-181069",
+      "url": "https://doi.org/10.3233/JAD-181069"
+    },
+    {
+      "id": "greer2023esports",
+      "type": "article",
+      "title": "Esports Betting and Skin Gambling: A Brief History",
+      "authors": "Greer, N. and Rockloff, M. and Browne, M. and Hing, N. and King, D. L.",
+      "year": 2019,
+      "venue": "Journal of Gambling Issues",
+      "doi": "10.4309/jgi.2019.43.8",
+      "url": "https://doi.org/10.4309/jgi.2019.43.8"
+    },
+    {
+      "id": "dwyer2019final",
+      "type": "techreport",
+      "title": "Final Report Validating the Queensland Adult Deterioration Detection System (Q-ADDS)",
+      "authors": "Dwyer, T. and Flenady, T. and Signal, T. and Browne, M. and Murray Boyle, C. and Stitz, L.",
+      "year": 2019,
+      "venue": "",
+      "doi": "",
+      "url": ""
+    },
+    {
+      "id": "gainsbury2019identifying",
+      "type": "article",
+      "title": "Identifying risky Internet use: Associating negative online experience with specific online behaviours",
+      "authors": "Gainsbury, S. M. and Browne, M. and Rockloff, M.",
+      "year": 2019,
+      "venue": "New Media \\& Society",
+      "doi": "10.1177/1461444818815442",
+      "url": "https://doi.org/10.1177/1461444818815442"
+    },
+    {
+      "id": "edwards2019investigating",
+      "type": "article",
+      "title": "Investigating risk factors that predict a dog’s fear during veterinary consultations",
+      "authors": "Edwards, P. T. and Hazel, S. J. and Browne, M. and Serpell, J. A. and McArthur, M. L. and Smith, B. P.",
+      "year": 2019,
+      "venue": "PLOS ONE",
+      "doi": "10.1371/journal.pone.0215416",
+      "url": "https://doi.org/10.1371/journal.pone.0215416"
+    },
+    {
+      "id": "browne2019nsw",
+      "type": "techreport",
+      "title": "NSW Gambling Survey 2019",
+      "authors": "Browne, M. and Rockloff, M. and Hing, N. and Russell, A. M. T. and Murray Boyle, C. and Rawat, V. and Tran, K. and Brook, K. and Sproston, K.",
+      "year": 2019,
+      "venue": "",
+      "doi": "10.25946/29897957.v1",
+      "url": "https://www.responsiblegambling.nsw.gov.au/__data/assets/pdf_file/0007/280537/NSW-Gambling-Survey-2019-Full-Report.PDF"
+    },
+    {
+      "id": "unsworth2019predicting",
+      "type": "article",
+      "title": "Predicting fitness-to-drive following stroke using the Occupational Therapy – Driver Off Road Assessment Battery",
+      "authors": "Unsworth, C. A. and Baker, A. and Lannin, N. and Harries, P. and Strahan, J. and Browne, M.",
+      "year": 2019,
+      "venue": "Disability and Rehabilitation",
+      "doi": "10.1080/09638288.2018.1445784",
+      "url": "https://doi.org/10.1080/09638288.2018.1445784"
+    },
+    {
+      "id": "russell2019risk",
+      "type": "article",
+      "title": "Risk factors for gambling problems specifically associated with sports betting",
+      "authors": "Russell, A. M. T. and Hing, N. and Browne, M.",
+      "year": 2019,
+      "venue": "Journal of Gambling Studies",
+      "doi": "10.1007/s10899-019-09848-x",
+      "url": "https://doi.org/10.1007/s10899-019-09848-x"
+    },
+    {
+      "id": "rockloff2019sports",
+      "type": "article",
+      "title": "Sports betting incentives encourage gamblers to select the long odds: An experimental investigation using monetary rewards",
+      "authors": "Rockloff, M. J. and Browne, M. and Russell, A. M. T. and Hing, N. and Greer, N.",
+      "year": 2019,
+      "venue": "Journal of Behavioral Addictions",
+      "doi": "10.1556/2006.8.2019.30",
+      "url": "https://doi.org/10.1556/2006.8.2019.30"
+    },
+    {
+      "id": "thorne2019thats",
+      "type": "article",
+      "title": "That's what you get for waking up in Vegas: Fatigue and alcohol consumption are associated with the duration of gambling sessions",
+      "authors": "Thorne, H. B. and Browne, M. and Rockloff, M. J. and Ferguson, S. A.",
+      "year": 2019,
+      "venue": "Journal of Gambling Issues",
+      "doi": "10.4309/jgi.2019.42.8",
+      "url": "https://doi.org/10.4309/jgi.2019.42.8"
+    },
+    {
+      "id": "browne2019impact",
+      "type": "article",
+      "title": "The impact of exposure to wagering advertisements and inducements on intended and actual betting expenditure: An ecological momentary assessment study",
+      "authors": "Browne, M. and Hing, N. and Russell, A. M. T. and Thomas, A. and Jenkinson, R.",
+      "year": 2019,
+      "venue": "Journal of Behavioral Addictions",
+      "doi": "10.1556/2006.8.2019.10",
+      "url": "https://doi.org/10.1556/2006.8.2019.10"
+    },
+    {
+      "id": "bryden2019privilege",
+      "type": "article",
+      "title": "The privilege paradox: Geographic areas with highest socio-economic advantage have the lowest rates of vaccination",
+      "authors": "Bryden, G. M. and Browne, M. and Rockloff, M. and Unsworth, C.",
+      "year": 2019,
+      "venue": "Vaccine",
+      "doi": "10.1016/j.vaccine.2019.06.060",
+      "url": "https://doi.org/10.1016/j.vaccine.2019.06.060"
+    },
+    {
+      "id": "jeffrey2019til",
+      "type": "article",
+      "title": "Til debt do us part: Comparing gambling harms between gamblers and their spouses",
+      "authors": "Jeffrey, L. and Browne, M. and Rawat, V. and Langham, E. and Li, E. and Rockloff, M.",
+      "year": 2019,
+      "venue": "Journal of Gambling Studies",
+      "doi": "10.1007/s10899-019-09826-3",
+      "url": "https://doi.org/10.1007/s10899-019-09826-3"
+    },
+    {
+      "id": "hing2019wheres",
+      "type": "article",
+      "title": "Where’s the bonus in bonus bets? Assessing sports bettors’ comprehension of their true cost",
+      "authors": "Hing, N. and Browne, M. and Russell, A. M. T. and Greer, N. and Thomas, A. and Jenkinson, R. and Rockloff, M. J.",
+      "year": 2019,
+      "venue": "Journal of Gambling Studies",
+      "doi": "10.1007/s10899-018-9800-0",
+      "url": "https://doi.org/10.1007/s10899-018-9800-0"
+    },
+    {
+      "id": "russell2019who",
+      "type": "article",
+      "title": "Who bets on micro events (microbets) in sports?",
+      "authors": "Russell, A. M. T. and Hing, N. and Browne, M. and Li, E. and Vitartas, P.",
+      "year": 2019,
+      "venue": "Journal of Gambling Studies",
+      "doi": "10.1007/s10899-018-9810-y",
+      "url": "https://doi.org/10.1007/s10899-018-9810-y"
+    },
+    {
+      "id": "browne2018sem",
+      "type": "article",
+      "title": "A SEM algorithm for scale reduction incorporating evaluation of multiple psychometric criteria",
+      "authors": "Browne, M. and Rockloff, M. and Rawat, V.",
+      "year": 2018,
+      "venue": "Sociological Methods \\& Research",
+      "doi": "10.1177/0049124116661580",
+      "url": "https://doi.org/10.1177/0049124116661580"
+    },
+    {
+      "id": "rawat2018tale",
+      "type": "article",
+      "title": "A tale of two countries: Comparing disability weights for gambling problems in New Zealand and Australia",
+      "authors": "Rawat, V. and Browne, M. and Bellringer, M. and Greer, N. and Kolandai-Matchett, K. and Rockloff, M. and Langham, E. and Hanley, C. and Du Preez, Katie Palmer and Abbott, M.",
+      "year": 2018,
+      "venue": "Quality of Life Research",
+      "doi": "10.1007/s11136-018-1882-8",
+      "url": "https://doi.org/10.1007/s11136-018-1882-8"
+    },
+    {
+      "id": "armstrong2018exploration",
+      "type": "article",
+      "title": "An Exploration of How Simulated Gambling Games May Promote Gambling with Money",
+      "authors": "Armstrong, T. and Rockloff, M. and Browne, M. and Li, E.",
+      "year": 2018,
+      "venue": "Journal of Gambling Studies",
+      "doi": "10.1007/s10899-018-9742-6",
+      "url": "https://doi.org/10.1007/s10899-018-9742-6"
+    },
+    {
+      "id": "smith2018exploratory",
+      "type": "article",
+      "title": "An Exploratory Study of Human–Dog Co-sleeping Using Actigraphy: Do Dogs Disrupt Their Owner’s Sleep?",
+      "authors": "Smith, B. P. and Browne, M. and Mack, J. and Kontou, T. G.",
+      "year": 2018,
+      "venue": "Anthrozoös",
+      "doi": "10.1080/08927936.2018.1529355",
+      "url": "https://doi.org/10.1080/08927936.2018.1529355"
+    },
+    {
+      "id": "bryden2018anti",
+      "type": "article",
+      "title": "Anti-vaccination and pro-CAM attitudes both reflect magical beliefs about health",
+      "authors": "Bryden, G. M. and Browne, M. and Rockloff, M. and Unsworth, C.",
+      "year": 2018,
+      "venue": "Vaccine",
+      "doi": "10.1016/j.vaccine.2017.12.068",
+      "url": "https://doi.org/10.1016/j.vaccine.2017.12.068"
+    },
+    {
+      "id": "russell2018direct",
+      "type": "article",
+      "title": "Are direct messages (texts and emails) from wagering operators associated with betting intention and behaviour? An ecological momentary assessment study",
+      "authors": "Russell, A. M. T. and Hing, N. and Browne, M. and Rawat, V.",
+      "year": 2018,
+      "venue": "Journal of Behavioral Addictions",
+      "doi": "10.1556/2006.7.2018.99",
+      "url": "https://doi.org/10.1556/2006.7.2018.99"
+    },
+    {
+      "id": "hing2018effects",
+      "type": "techreport",
+      "title": "Effects of wagering marketing on vulnerable adults",
+      "authors": "Hing, N. and Russell, A. and Rockloff, M. and Browne, M. and Langham, E. and Li, E. and Lole, L. and Greer, N. and Thomas, A. and Jenkinson, R. and Rawat, V. and Thorne, H.",
+      "year": 2018,
+      "venue": "",
+      "doi": "",
+      "url": "https://responsiblegambling.vic.gov.au/resources/publications/effects-of-wagering-marketing-on-vulnerable-adults-408/"
+    },
+    {
+      "id": "browne2018epistemic",
+      "type": "article",
+      "title": "Epistemic divides and ontological confusions: The psychology of vaccine scepticism",
+      "authors": "Browne, M.",
+      "year": 2018,
+      "venue": "Human Vaccines \\& Immunotherapeutics",
+      "doi": "10.1080/21645515.2018.1480244",
+      "url": "https://doi.org/10.1080/21645515.2018.1480244"
+    },
+    {
+      "id": "hing2018evaluation",
+      "type": "techreport",
+      "title": "Evaluation of the My Moola Indigenous money management program as a gambling harm minimisation tool",
+      "authors": "Hing, N. and Russell, A. and Rawat, V. and Rockloff, M. and Browne, M.",
+      "year": 2018,
+      "venue": "",
+      "doi": "10.25946/24718770.v1",
+      "url": "https://responsiblegambling.vic.gov.au/resources/publications/evaluation-of-the-my-moola-indigenous-money-management-program-as-a-gambling-harm-minimisation-tool-410/"
+    },
+    {
+      "id": "armstrong2018exploring",
+      "type": "article",
+      "title": "Exploring the Effectiveness of an Intelligent Messages Framework for Developing Warning Messages to Reduce Gambling Intensity",
+      "authors": "Armstrong, T. and Donaldson, P. and Langham, E. and Rockloff, M. and Browne, M.",
+      "year": 2018,
+      "venue": "Journal of Gambling Issues",
+      "doi": "10.4309/jgi.2018.38.4",
+      "url": "https://doi.org/10.4309/jgi.2018.38.4"
+    },
+    {
+      "id": "li2018gambling",
+      "type": "article",
+      "title": "Gambling and Sport: Implicit Association and Explicit Intention Among Underage Youth",
+      "authors": "Li, E. and Langham, E. and Browne, M. and Rockloff, M. and Thorne, H.",
+      "year": 2018,
+      "venue": "Journal of Gambling Studies",
+      "doi": "10.1007/s10899-018-9756-0",
+      "url": "https://doi.org/10.1007/s10899-018-9756-0"
+    },
+    {
+      "id": "martin2018good",
+      "type": "article",
+      "title": "Good, bad or indifferent: A longitudinal multi-methods study comparing four modes of training for healthcare professionals in one Australian state",
+      "authors": "Martin, P. and Kumar, S. and Abernathy, L. and Browne, M.",
+      "year": 2018,
+      "venue": "BMJ Open",
+      "doi": "10.1136/bmjopen-2017-021264",
+      "url": "https://doi.org/10.1136/bmjopen-2017-021264"
+    },
+    {
+      "id": "li2018implicit",
+      "type": "techreport",
+      "title": "Implicit associations between gambling and sport",
+      "authors": "Li, E. and Browne, M. and Langham, E. and Thorne, H. and Rockloff, M.",
+      "year": 2018,
+      "venue": "",
+      "doi": "",
+      "url": "https://responsiblegambling.vic.gov.au/resources/publications/implicit-associations-between-gambling-and-sport-350/"
+    },
+    {
+      "id": "maguire2018international",
+      "type": "article",
+      "title": "International Survey of Violence Against EMS Personnel: Physical Violence Report",
+      "authors": "Maguire, B. J. and Browne, M. and O'Neill, B. J. and Dealy, M. T. and Clare, D. and O'Meara, P.",
+      "year": 2018,
+      "venue": "Prehospital and Disaster Medicine",
+      "doi": "10.1017/S1049023X18000870",
+      "url": "https://doi.org/10.1017/S1049023X18000870"
+    },
+    {
+      "id": "rockloff2018mobile",
+      "type": "techreport",
+      "title": "Mobile EGMs Apps – The perfect substitute or the perfect storm?",
+      "authors": "Rockloff, M. and Greer, N. and Armstrong, T. and Thorne, H. and Langham, E. and Browne, M. and Moskovsky, N. and Goodwin, B. and Li, E.",
+      "year": 2018,
+      "venue": "",
+      "doi": "",
+      "url": "https://responsiblegambling.vic.gov.au/resources/publications/mobile-egms-apps-the-perfect-substitute-or-the-perfect-storm-407/"
+    },
+    {
+      "id": "browne2018prevalence",
+      "type": "article",
+      "title": "Prevalence of gambling-related harm provides evidence for the prevention paradox",
+      "authors": "Browne, M. and Rockloff, M. J.",
+      "year": 2018,
+      "venue": "Journal of Behavioral Addictions",
+      "doi": "10.1556/2006.7.2018.41",
+      "url": "https://doi.org/10.1556/2006.7.2018.41"
+    },
+    {
+      "id": "maguire2018preventing",
+      "type": "article",
+      "title": "Preventing EMS workplace violence: A mixed-methods analysis of insights from assaulted medics",
+      "authors": "Maguire, B. J. and O'Neill, B. J. and O'Meara, P. and Browne, M. and Dealy, M. T.",
+      "year": 2018,
+      "venue": "Injury",
+      "doi": "10.1016/j.injury.2018.05.007",
+      "url": "https://doi.org/10.1016/j.injury.2018.05.007"
+    },
+    {
+      "id": "browne2018then",
+      "type": "article",
+      "title": "Then and now: Consumption and dependence in e-cigarette users who formerly smoked cigarettes",
+      "authors": "Browne, M. and Todd, D.",
+      "year": 2018,
+      "venue": "Addictive Behaviors",
+      "doi": "10.1016/j.addbeh.2017.07.034",
+      "url": "https://doi.org/10.1016/j.addbeh.2017.07.034"
+    },
+    {
+      "id": "browne2018validation",
+      "type": "article",
+      "title": "Validation of the Short Gambling Harm Screen (SGHS): A Tool for Assessment of Harms from Gambling",
+      "authors": "Browne, M. and Goodwin, B. C. and Rockloff, M. J.",
+      "year": 2018,
+      "venue": "Journal of Gambling Studies",
+      "doi": "10.1007/s10899-017-9698-y",
+      "url": "https://doi.org/10.1007/s10899-017-9698-y"
+    },
+    {
+      "id": "russell2017randomised",
+      "type": "article",
+      "title": "[O3-02-04]: A randomised controlled trial to determine the effect of assessment location and number of assessments on driving performance of people with dementia",
+      "authors": "Russell, K. J. and Unsworth, C. and Lovell, R. and Woodward, M. and Browne, M.",
+      "year": 2017,
+      "venue": "Alzheimer's \\& Dementia",
+      "doi": "10.1016/j.jalz.2017.07.311",
+      "url": "https://doi.org/10.1016/j.jalz.2017.07.311"
+    },
+    {
+      "id": "browne2017population",
+      "type": "article",
+      "title": "A population-level metric for gambling-related harm",
+      "authors": "Browne, M. and Greer, N. and Rawat, V. and Rockloff, M. J.",
+      "year": 2017,
+      "venue": "International Gambling Studies",
+      "doi": "10.1080/14459795.2017.1304973",
+      "url": "https://doi.org/10.1080/14459795.2017.1304973"
+    },
+    {
+      "id": "goodwin2017typical",
+      "type": "article",
+      "title": "A typical problem gambler affects six others",
+      "authors": "Goodwin, B. C. and Browne, M. and Rockloff, M. and Rose, J.",
+      "year": 2017,
+      "venue": "International Gambling Studies",
+      "doi": "10.1080/14459795.2017.1331252",
+      "url": "https://doi.org/10.1080/14459795.2017.1331252"
+    },
+    {
+      "id": "goodwin2017applying",
+      "type": "article",
+      "title": "Applying a revised two-factor model of impulsivity to predict health behaviour and well-being",
+      "authors": "Goodwin, B. and Browne, M. and Hing, N. and Russell, A.",
+      "year": 2017,
+      "venue": "Personality and Individual Differences",
+      "doi": "10.1016/j.paid.2017.02.029",
+      "url": "https://doi.org/10.1016/j.paid.2017.02.029"
+    },
+    {
+      "id": "li2017breaking",
+      "type": "article",
+      "title": "Breaking Bad: Comparing Gambling Harms Among Gamblers and Affected Others",
+      "authors": "Li, E. and Browne, M. and Rawat, V. and Langham, E. and Rockloff, M. J.",
+      "year": 2017,
+      "venue": "Journal of Gambling Studies",
+      "doi": "10.1007/s10899-016-9632-8",
+      "url": "https://doi.org/10.1007/s10899-016-9632-8"
+    },
+    {
+      "id": "langham2017could",
+      "type": "article",
+      "title": "Could EGM player-tracking systems help link gamblers to treatment services in Australia: a thematic analysis of counsellor and community educators’ perspectives",
+      "authors": "Langham, E. and Rockloff, M. and Browne, M. and Best, T.",
+      "year": 2017,
+      "venue": "International Gambling Studies",
+      "doi": "10.1080/14459795.2017.1359849",
+      "url": "https://doi.org/10.1080/14459795.2017.1359849"
+    },
+    {
+      "id": "rockloff2017environmental",
+      "type": "article",
+      "title": "Environmental Factors in the Choice of EGMs: A Discrete Choice Experiment",
+      "authors": "Rockloff, M. J. and Moskovsky, N. and Thorne, H. and Browne, M. and Bryden, G. M.",
+      "year": 2017,
+      "venue": "Journal of Gambling Studies",
+      "doi": "10.1007/s10899-016-9622-x",
+      "url": "https://doi.org/10.1007/s10899-016-9622-x"
+    },
+    {
+      "id": "hayman2017feasibility",
+      "type": "article",
+      "title": "Feasibility, acceptability and efficacy of a web-based computer-tailored physical activity intervention for pregnant women - the Fit4Two randomised controlled trial",
+      "authors": "Hayman, M. and Reaburn, P. and Browne, M. and Vandelanotte, C. and Alley, S. and Short, C. E.",
+      "year": 2017,
+      "venue": "BMC Pregnancy and Childbirth",
+      "doi": "10.1186/s12884-017-1277-9",
+      "url": "https://doi.org/10.1186/s12884-017-1277-9"
+    },
+    {
+      "id": "fahrer2017fourth_vol1",
+      "type": "techreport",
+      "title": "Fourth Social and Economic Impact Study of Gambling in Tasmania: Report 1",
+      "authors": "ACIL Allen Consulting and Deakin University and Central Queensland University and Social Research Centre",
+      "year": 2017,
+      "venue": "",
+      "doi": "",
+      "url": ""
+    },
+    {
+      "id": "fahrer2017fourth_vol2",
+      "type": "techreport",
+      "title": "Fourth Social and Economic Impact Study of Gambling in Tasmania: Report 2",
+      "authors": "ACIL Allen Consulting and Deakin University and Central Queensland University and Social Research Centre",
+      "year": 2017,
+      "venue": "",
+      "doi": "",
+      "url": ""
+    },
+    {
+      "id": "hilton2017longitudinal",
+      "type": "article",
+      "title": "Longitudinal employment outcomes of an early intervention vocational rehabilitation service for people admitted to rehabilitation with a traumatic spinal cord injury",
+      "authors": "Hilton, G. and Unsworth, C. A. and Murphy, G. C. and Browne, M. and Olver, J.",
+      "year": 2017,
+      "venue": "Spinal Cord",
+      "doi": "10.1038/sc.2017.24",
+      "url": "https://doi.org/10.1038/sc.2017.24"
+    },
+    {
+      "id": "browne2017measuring",
+      "type": "techreport",
+      "title": "Measuring the Burden of Gambling Harm in New Zealand",
+      "authors": "Browne, M. and Bellringer, M. and Greer, N. and Kolandai-Matchett, K. and Rawat, V. and Langham, E. and Rockloff, M. and Palmer Du Preez, K. and Abbott, M.",
+      "year": 2017,
+      "venue": "",
+      "doi": "",
+      "url": "https://www.health.govt.nz/publication/measuring-burden-gambling-harm-new-zealand"
+    },
+    {
+      "id": "smith2017owner",
+      "type": "article",
+      "title": "Owner-reported behavioural characteristics of dingoes (\\textitCanis dingo) living as companion animals: A comparison to 'modern' and 'ancient' dog breeds",
+      "authors": "Smith, B. P. and Browne, M. and Serpell, B.",
+      "year": 2017,
+      "venue": "Applied Animal Behaviour Science",
+      "doi": "10.1016/j.applanim.2016.11.010",
+      "url": "https://doi.org/10.1016/j.applanim.2016.11.010"
+    },
+    {
+      "id": "hing2017risk",
+      "type": "article",
+      "title": "Risk factors for gambling problems on online electronic gaming machines, race betting and sports betting",
+      "authors": "Hing, N. and Russell, A. M. and Browne, M.",
+      "year": 2017,
+      "venue": "Frontiers in Psychology",
+      "doi": "10.3389/fpsyg.2017.00779",
+      "url": "https://doi.org/10.3389/fpsyg.2017.00779"
+    },
+    {
+      "id": "browne2017dangers",
+      "type": "article",
+      "title": "The dangers of conflating gambling-related harm with disordered gambling",
+      "authors": "Browne, M. and Rockloff, M. J.",
+      "year": 2017,
+      "venue": "Journal of Behavioral Addictions",
+      "doi": "10.1556/2006.6.2017.059",
+      "url": "https://doi.org/10.1556/2006.6.2017.059"
+    },
+    {
+      "id": "rockloff2017gambling",
+      "type": "article",
+      "title": "The Gambling Question",
+      "authors": "Rockloff, M. J. and Browne, M.",
+      "year": 2017,
+      "venue": "Bulletin of the National Association for Gambling Studies",
+      "doi": "",
+      "url": ""
+    },
+    {
+      "id": "browne2017social",
+      "type": "techreport",
+      "title": "The Social Cost of Gambling to Victoria",
+      "authors": "Browne, M. and Greer, N. and Armstrong, T. and Doran, C. and Kinchin, I. and Langham, E. and Rockloff, M.",
+      "year": 2017,
+      "venue": "",
+      "doi": "",
+      "url": "https://responsiblegambling.vic.gov.au/resources/publications/the-social-cost-of-gambling-to-victoria-121/"
+    },
+    {
+      "id": "browne2017what",
+      "type": "article",
+      "title": "What is the harm? Applying a public health methodology to measure the impact of gambling problems and harm on quality of life",
+      "authors": "Browne, M. and Rawat, V. and Greer, N. and Langham, E. and Rockloff, M. and Hanley, C.",
+      "year": 2017,
+      "venue": "Journal of Gambling Issues",
+      "doi": "10.4309/jgi.2017.36.2",
+      "url": "https://doi.org/10.4309/jgi.2017.36.2"
+    },
+    {
+      "id": "browne2016anti",
+      "type": "article",
+      "title": "Anti-vaccination and CAM reflect a common worldview",
+      "authors": "Browne, M.",
+      "year": 2016,
+      "venue": "Australasian Science",
+      "doi": "",
+      "url": "https://web.archive.org/web/20190324111334/http://www.australasianscience.com.au/article/issue-november-2016/anti-vaccination-and-cam-reflect-common-worldview.html"
+    },
+    {
+      "id": "browne2016assessing",
+      "type": "techreport",
+      "title": "Assessing gambling-related harm in Victoria: a public health perspective",
+      "authors": "Browne, M. and Langham, E. and Rawat, V. and Greer, N. and Li, E. and Rose, J. and Rockloff, M. and Donaldson, P. and Thorne, H. and Goodwin, B. and Bryden, G. and Best, T.",
+      "year": 2016,
+      "venue": "",
+      "doi": "",
+      "url": ""
+    },
+    {
+      "id": "donaldson2016attitudes",
+      "type": "article",
+      "title": "Attitudes Towards Gambling and Gambling Reform in Australia",
+      "authors": "Donaldson, P. and Rockloff, M. J. and Browne, M. and Sorenson, C. M. and Langham, E. and Li, E.",
+      "year": 2016,
+      "venue": "Journal of Gambling Studies",
+      "doi": "10.1007/s10899-015-9529-y",
+      "url": "https://doi.org/10.1007/s10899-015-9529-y"
+    },
+    {
+      "id": "bryden2016development",
+      "type": "article",
+      "title": "Development and evaluation of the R-I-CAM-Q as a brief summative measure of CAM utilisation",
+      "authors": "Bryden, G. and Browne, M.",
+      "year": 2016,
+      "venue": "Complementary Therapies in Medicine",
+      "doi": "10.1016/j.ctim.2016.05.007",
+      "url": "https://doi.org/10.1016/j.ctim.2016.05.007"
+    },
+    {
+      "id": "goodwin2016differential",
+      "type": "article",
+      "title": "Differential Effects of Reward Drive and Rash Impulsivity on the Consumption of a Range of Hedonic Stimuli",
+      "authors": "Goodwin, B. C. and Browne, M. and Rockloff, M. and Loxton, N.",
+      "year": 2016,
+      "venue": "Journal of Behavioral Addictions",
+      "doi": "10.1556/2006.5.2016.047",
+      "url": "https://doi.org/10.1556/2006.5.2016.047"
+    },
+    {
+      "id": "pitcher2016effects",
+      "type": "article",
+      "title": "Effects of trawling on sessile megabenthos in the Great Barrier Reef and evaluation of the efficacy of management strategies",
+      "authors": "Pitcher, C. R. and Ellis, N. and Venables, W. N. and Wassenberg, T. J. and Burridge, C. Y. and Smith, G. P. and Browne, M. and Pantus, F. and Poiner, I. R. and Doherty, P. J. and Hooper, J. N. A. and Gribble, N.",
+      "year": 2016,
+      "venue": "ICES Journal of Marine Science",
+      "doi": "10.1093/icesjms/fsv055",
+      "url": "https://doi.org/10.1093/icesjms/fsv055"
+    },
+    {
+      "id": "ferguson2016fatigue",
+      "type": "article",
+      "title": "Fatigue in Emergency Services Operations: Assessment of the Optimal Objective and Subjective Measures Using a Simulated Wildfire Deployment",
+      "authors": "Ferguson, S. A. and Smith, B. P. and Browne, M. and Rockloff, M. J.",
+      "year": 2016,
+      "venue": "International Journal of Environmental Research and Public Health",
+      "doi": "10.3390/ijerph13020171",
+      "url": "https://doi.org/10.3390/ijerph13020171"
+    },
+    {
+      "id": "rockloff2016innovation",
+      "type": "techreport",
+      "title": "Innovation in Traditional Gambling Products",
+      "authors": "Rockloff, M. and Donaldson, P. and Browne, M. and Greer, N. and Moskovsky, N. and Armstrong, T. and Thorne, H. and Goodwin, B. and Langham, E.",
+      "year": 2016,
+      "venue": "",
+      "doi": "",
+      "url": "http://www.gamblingresearch.org.au/home/research/gra+research+reports/innovation+in+traditional+gambling+products"
+    },
+    {
+      "id": "martin2016interprofessional",
+      "type": "article",
+      "title": "Interprofessional Scenario-Based Learning for New Graduates in a Regional Setting: A Pilot Study",
+      "authors": "Martin, P. and Newby, M. and Moran, M. and Browne, M. and Kumar, S.",
+      "year": 2016,
+      "venue": "Internet Journal of Allied Health Sciences and Practice",
+      "doi": "10.46743/1540-580X/2016.1572",
+      "url": "https://nsuworks.nova.edu/ijahsp/vol14/iss3/6/"
+    },
+    {
+      "id": "li2016jackpot",
+      "type": "article",
+      "title": "Jackpot structural features: Rollover effect and goal-gradient Effect in EGM gambling",
+      "authors": "Li, E. and Rockloff, M. J. and Browne, M. and Donaldson, P.",
+      "year": 2016,
+      "venue": "Journal of Gambling Studies",
+      "doi": "10.1007/s10899-015-9557-7",
+      "url": "https://doi.org/10.1007/s10899-015-9557-7"
+    },
+    {
+      "id": "paterson2016prior",
+      "type": "article",
+      "title": "Prior sleep and perceptions of risk when driving",
+      "authors": "Paterson, J. L. and Browne, M. and Ferguson, S. and Dawson, D.",
+      "year": 2016,
+      "venue": "Sleep and Biological Rhythms",
+      "doi": "10.1007/s41105-016-0058-6",
+      "url": "https://doi.org/10.1007/s41105-016-0058-6"
+    },
+    {
+      "id": "goodwin2016rash",
+      "type": "article",
+      "title": "Rash impulsivity predicts lower anticipated pleasure response and a preference for the supernormal",
+      "authors": "Goodwin, B. C. and Browne, M. and Rockloff, M. and Loxton, N. J.",
+      "year": 2016,
+      "venue": "Personality and Individual Differences",
+      "doi": "10.1016/j.paid.2016.01.030",
+      "url": "https://doi.org/10.1016/j.paid.2016.01.030"
+    },
+    {
+      "id": "omullan2016risky",
+      "type": "article",
+      "title": "Risky business or not? FIFOs, sexual risk taking and the Australian mining industry",
+      "authors": "O'Mullan, C. and Debattista, J. and Browne, M.",
+      "year": 2016,
+      "venue": "Health Promotion Journal of Australia",
+      "doi": "10.1071/HE15011",
+      "url": "https://doi.org/10.1071/HE15011"
+    },
+    {
+      "id": "rose2016scepticism",
+      "type": "article",
+      "title": "Scepticism towards vaccination is associated with anti-scientific attitudes and related cultural factors",
+      "authors": "Rose, L. and Browne, M. and Bryden, G.",
+      "year": 2016,
+      "venue": "Focus on Alternative and Complementary Therapies",
+      "doi": "10.1111/fct.12234",
+      "url": "https://doi.org/10.1111/fct.12234"
+    },
+    {
+      "id": "smith2016accuracy",
+      "type": "article",
+      "title": "The accuracy of subjective measures for assessing fatigue related decrements in multi-stressor environments",
+      "authors": "Smith, B. and Browne, M. and Armstrong, T. A. and Ferguson, S. A.",
+      "year": 2016,
+      "venue": "Safety Science",
+      "doi": "10.1016/j.ssci.2016.03.006",
+      "url": "https://doi.org/10.1016/j.ssci.2016.03.006"
+    },
+    {
+      "id": "langham2016understanding",
+      "type": "article",
+      "title": "Understanding gambling related harm: a proposed definition, conceptual framework, and taxonomy of harms",
+      "authors": "Langham, E. and Thorne, H. and Browne, M. and Donaldson, P. and Rose, J. and Rockloff, M. J.",
+      "year": 2016,
+      "venue": "BMC Public Health",
+      "doi": "10.1186/s12889-016-2747-0",
+      "url": "https://doi.org/10.1186/s12889-016-2747-0"
+    },
+    {
+      "id": "donaldson2016veiled",
+      "type": "article",
+      "title": "Veiled EGM jackpots: The effects of hidden and mystery jackpots on gambling intensity",
+      "authors": "Donaldson, P. and Langham, E. and Rockloff, M. J. and Browne, M.",
+      "year": 2016,
+      "venue": "Journal of Gambling Studies",
+      "doi": "10.1007/s10899-015-9566-6",
+      "url": "https://doi.org/10.1007/s10899-015-9566-6"
+    },
+    {
+      "id": "james2015exploratory",
+      "type": "article",
+      "title": "An exploratory study of the factors associated with an initial testing process: Testing the testing",
+      "authors": "James, T. and Conradie, H. and Saint, R. and Browne, M.",
+      "year": 2015,
+      "venue": "International Studies in Widening Participation",
+      "doi": "",
+      "url": ""
+    },
+    {
+      "id": "schoeppe2015associations",
+      "type": "article",
+      "title": "Associations between children’s active travel and levels of physical activity and sedentary behavior",
+      "authors": "Schoeppe, S. and Duncan, M. J. and Badland, H. M. and Oliver, M. and Browne, M.",
+      "year": 2015,
+      "venue": "Journal of Transport \\& Health",
+      "doi": "10.1016/j.jth.2015.05.001",
+      "url": "https://doi.org/10.1016/j.jth.2015.05.001"
+    },
+    {
+      "id": "browne2015delusions",
+      "type": "article",
+      "title": "Delusions of expertise: the high standard of proof needed to demonstrate skills at horserace handicapping",
+      "authors": "Browne, M. and Rockloff, M. J. and Blaszczynski, A. and Allcock, C. and Windross, A.",
+      "year": 2015,
+      "venue": "Journal of Gambling Studies",
+      "doi": "10.1007/s10899-013-9420-7",
+      "url": "https://doi.org/10.1007/s10899-013-9420-7"
+    },
+    {
+      "id": "donaldson2015developing",
+      "type": "techreport",
+      "title": "Developing and validating a scale to measure the enacted and felt stigma of gambling",
+      "authors": "Donaldson, P. and Best, T. and Langham, E. and Browne, M. and Oorloff, A.",
+      "year": 2015,
+      "venue": "",
+      "doi": "",
+      "url": ""
+    },
+    {
+      "id": "goodwin2015gamblers",
+      "type": "article",
+      "title": "Do gamblers eat more salt? Testing a latent trait model of covariance in consumption",
+      "authors": "Goodwin, B. C. and Browne, M. and Rockloff, M. and Donaldson, P.",
+      "year": 2015,
+      "venue": "Journal of Behavioral Addictions",
+      "doi": "10.1556/2006.4.2015.022",
+      "url": "https://doi.org/10.1556/2006.4.2015.022"
+    },
+    {
+      "id": "rockloff2015egm",
+      "type": "techreport",
+      "title": "EGM environments that contribute to excess consumption and harm",
+      "authors": "Rockloff, M. and Thorne, H. and Goodwin, B. and Moskovsky, N. and Langham, E. and Browne, M. and Donaldson, P. and Li, E. and Rose, J.",
+      "year": 2015,
+      "venue": "",
+      "doi": "",
+      "url": ""
+    },
+    {
+      "id": "browne2015egm",
+      "type": "article",
+      "title": "EGM Jackpots and player behaviour: An in-venue shadowing study",
+      "authors": "Browne, M. and Langham, E. and Rockloff, M. J. and Li, E. and Donaldson, P. and Goodwin, B.",
+      "year": 2015,
+      "venue": "Journal of Gambling Studies",
+      "doi": "10.1007/s10899-014-9485-y",
+      "url": "https://doi.org/10.1007/s10899-014-9485-y"
+    },
+    {
+      "id": "browne2015going",
+      "type": "article",
+      "title": "Going against the Herd: Psychological and Cultural Factors Underlying the ‘Vaccination Confidence Gap’",
+      "authors": "Browne, M. and Thomson, P. and Rockloff, M. J. and Pennycook, G.",
+      "year": 2015,
+      "venue": "PLOS ONE",
+      "doi": "10.1371/journal.pone.0132562",
+      "url": "https://doi.org/10.1371/journal.pone.0132562"
+    },
+    {
+      "id": "scholtes2015internalized",
+      "type": "article",
+      "title": "Internalized and externalized continuing bonds in bereaved parents: their relationship with grief intensity and personal growth",
+      "authors": "Scholtes, D. and Browne, M.",
+      "year": 2015,
+      "venue": "Death Studies",
+      "doi": "10.1080/07481187.2014.890680",
+      "url": "https://doi.org/10.1080/07481187.2014.890680"
+    },
+    {
+      "id": "rockloff2015jackpot",
+      "type": "article",
+      "title": "Jackpot expiry: An experimental investigation of a new EGM player-protection feature",
+      "authors": "Rockloff, M. J. and Donaldson, P. and Browne, M.",
+      "year": 2015,
+      "venue": "Journal of Gambling Studies",
+      "doi": "10.1007/s10899-014-9472-3",
+      "url": "https://doi.org/10.1007/s10899-014-9472-3"
+    },
+    {
+      "id": "goodwin2015measuring",
+      "type": "article",
+      "title": "Measuring preference for supernormal over natural rewards: A two-dimensional anticipatory pleasure scale",
+      "authors": "Goodwin, B. C. and Browne, M. and Rockloff, M.",
+      "year": 2015,
+      "venue": "Evolutionary Psychology",
+      "doi": "10.1177/1474704915613914",
+      "url": "https://doi.org/10.1177/1474704915613914"
+    },
+    {
+      "id": "happell2015scoping",
+      "type": "article",
+      "title": "Scoping review of research in Australia on co-occurrence of physical and serious mental illness and integrated care",
+      "authors": "Happell, B. and Galletly, C. and Castle, D. and Platania-Phung, C. and Stanton, R. and Scott, D. and McKenna, B. and Millar, F. and Liu, D. and Browne, M. and Furness, T.",
+      "year": 2015,
+      "venue": "International Journal of Mental Health Nursing",
+      "doi": "10.1111/inm.12142",
+      "url": "https://doi.org/10.1111/inm.12142"
+    },
+    {
+      "id": "donaldson2015validation",
+      "type": "article",
+      "title": "Validation of the Gambling Perceived Stigma Scale (GPSS) and the Gambling Experienced Stigma Scale (GESS)",
+      "authors": "Donaldson, P. and Langham, E. and Best, T. and Browne, M.",
+      "year": 2015,
+      "venue": "Journal of Gambling Issues",
+      "doi": "10.4309/jgi.2015.31.8",
+      "url": "https://doi.org/10.4309/jgi.2015.31.8"
+    },
+    {
+      "id": "schoeppe2014associations",
+      "type": "article",
+      "title": "Associations between children’s independent mobility and physical activity",
+      "authors": "Schoeppe, S. and Duncan, M. J. and Badland, H. M. and Oliver, M. and Browne, M.",
+      "year": 2014,
+      "venue": "BMC Public Health",
+      "doi": "10.1186/1471-2458-14-91",
+      "url": "https://doi.org/10.1186/1471-2458-14-91"
+    },
+    {
+      "id": "harlow2014can",
+      "type": "article",
+      "title": "Can monitoring consumer requests for opioid-replacement therapy improve access to treatment?",
+      "authors": "Harlow, W. and Happell, B. and Browne, G. and Browne, M.",
+      "year": 2014,
+      "venue": "Australian Health Review",
+      "doi": "10.1071/AH13212",
+      "url": "https://doi.org/10.1071/AH13212"
+    },
+    {
+      "id": "rockloff2014sure",
+      "type": "article",
+      "title": "It’s a sure bet you’re going to die: Existential terror promotes gambling urges in problem players",
+      "authors": "Rockloff, M. J. and Browne, M. and Li, E. and O’Shea, T.",
+      "year": 2014,
+      "venue": "Gambling Research",
+      "doi": "",
+      "url": ""
+    },
+    {
+      "id": "gal2014long",
+      "type": "article",
+      "title": "Long-Term Automated Monitoring of Nearshore Wave Height From Digital Video",
+      "authors": "Gal, Y. and Browne, M. and Lane, C.",
+      "year": 2014,
+      "venue": "IEEE Transactions on Geoscience and Remote Sensing",
+      "doi": "10.1109/TGRS.2013.2272790",
+      "url": "https://doi.org/10.1109/TGRS.2013.2272790"
+    },
+    {
+      "id": "thomson2014psychosocial",
+      "type": "article",
+      "title": "Psychosocial factors that predict why people use complementary and alternative medicine and continue with its use: A population based study",
+      "authors": "Thomson, P. and Jones, J. and Browne, M. and Leslie, S. J.",
+      "year": 2014,
+      "venue": "Complementary Therapies in Clinical Practice",
+      "doi": "10.1016/j.ctcp.2014.09.004",
+      "url": "https://doi.org/10.1016/j.ctcp.2014.09.004"
+    },
+    {
+      "id": "browne2014reflective",
+      "type": "article",
+      "title": "Reflective minds and open hearts: Cognitive style and personality predict religiosity and spiritual thinking in a community sample",
+      "authors": "Browne, M. and Pennycook, G. and Goodwin, B. and McHenry, M.",
+      "year": 2014,
+      "venue": "European Journal of Social Psychology",
+      "doi": "10.1002/ejsp.2059",
+      "url": "https://doi.org/10.1002/ejsp.2059"
+    },
+    {
+      "id": "rockloff2013impact",
+      "type": "techreport",
+      "title": "The impact of electronic gaming machine jackpots on gambling behaviour",
+      "authors": "Rockloff, M. and Hing, N. and Donaldson, P. and Li, E. and Browne, M. and Langham, E.",
+      "year": 2014,
+      "venue": "",
+      "doi": "",
+      "url": ""
+    },
+    {
+      "id": "thomson2014why",
+      "type": "article",
+      "title": "Why people seek complementary and alternative medicine before conventional medical treatment: a population based study",
+      "authors": "Thomson, P. and Jones, J. and Browne, M. and Leslie, S. J.",
+      "year": 2014,
+      "venue": "Complementary Therapies in Clinical Practice",
+      "doi": "10.1016/j.ctcp.2014.07.008",
+      "url": "https://doi.org/10.1016/j.ctcp.2014.07.008"
+    },
+    {
+      "id": "wolkenhauer2012daily",
+      "type": "incollection",
+      "title": "Daily and seasonal patterns in behaviour of the commercially important sea cucumber, \\textitHolothuria scabra",
+      "authors": "Wolkenhauer, S. M. and Skewes, T. and Browne, M. and Chetwynd, D.",
+      "year": 2013,
+      "venue": "Echinoderms in a Changing World: Proceedings of the 13th International Echinoderm Conference",
+      "doi": "",
+      "url": ""
+    },
+    {
+      "id": "browne2013too",
+      "type": "article",
+      "title": "Too open to ideas? The psychology of CAM",
+      "authors": "Browne, M.",
+      "year": 2013,
+      "venue": "Australasian Science",
+      "doi": "",
+      "url": ""
+    },
+    {
+      "id": "browne2012regularized",
+      "type": "article",
+      "title": "Regularized tessellation density estimation with bootstrap aggregation and complexity penalization",
+      "authors": "Browne, M.",
+      "year": 2012,
+      "venue": "Pattern Recognition",
+      "doi": "10.1016/j.patcog.2011.09.003",
+      "url": "https://doi.org/10.1016/j.patcog.2011.09.003"
+    },
+    {
+      "id": "lane2011new",
+      "type": "inproceedings",
+      "title": "A new technique for measuring breaking wave dynamics, heights and periods",
+      "authors": "Lane, C. and Gal, Y. and Browne, M. and Short, A. D. and Strauss, D. and Tomlinson, R. and Jackson, K. and Tan, C. and Blumenstein, M.",
+      "year": 2011,
+      "venue": "Australasian Coasts and Ports 2011 Conference",
+      "doi": "",
+      "url": ""
+    },
+    {
+      "id": "gal2011automatic",
+      "type": "inproceedings",
+      "title": "Automatic estimation of near shore wave height from video time stacks",
+      "authors": "Gal, Y. and Browne, M. and Lane, C.",
+      "year": 2011,
+      "venue": "Proceedings of the 2011 International Conference on Digital Image Computing: Techniques and Applications (DICTA 2011)",
+      "doi": "10.1109/DICTA.2011.68",
+      "url": "https://doi.org/10.1109/DICTA.2011.68"
+    },
+    {
+      "id": "lane2010new",
+      "type": "inproceedings",
+      "title": "A new system for breakzone location and the measurement of breaking wave heights and periods",
+      "authors": "Lane, C. and Gal, Y. and Browne, M. and Short, A. D. and Strauss, D. and Tomlinson, R. and Jackson, K. and Tan, C. and Blumenstein, M.",
+      "year": 2010,
+      "venue": "2010 IEEE International Geoscience and Remote Sensing Symposium (IGARSS)",
+      "doi": "10.1109/IGARSS.2010.5652740",
+      "url": "https://doi.org/10.1109/IGARSS.2010.5652740"
+    },
+    {
+      "id": "mayer2010esns",
+      "type": "inproceedings",
+      "title": "ESNs with one dimensional topography",
+      "authors": "Mayer, N. M. and Browne, M. and Wu, H. J.",
+      "year": 2010,
+      "venue": "Neural Information Processing. Models and Applications (ICONIP 2010)",
+      "doi": "10.1007/978-3-642-17534-3_26",
+      "url": "https://doi.org/10.1007/978-3-642-17534-3_26"
+    },
+    {
+      "id": "browne2008convolutional",
+      "type": "incollection",
+      "title": "Convolutional Neural Networks for Image Processing with Applications in Mobile Robotics",
+      "authors": "Browne, M. and Ghidary, S. S. and Mayer, N. M.",
+      "year": 2008,
+      "venue": "Speech, Audio, Image and Biomedical Signal Processing Using Neural Networks",
+      "doi": "10.1007/978-3-540-75398-8_15",
+      "url": "https://doi.org/10.1007/978-3-540-75398-8_15"
+    },
+    {
+      "id": "pitcher2008integrated",
+      "type": "misc",
+      "title": "Integrated approaches to assessment of seabed habitat \\& biodiversity in support of trawl management on the continental shelf of the Great Barrier Reef (GBR), northeast Australia",
+      "authors": "Pitcher, C. R. and Ellis, N. and Venables, W. and Wassenberg, T. J. and Burridge, C. Y. and Pantus, F. and Smith, G. P. and Browne, M. and Doherty, P. J. and Hooper, J. N. A. and Gribble, N. and Poiner, I. R.",
+      "year": 2008,
+      "venue": "",
+      "doi": "10.17895/ices.pub.25243687.v1",
+      "url": "http://www.ices.dk/sites/pub/CM%20Doccuments/CM-2008/E/E2708.pdf"
+    },
+    {
+      "id": "pitcher2008mapping",
+      "type": "misc",
+      "title": "Mapping seabed habitats and biodiversity on the continental shelf of the Great Barrier Reef (GBR) region by biophysical prediction",
+      "authors": "Pitcher, C. R. and Browne, M. and Venables, W. and Ellis, N. and Doherty, P. and Hooper, J. and Gribble, N.",
+      "year": 2008,
+      "venue": "",
+      "doi": "10.17895/ices.pub.25243780.v1",
+      "url": "http://www.ices.dk/sites/pub/CM%20Doccuments/CM-2008/G/G1908.pdf"
+    },
+    {
+      "id": "mayer2008symmetries",
+      "type": "article",
+      "title": "Symmetries, non-Euclidean metrics, and patterns in a Swift-Hohenberg model of the visual cortex",
+      "authors": "Mayer, N. M. and Browne, M. and Herrmann, J. M. and Asada, M.",
+      "year": 2008,
+      "venue": "Biological Cybernetics",
+      "doi": "10.1007/s00422-008-0238-9",
+      "url": "https://doi.org/10.1007/s00422-008-0238-9"
+    },
+    {
+      "id": "browne2007geometric",
+      "type": "article",
+      "title": "A geometric approach to non-parametric density estimation",
+      "authors": "Browne, M.",
+      "year": 2007,
+      "venue": "Pattern Recognition",
+      "doi": "10.1016/j.patcog.2006.05.012",
+      "url": "https://doi.org/10.1016/j.patcog.2006.05.012"
+    },
+    {
+      "id": "browne2007multi",
+      "type": "article",
+      "title": "A multiscale polynomial filter for adaptive smoothing",
+      "authors": "Browne, M. and Mayer, N. and Cutmore, T. R. H.",
+      "year": 2007,
+      "venue": "Digital Signal Processing",
+      "doi": "10.1016/j.dsp.2006.01.006",
+      "url": "https://doi.org/10.1016/j.dsp.2006.01.006"
+    },
+    {
+      "id": "kuhnert2007conceptual",
+      "type": "techreport",
+      "title": "Conceptual and statistical framework for a water quality component of an integrated report card for the Great Barrier Reef catchments",
+      "authors": "Kuhnert, P. and Bartley, R. and Peterson, E. and Browne, M. and Harch, B. and Steven, A. and Gibbs, M. and Henderson, A. and Brando, V.",
+      "year": 2007,
+      "venue": "",
+      "doi": "",
+      "url": ""
+    },
+    {
+      "id": "haywood2007improved",
+      "type": "techreport",
+      "title": "Improved knowledge of Torres Strait seabed biota and reef habitats",
+      "authors": "Haywood, M. D. E. and Browne, M. and Skewes, T. and Rochester, W. and McLeod, I. and Pitcher, R. and Dennis, D. and Dunn, J. and Cheers, S. and Wassenberg, T.",
+      "year": 2007,
+      "venue": "",
+      "doi": "",
+      "url": ""
+    },
+    {
+      "id": "pitcher2007indicators",
+      "type": "techreport",
+      "title": "Indicators of protection levels for seabed habitats, species and assemblages on the continental shelf of the Great Barrier Reef World Heritage Area",
+      "authors": "Pitcher, C. R. and Venables, B. and Browne, M. and Doherty, P. and De'ath, G.",
+      "year": 2007,
+      "venue": "",
+      "doi": "",
+      "url": ""
+    },
+    {
+      "id": "pitcher2007mapping",
+      "type": "techreport",
+      "title": "Mapping and characterisation of key biotic and physical attributes of the Torres Strait ecosystem",
+      "authors": "Pitcher, R. and Haywood, M. and Hooper, J. and Coles, R. and Bartlett, C. and Browne, M. and Cannard, T. and Carini, G. and Carter, A. and Cheers, S. and Chetwynd, D. and Colefax, A. and Cook, S. and Davie, P. and Ellis, N. and Fellegara, I. and Forcey, K. and Furey, M. and Gledhill, D. and Hendriks, P. and Jacobsen, I. and Johnson, J. and Jones, M. and Last, P. and Marks, S. and McLeod, I. and Sheils, J. and Sheppard, J. and Smith, G. and Strickland, C. and Van der Geest, C. and Venables, B. and Wassenberg, T. and Yearsley, G.",
+      "year": 2007,
+      "venue": "",
+      "doi": "",
+      "url": ""
+    },
+    {
+      "id": "browne2007near",
+      "type": "article",
+      "title": "Near-shore swell estimation from a global wind-wave model: Spectral process, linear, and artificial neural network models",
+      "authors": "Browne, M. and Castelle, B. and Strauss, D. and Tomlinson, R. and Blumenstein, M. and Lane, C.",
+      "year": 2007,
+      "venue": "Coastal Engineering",
+      "doi": "10.1016/j.coastaleng.2006.11.007",
+      "url": "https://doi.org/10.1016/j.coastaleng.2006.11.007"
+    },
+    {
+      "id": "browne2004review",
+      "type": "techreport",
+      "title": "Review of existing approaches used to develop integrated report card frameworks (IRCF) and their relevance to catchments draining to the Great Barrier Reef",
+      "authors": "Browne, M. and Kuhnert, P. and Peterson, E. and Bartley, R. and Steven, A. and Harch, B.",
+      "year": 2007,
+      "venue": "",
+      "doi": "",
+      "url": ""
+    },
+    {
+      "id": "pantus2006torres",
+      "type": "techreport",
+      "title": "Torres Strait Management Scenario Evaluation: Effects of Trawling",
+      "authors": "Pantus, F. and Ellis, N. and Browne, M. and Okey, T. and Robinson, M. and Rochester, W. and Welna, A.",
+      "year": 2007,
+      "venue": "",
+      "doi": "",
+      "url": ""
+    },
+    {
+      "id": "browne2006empirical",
+      "type": "article",
+      "title": "Empirical Estimation of Nearshore Waves From a Global Deep-Water Wave Model",
+      "authors": "Browne, M. and Strauss, D. and Castelle, B. and Blumenstein, M. and Tomlinson, R. and Lane, C.",
+      "year": 2006,
+      "venue": "IEEE Geoscience and Remote Sensing Letters",
+      "doi": "10.1109/LGRS.2006.876225",
+      "url": "https://doi.org/10.1109/LGRS.2006.876225"
+    },
+    {
+      "id": "mayer2006gyro",
+      "type": "inproceedings",
+      "title": "Gyro stabilized biped walking",
+      "authors": "Mayer, N. M. and Masui, K. and Browne, M. and Asada, M.",
+      "year": 2006,
+      "venue": "2006 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2006)",
+      "doi": "10.1109/IROS.2006.281934",
+      "url": "https://doi.org/10.1109/IROS.2006.281934"
+    },
+    {
+      "id": "strauss2006numerical",
+      "type": "inproceedings",
+      "title": "Numerical modelling and video analysis of intermediate beach state transitions",
+      "authors": "Strauss, D. and Browne, M. and Tomlinson, R. and Hughes, L.",
+      "year": 2006,
+      "venue": "Proceedings of the 7th International Conference on HydroScience and Engineering (ICHE 2006)",
+      "doi": "",
+      "url": ""
+    },
+    {
+      "id": "browne2006objective",
+      "type": "article",
+      "title": "Objective Beach-State Classification From Optical Sensing of Cross-Shore Dissipation Profiles",
+      "authors": "Browne, M. and Strauss, D. and Tomlinson, R. and Blumenstein, M.",
+      "year": 2006,
+      "venue": "IEEE Transactions on Geoscience and Remote Sensing",
+      "doi": "10.1109/TGRS.2006.877758",
+      "url": "https://doi.org/10.1109/TGRS.2006.877758"
+    },
+    {
+      "id": "green2006detection",
+      "type": "article",
+      "title": "The detection of persons in cluttered beach scenes using digital video imagery and neural network-based classification",
+      "authors": "Green, S. and Blumenstein, M. and Browne, M. and Tomlinson, R.",
+      "year": 2006,
+      "venue": "International Journal of Computational Intelligence and Applications",
+      "doi": "10.1142/S1469026806001927",
+      "url": "https://doi.org/10.1142/S1469026806001927"
+    },
+    {
+      "id": "mayer2006using",
+      "type": "article",
+      "title": "Using a gyro as a tool for continuously variable lateral stabilisation of dynamic bipeds",
+      "authors": "Mayer, N. M. and Masui, K. and Browne, M. and Asada, M. and Ogino, M.",
+      "year": 2006,
+      "venue": "Applied Bionics and Biomechanics",
+      "doi": "10.1533/abbi.2006.0032",
+      "url": "https://doi.org/10.1533/abbi.2006.0032"
+    },
+    {
+      "id": "browne2005intelligent",
+      "type": "inproceedings",
+      "title": "An intelligent system for remote monitoring and prediction of beach safety",
+      "authors": "Browne, M. and Blumenstein, M. M. and Tomlinson, R. B. and Lane, C.",
+      "year": 2005,
+      "venue": "Proceedings of the 12th International Conference on Artificial Intelligence and Applications (AIA 2005)",
+      "doi": "",
+      "url": ""
+    },
+    {
+      "id": "green2005detection",
+      "type": "inproceedings",
+      "title": "The detection and quantification of persons in cluttered beach scenes using neural network-based classification",
+      "authors": "Green, S. and Blumenstein, M. and Browne, M. and Tomlinson, R.",
+      "year": 2005,
+      "venue": "Proceedings of the 6th International Conference on Computational Intelligence and Multimedia Applications (ICCIMA 2005)",
+      "doi": "10.1109/ICCIMA.2005.57",
+      "url": "https://doi.org/10.1109/ICCIMA.2005.57"
+    },
+    {
+      "id": "mayer2005metric",
+      "type": "inproceedings",
+      "title": "What is the “right” metric for the modelling of feature maps in the visual cortex?",
+      "authors": "Mayer, N. M. and Asada, M. and Browne, M.",
+      "year": 2005,
+      "venue": "Proceedings of the 2nd International Symposium on Information Geometry and its Applications",
+      "doi": "",
+      "url": ""
+    },
+    {
+      "id": "mayer2004asymmetric",
+      "type": "inproceedings",
+      "title": "An Assymetric 2-D Passive Dynamic Walker",
+      "authors": "Mayer, N. and Herrmann, J. M. and Forough-Nassiraei, A. A. and Browne, M. and Christaller, T.",
+      "year": 2004,
+      "venue": "Proceedings of the 9th International Symposium on Artificial Life and Robotics (AROB 9th '04)",
+      "doi": "",
+      "url": ""
+    },
+    {
+      "id": "mayer2004echo",
+      "type": "inproceedings",
+      "title": "Echo State Networks and Self-Prediction",
+      "authors": "Mayer, N. M. and Browne, M.",
+      "year": 2004,
+      "venue": "Biologically Inspired Approaches to Advanced Information Technology",
+      "doi": "10.1007/978-3-540-27835-1_4",
+      "url": "https://doi.org/10.1007/978-3-540-27835-1_4"
+    },
+    {
+      "id": "ouellette2004genetic",
+      "type": "inproceedings",
+      "title": "Genetic algorithm optimization of a convolutional neural network for autonomous crack detection",
+      "authors": "Oullette, R. and Browne, M. and Hirasawa, K.",
+      "year": 2004,
+      "venue": "Proceedings of the 2004 Congress on Evolutionary Computation (CEC2004)",
+      "doi": "10.1109/CEC.2004.1330900",
+      "url": "https://doi.org/10.1109/CEC.2004.1330900"
+    },
+    {
+      "id": "pitcher2004seabed",
+      "type": "techreport",
+      "title": "Seabed Biodiversity on the Continental Shelf of the Great Barrier Reef World Heritage Area (Epibenthic Sled)",
+      "authors": "Pitcher, R. and Doherty, P. and Hooper, J. and Gribble, N. and Bartlett, C. and Browne, M. and others",
+      "year": 2004,
+      "venue": "",
+      "doi": "",
+      "url": ""
+    },
+    {
+      "id": "browne2003convolutional",
+      "type": "inproceedings",
+      "title": "Convolutional Neural Networks for Image Processing: An Application in Robot Vision",
+      "authors": "Browne, M. and Ghidary, S. S.",
+      "year": 2003,
+      "venue": "AI 2003: Advances in Artificial Intelligence",
+      "doi": "10.1007/978-3-540-24581-0_55",
+      "url": "https://doi.org/10.1007/978-3-540-24581-0_55"
+    },
+    {
+      "id": "ghidary2003convolutional",
+      "type": "inproceedings",
+      "title": "Convolutional neural networks for robot vision: numerical studies and implementation on a sewer robot",
+      "authors": "Shiry, S. and Browne, M.",
+      "year": 2003,
+      "venue": "Proceedings of the 8th Australian and New Zealand Intelligent Information Systems Conference (ANZIIS 2003)",
+      "doi": "",
+      "url": ""
+    },
+    {
+      "id": "dorn2003landmark",
+      "type": "inproceedings",
+      "title": "Landmark detection by a rotary laser scanner for autonomous robot navigation in sewer pipes",
+      "authors": "Dorn, M. and Browne, M. and Ghidary, S. S.",
+      "year": 2003,
+      "venue": "Proceedings of the 2nd International Conference on Mechatronics and Information Technology (ICMIT 2003)",
+      "doi": "",
+      "url": ""
+    },
+    {
+      "id": "ghidary2003omni",
+      "type": "inproceedings",
+      "title": "Omni-directional imaging for navigation in sewer pipes",
+      "authors": "Ghidary, S. S. and Browne, M. and Nassiraie, A. and Dorn, M.",
+      "year": 2003,
+      "venue": "Proceedings of the 2nd International Conference on Mechatronics and Information Technology (ICMIT 2003)",
+      "doi": "",
+      "url": ""
+    },
+    {
+      "id": "cutmore2003statistical",
+      "type": "article",
+      "title": "Statistical wavelet thresholding: A general method for noise reduction of psychophysiological data",
+      "authors": "Cutmore, T. R. H. and Browne, M.",
+      "year": 2003,
+      "venue": "Australian Journal of Psychology",
+      "doi": "",
+      "url": ""
+    },
+    {
+      "id": "browne2002low",
+      "type": "article",
+      "title": "Low-probability event-detection and separation via statistical wavelet thresholding: an application to psychophysiological denoising",
+      "authors": "Browne, M. and Cutmore, T. R. H.",
+      "year": 2002,
+      "venue": "Clinical Neurophysiology",
+      "doi": "10.1016/S1388-2457(02)00194-3",
+      "url": "https://doi.org/10.1016/S1388-2457(02)00194-3"
+    },
+    {
+      "id": "browne2002visual",
+      "type": "inproceedings",
+      "title": "Visual feature extraction via PCA-based parameterization of wavelet density functions",
+      "authors": "Browne, M. and Shiry, S. and Dorn, M. and Ouellette, R.",
+      "year": 2002,
+      "venue": "Proceedings of the 3rd International Symposium on Robots and Automation (ISRA 2002)",
+      "doi": "",
+      "url": ""
+    },
+    {
+      "id": "browne2002wavelet",
+      "type": "inproceedings",
+      "title": "Wavelet entropy-based feature extraction for crack detection in sewer pipes",
+      "authors": "Browne, M. and Dorn, M. and Ouellette, R. and Christaller, T. and Shiry, S.",
+      "year": 2002,
+      "venue": "Proceedings of the 6th International Conference on Mechatronics Technology (ICMT 2002)",
+      "doi": "",
+      "url": ""
+    },
+    {
+      "id": "browne2000adaptive",
+      "type": "article",
+      "title": "Adaptive wavelet filtering for analysis of event-related potentials from the electro-encephalogram",
+      "authors": "Browne, M. and Cutmore, T. R. H.",
+      "year": 2000,
+      "venue": "Medical and Biological Engineering and Computing",
+      "doi": "10.1007/BF02344870",
+      "url": "https://doi.org/10.1007/BF02344870"
+    }
+  ]
+}
