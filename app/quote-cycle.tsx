@@ -3,8 +3,8 @@
 import { useEffect, useState } from "react";
 
 const quotes = [
-  { text: "Among the world's top 2% of scientists.", attribution: "Stanford–Elsevier World's Top 2% Scientists list" },
-  { text: "Ranked among the top 200 scientists in his field.", attribution: "Stanford–Elsevier World's Top 2% Scientists list" },
+  { text: "Among the world's top 2% of scientists.", attribution: "Stanford–Elsevier global research rankings" },
+  { text: "Ranked among the top 200 scientists in his field.", attribution: "Stanford–Elsevier global research rankings" },
   { text: "Nominated for the Vice Chancellor's Award for Research Excellence.", attribution: "CQUniversity" },
   { text: "After 20 years he still hasn't learned how to stack the dishwasher correctly.", attribution: "Michiko Browne" },
   { text: "Who is Matthew Browne?", attribution: "Dr Eric Weinstein" },
