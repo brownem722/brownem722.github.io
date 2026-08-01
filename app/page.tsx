@@ -21,6 +21,7 @@ export default function Home() {
           <p className="eyebrow">{cv.currentPosition} · {cv.institution}</p>
           <h1>{cv.name}</h1>
           <p className="lede">{cv.profile}</p>
+          <p className="quiet-note">updated {cv.updated}</p>
         </div>
         <figure className="portrait-frame">
           {/* eslint-disable-next-line @next/next/no-img-element */}

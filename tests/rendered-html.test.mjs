@@ -14,6 +14,7 @@ test("static export contains the personal home page", async () => {
   assert.match(html, /computational statistics/);
   assert.match(html, /Chris Kavanagh/);
   assert.match(html, /Government-funded projects/);
+  assert.match(html, /updated 2026-06-26/);
   assert.match(html, /271/);
   assert.match(html, /View all publications/);
   assert.match(html, /headshot\.png/);
