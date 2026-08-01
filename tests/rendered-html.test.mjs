@@ -22,7 +22,7 @@ test("static export contains the personal home page", async () => {
   assert.match(quoteSource, /Shotokan Karate Loganholme/);
   assert.match(html, /Chris Kavanagh, Associate Professor of Psychology at Rikkyo University/);
   assert.match(html, /Research funding/);
-  assert.match(html, /Major funded projects/);
+  assert.match(html, /Funded research projects/);
   assert.doesNotMatch(html, /Completed research projects/);
   assert.match(html, /updated[\s\S]*?2026-06-26/);
   assert.match(html, /271/);

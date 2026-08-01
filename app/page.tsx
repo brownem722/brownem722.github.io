@@ -45,7 +45,7 @@ export default function Home() {
 
       <section className="record-summary shell" aria-label="Record summary">
         <div><strong>{cv.publications.length}</strong><span>Publications</span></div>
-        <div><strong>{cv.projects.length}</strong><span>Major funded projects</span></div>
+        <div><strong>{cv.projects.length}</strong><span>Funded research projects</span></div>
         <div><strong>{funding.value}</strong><span>{funding.label}</span></div>
         <div><strong>{episodes.length}</strong><span>Podcast episodes</span></div>
       </section>
