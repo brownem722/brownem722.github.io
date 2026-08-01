@@ -11,7 +11,7 @@ const quotes = [
   { text: "Vell, Matt's just zis guy, you know?", attribution: "Private brain care specialist to Zaphod Beeblebrox · Gag Halfrunt" },
 ];
 
-const displayMs = 5000;
+const displayMs = 8000;
 const fadeMs = 650;
 
 export default function QuoteCycle() {
