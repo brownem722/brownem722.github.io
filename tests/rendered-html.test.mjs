@@ -18,7 +18,8 @@ test("static export contains the personal home page", async () => {
   const quoteSource = await readFile(new URL("../app/quote-cycle.tsx", import.meta.url), "utf8");
   assert.match(quoteSource, /top 200 scientists in his field/);
   assert.match(quoteSource, /Private brain care specialist to Zaphod Beeblebrox/);
-  assert.match(quoteSource, /orange belt in Shotokan karate/);
+  assert.match(quoteSource, /promotion to Orange Belt/);
+  assert.match(quoteSource, /Shotokan Karate Loganholme/);
   assert.match(html, /Chris Kavanagh, Associate Professor of Psychology at Rikkyo University/);
   assert.match(html, /Research funding/);
   assert.match(html, /Major funded projects/);

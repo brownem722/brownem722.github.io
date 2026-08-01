@@ -9,7 +9,7 @@ const quotes = [
   { text: "After 20 years he still hasn't learned how to stack the dishwasher correctly.", attribution: "Michiko Browne" },
   { text: "Who is Matthew Browne?", attribution: "Eric Weinstein · Renowned Physicist" },
   { text: "Vell, Matt's just zis guy, you know?", attribution: "Private brain care specialist to Zaphod Beeblebrox · Gag Halfrunt" },
-  { text: "Matthew has satisfied all the requirements for promotion to orange belt in Shotokan karate.", attribution: "Ken White, Sensei" },
+  { text: "Matthew has satisfied all the requirements for promotion to Orange Belt.", attribution: "Ken White, Sensei, Shotokan Karate Loganholme" },
 ];
 
 const displayMs = 6500;
