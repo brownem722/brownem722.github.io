@@ -8,6 +8,8 @@ const cvPath = path.join(cvRoot, "Matthew_Browne_CV.md");
 const bibPath = path.join(cvRoot, "my_citations.bib");
 const projectsPath = path.join(cvRoot, "research_projects.csv");
 const outputPath = path.join(projectRoot, "data", "cv.json");
+const cvPdfPath = path.join(cvRoot, "Matthew_Browne_CV.pdf");
+const pdfOutputPath = path.join(projectRoot, "public", "Matthew_Browne_CV.pdf");
 
 const markdown = fs.readFileSync(cvPath, "utf8");
 const bibtex = fs.readFileSync(bibPath, "utf8");
@@ -170,4 +172,8 @@ const output = {
 
 fs.mkdirSync(path.dirname(outputPath), { recursive: true });
 fs.writeFileSync(outputPath, `${JSON.stringify(output, null, 2)}\n`, "utf8");
-console.log(`Synced ${output.publications.length} publications and ${output.projects.length} projects from ${cvRoot}`);
+if (fs.existsSync(cvPdfPath)) {
+  fs.mkdirSync(path.dirname(pdfOutputPath), { recursive: true });
+  fs.copyFileSync(cvPdfPath, pdfOutputPath);
+}
+console.log(`Synced ${output.publications.length} publications and ${output.projects.length} projects${fs.existsSync(cvPdfPath) ? " and the CV PDF" : ""} from ${cvRoot}`);

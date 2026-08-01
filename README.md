@@ -2,6 +2,8 @@
 
 The public website for Matthew Browne, generated from the maintained CV and bibliography in `D:\archive\CV`.
 
+Live site: <https://brownem722.github.io/>
+
 ## Content model
 
 - `data/cv.json` is the current public export of the CV, bibliography, and research project record.
@@ -25,7 +27,7 @@ git commit -m "Sync website from CV"
 git push
 ```
 
-`sync-cv` reads `D:\archive\CV\Matthew_Browne_CV.md` and `D:\archive\CV\my_citations.bib`. Set `CV_ROOT` if the CV archive is stored elsewhere.
+`sync-cv` reads the Markdown CV, BibTeX bibliography, research-project CSV, and generated PDF from `D:\archive\CV`. It refreshes both `data/cv.json` and `public/Matthew_Browne_CV.pdf`. Set `CV_ROOT` if the CV archive is stored elsewhere.
 
 ## Development
 
