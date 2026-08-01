@@ -12,7 +12,7 @@ const quotes = [
 ];
 
 const displayMs = 8000;
-const fadeMs = 650;
+const fadeMs = 1200;
 
 export default function QuoteCycle() {
   const [index, setIndex] = useState(0);
