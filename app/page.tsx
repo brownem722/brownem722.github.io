@@ -1,5 +1,6 @@
 import Link from "next/link";
 import { academicPublications, cv, episodes, writing } from "../lib/site-data";
+import QuoteCycle from "./quote-cycle";
 
 const funding = cv.summary.find((item) => item.label.toLowerCase() === "research funding") ?? { label: "Research funding", value: "" };
 const firstAuthorPattern = /^Browne,\s*M\./i;
@@ -39,6 +40,8 @@ export default function Home() {
           <figcaption>Professor · Central Queensland University</figcaption>
         </figure>
       </section>
+
+      <QuoteCycle />
 
       <section className="record-summary shell" aria-label="Record summary">
         <div><strong>{cv.publications.length}</strong><span>Publications</span></div>
