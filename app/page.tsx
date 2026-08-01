@@ -37,7 +37,7 @@ export default function Home() {
         <figure className="portrait-frame">
           {/* eslint-disable-next-line @next/next/no-img-element */}
           <img src="/headshot.png" alt="Black and white portrait of Matthew Browne" width="1536" height="1536" />
-          <figcaption>Professor · Central Queensland University</figcaption>
+          <figcaption>Matt Browne</figcaption>
         </figure>
       </section>
 
