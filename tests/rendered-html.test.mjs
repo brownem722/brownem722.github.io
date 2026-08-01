@@ -12,6 +12,7 @@ test("static export contains the personal home page", async () => {
   assert.match(html, /<h1>Matthew Browne<\/h1>/);
   assert.match(html, /Central Queensland University/);
   assert.match(html, /computational statistics/);
+  assert.match(html, /advises PhD, master's, and honours students in the psychology program/);
   assert.match(html, /Chris Kavanagh, Associate Professor of Psychology at Rikkyo University/);
   assert.match(html, /Research funding/);
   assert.match(html, /Major funded projects/);
