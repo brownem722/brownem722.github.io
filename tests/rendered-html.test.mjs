@@ -8,7 +8,7 @@ async function readExport(pathname) {
 
 test("static export contains the personal home page", async () => {
   const html = await readExport("index.html");
-  assert.match(html, /<title>Matthew Browne \| CV and publications<\/title>/i);
+  assert.match(html, /<title>Matthew Browne<\/title>/i);
   assert.match(html, /<h1>Matthew Browne<\/h1>/);
   assert.match(html, /Central Queensland University/);
   assert.match(html, /computational statistics/);
