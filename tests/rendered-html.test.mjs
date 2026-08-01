@@ -18,6 +18,7 @@ test("static export contains the personal home page", async () => {
   assert.match(html, /271/);
   assert.match(html, /Academic publications/);
   assert.match(html, /Research projects/);
+  assert.match(html, /Podcast episodes/);
   assert.match(html, /Popular articles/);
   assert.match(html, /Gambling in Australia: how bad is the problem/);
   assert.match(html, /You're probably not Galileo/);

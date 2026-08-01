@@ -44,6 +44,7 @@ export default function Home() {
         <div><strong>{cv.publications.length}</strong><span>Publications</span></div>
         <div><strong>{cv.projects.length}</strong><span>Completed research projects</span></div>
         <div><strong>{funding.value}</strong><span>{funding.label}</span></div>
+        <div><strong>{episodes.length}</strong><span>Podcast episodes</span></div>
       </section>
 
       <section className="section section-rule shell" id="cv">
