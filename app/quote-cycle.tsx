@@ -7,7 +7,7 @@ const quotes = [
   { text: "Ranked among the top 200 scientists in his field.", attribution: "Stanford–Elsevier global research rankings" },
   { text: "Nominated for the Vice Chancellor's Award for Research Excellence.", attribution: "CQUniversity" },
   { text: "After 20 years he still hasn't learned how to stack the dishwasher correctly.", attribution: "Michiko Browne" },
-  { text: "Who is Matthew Browne?", attribution: "Dr Eric Weinstein" },
+  { text: "Who is Matthew Browne?", attribution: "Eric Weinstein · Renowned Physicist" },
   { text: "Vell, Matt's just zis guy, you know?", attribution: "Private brain care specialist to Zaphod Beeblebrox · Gag Halfrunt" },
 ];
 
