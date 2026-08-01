@@ -4,7 +4,7 @@
   "institution": "Central Queensland University",
   "qualifications": "B.Beh.Sc (Hons) PhD",
   "email": "m.browne@cqu.edu.au",
-  "profile": "Professor Matthew Browne is an academic researcher at Central Queensland University with a publication and grant record spanning computational modelling, health research, gambling harm, public health measurement, and applied social science.",
+  "profile": "Professor Matthew Browne is an academic researcher at Central Queensland University. His research includes computational statistics, modelling in health research, gambling harm, psychometrics, and applied social science. He is co-host of Decoding the Gurus with Chris Kavanagh, where they analyse public intellectuals and online influencers through a psychosocial and anthropological lens, with particular attention to how they persuade and influence.",
   "education": [
     "Doctor of Philosophy (Ph.D.), Griffith University, Mt Gravatt, Brisbane, Australia, 2002.",
     "Bachelor of Behavioural Science (B.Beh.Sc), first class honours, Griffith University, Mt Gravatt, Brisbane, Australia, 1998."
@@ -27,11 +27,11 @@
       "value": "65"
     },
     {
-      "label": "Total research funding",
+      "label": "Government-funded projects",
       "value": "$30,904,000"
     }
   ],
-  "publicEngagement": "Co-host of Decoding the Gurus, an educational podcast addressing science communication, critical information literacy, conspiracy theories, online disinformation, and public reasoning.",
+  "publicEngagement": "Co-host of Decoding the Gurus with Chris Kavanagh, an educational podcast that analyses public intellectuals and online influencers through a psychosocial and anthropological lens, with particular attention to how they persuade and influence.",
   "updated": "2026-06-26",
   "publications": [
     {
@@ -3004,10 +3004,10 @@
       "year": 2021,
       "period": "2021",
       "category": "CAT2",
-      "title": "J",
+      "title": "Skill-based gambling in Australia",
       "investigators": "Rockloff, M., Browne, M., Hing, N., Russell, A.M.T., Thorne, H., Newall, P., & Luan, R",
       "funder": "Gambling Research Australia",
-      "scheme": "Skill based gambling in Australia",
+      "scheme": "",
       "amount": "$379,816"
     },
     {
@@ -3308,6 +3308,17 @@
       "amount": "$22,500"
     },
     {
+      "id": "2014-11",
+      "year": 2014,
+      "period": "2014",
+      "category": "CAT2",
+      "title": "A framework for conceptualising and measuring the burden of gambling-related harm",
+      "investigators": "Browne, M., Rockloff, M., Langham, E., Best, T. & Donaldson, P. A",
+      "funder": "Victorian Responsible Gambling Foundation",
+      "scheme": "Grants for Gambling Research Program",
+      "amount": "$300,000"
+    },
+    {
       "id": "2014-14",
       "year": 2014,
       "period": "2014",
@@ -3317,17 +3328,6 @@
       "funder": "Central Queensland University",
       "scheme": "School of Health, Human, & Social Sciences,",
       "amount": "$8,000"
-    },
-    {
-      "id": "2014-11",
-      "year": 2014,
-      "period": "2014",
-      "category": "CAT2",
-      "title": "framework for conceptualising and measuring the burden of gambling related harm",
-      "investigators": "Browne, M., Rockloff, M., Langham, E., Best, T. & Donaldson, P. A",
-      "funder": "Victorian Responsible Gambling Foundation",
-      "scheme": "Grants for Gambling Research Program",
-      "amount": "$300,000"
     },
     {
       "id": "2014-10",

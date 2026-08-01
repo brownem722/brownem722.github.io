@@ -11,10 +11,13 @@ test("static export contains the personal home page", async () => {
   assert.match(html, /<title>Matthew Browne \| CV and publications<\/title>/i);
   assert.match(html, /<h1>Matthew Browne<\/h1>/);
   assert.match(html, /Central Queensland University/);
+  assert.match(html, /computational statistics/);
+  assert.match(html, /Chris Kavanagh/);
+  assert.match(html, /Government-funded projects/);
   assert.match(html, /271/);
   assert.match(html, /View all publications/);
   assert.match(html, /headshot\.png/);
-  assert.doesNotMatch(html, /codex-preview|Your site is taking shape|SkeletonPreview|Selected work|Latest publications|CV data updated|Curriculum vitae updated/i);
+  assert.doesNotMatch(html, /codex-preview|Your site is taking shape|SkeletonPreview|Selected work|Latest publications|Curriculum vitae updated|CV data updated|<div class="section-label">About<\/div>/i);
 });
 
 test("static export contains the CV-derived publication page", async () => {
@@ -31,6 +34,8 @@ test("static export contains the CV-derived project page", async () => {
   assert.match(html, /<h1>Research projects<\/h1>/);
   assert.match(html, /Search title, investigator, or funder/);
   assert.match(html, /The Sixth Social and Economic Impact Study of Gambling in Tasmania/);
+  assert.match(html, /Skill-based gambling in Australia/);
+  assert.match(html, /A framework for conceptualising and measuring the burden of gambling-related harm/);
   assert.doesNotMatch(html, /recorded in the CV project database|Showing[\s\S]*?projects/i);
 });
 

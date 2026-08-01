@@ -1,7 +1,7 @@
 import Link from "next/link";
 import { cv } from "../lib/site-data";
 
-const funding = cv.summary.find((item) => item.label.toLowerCase().includes("funding"))?.value ?? "";
+const funding = cv.summary.find((item) => item.label.toLowerCase().includes("fund")) ?? { label: "Government-funded projects", value: "" };
 
 export default function Home() {
   return (
@@ -9,7 +9,6 @@ export default function Home() {
       <header className="site-header shell">
         <Link className="wordmark" href="/">Matthew Browne</Link>
         <nav aria-label="Main navigation">
-          <Link href="#about">About</Link>
           <Link href="#cv">CV</Link>
           <Link href="/publications">Publications</Link>
           <Link href="/projects">Projects</Link>
@@ -33,21 +32,7 @@ export default function Home() {
       <section className="record-summary shell" aria-label="Record summary">
         <div><strong>{cv.publications.length}</strong><span>Publications</span></div>
         <div><strong>{cv.projects.length}</strong><span>Completed research projects</span></div>
-        <div><strong>{funding}</strong><span>Total research funding</span></div>
-      </section>
-
-      <section className="section shell" id="about">
-        <div className="section-label">About</div>
-        <div className="section-content two-column">
-          <div>
-            <h2>Profile</h2>
-            <p>{cv.profile}</p>
-          </div>
-          <div>
-            <h2>Public engagement</h2>
-            <p>{cv.publicEngagement}</p>
-          </div>
-        </div>
+        <div><strong>{funding.value}</strong><span>{funding.label}</span></div>
       </section>
 
       <section className="section section-rule shell" id="cv">
