@@ -2,18 +2,19 @@
 
 import { useEffect, useState } from "react";
 
-const quotes = [
-  { text: "Among the world's top 2% of scientists.", attribution: "Stanford–Elsevier global research rankings" },
-  { text: "After 20 years he still hasn't learned how to stack the dishwasher correctly.", attribution: "Michiko Browne" },
-  { text: "Ranked among the top 200 specialists in his field.", attribution: "Stanford–Elsevier global research rankings" },
-  { text: "Who is Matthew Browne?", attribution: "Eric Weinstein · Renowned Physicist" },
-  { text: "Nominated for the Vice Chancellor's Award for Research Excellence.", attribution: "CQUniversity" },
-  { text: "Vell, he's just zis guy, you know?", attribution: "Private brain care specialist to Zaphod Beeblebrox · Gag Halfrunt" },
-  { text: "To me, he's like a mentor, a role-model and a father-figure, all rolled into one.", attribution: "Dr Chris Kavanagh, co-host" },
-  { text: "Honorable mention in the 1983 Slacks Creek State School Easter Hat Parade.", attribution: "Principal Pam Liddel" },
-  { text: "Matthew has satisfied all the requirements for the award of Orange Belt.", attribution: "Ken White, Sensei, Shotokan Karate Loganholme" },
-  { text: "He's fine. Mostly isn't a hassle to work with.", attribution: "Prof Matthew J. Rockloff, Head Experimental Gambling Laboratory" },
-];
+import quotesText from "../data/quotes.txt?raw";
+
+type Quote = { text: string; attribution: string };
+
+const quotes: Quote[] = quotesText
+  .split(/\r?\n/)
+  .map((line) => line.trim())
+  .filter((line) => line && !line.startsWith("#"))
+  .map((line, index) => {
+    const separator = line.indexOf(" | ");
+    if (separator < 1) throw new Error(`Invalid quote on line ${index + 1}. Use: quote | attribution`);
+    return { text: line.slice(0, separator), attribution: line.slice(separator + 3) };
+  });
 
 const displayMs = 6500;
 const fadeMs = 3000;

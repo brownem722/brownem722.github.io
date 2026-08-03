@@ -15,7 +15,7 @@ test("static export contains the personal home page", async () => {
   assert.match(html, /advises PhD, master's, and honours students in the psychology program/);
   assert.match(html, /Selected observations/);
   assert.match(html, /Among the world.*top 2% of scientists/);
-  const quoteSource = await readFile(new URL("../app/quote-cycle.tsx", import.meta.url), "utf8");
+  const quoteSource = await readFile(new URL("../data/quotes.txt", import.meta.url), "utf8");
   assert.match(quoteSource, /top 200 specialists in his field/);
   assert.match(quoteSource, /Private brain care specialist to Zaphod Beeblebrox/);
   assert.match(quoteSource, /Vell, he's just zis guy/);
@@ -24,7 +24,9 @@ test("static export contains the personal home page", async () => {
   assert.match(quoteSource, /1983 Slacks Creek State School Easter Hat Parade/);
   assert.match(quoteSource, /Mostly isn't a hassle to work with/);
   assert.match(quoteSource, /mentor, a role-model and a father-figure/);
+  assert.match(quoteSource, /When he was 14 he was nothing but a bully to me/);
   assert.ok(quoteSource.indexOf("After 20 years he still hasn't learned") < quoteSource.indexOf("Ranked among the top 200 specialists"));
+  assert.ok(quoteSource.trim().endsWith("Who is Matthew Browne? | Eric Weinstein · Renowned Physicist"));
   assert.match(html, /Chris Kavanagh, Associate Professor of Psychology at Rikkyo University/);
   assert.match(html, /Research funding/);
   assert.match(html, /Funded research projects/);
