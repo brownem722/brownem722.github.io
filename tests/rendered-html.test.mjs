@@ -16,7 +16,7 @@ test("static export contains the personal home page", async () => {
   assert.match(html, /Selected observations/);
   assert.match(html, /Among the world.*top 2% of scientists/);
   const quoteSource = await readFile(new URL("../app/quote-cycle.tsx", import.meta.url), "utf8");
-  assert.match(quoteSource, /top 200 scientists in his field/);
+  assert.match(quoteSource, /top 200 specialists in his field/);
   assert.match(quoteSource, /Private brain care specialist to Zaphod Beeblebrox/);
   assert.match(quoteSource, /Vell, he's just zis guy/);
   assert.match(quoteSource, /for the award of Orange Belt/);
@@ -24,6 +24,7 @@ test("static export contains the personal home page", async () => {
   assert.match(quoteSource, /1983 Slacks Creek State School Easter Hat Parade/);
   assert.match(quoteSource, /Mostly isn't a hassle to work with/);
   assert.match(quoteSource, /mentor, a role-model and a father-figure/);
+  assert.ok(quoteSource.indexOf("After 20 years he still hasn't learned") < quoteSource.indexOf("Ranked among the top 200 specialists"));
   assert.match(html, /Chris Kavanagh, Associate Professor of Psychology at Rikkyo University/);
   assert.match(html, /Research funding/);
   assert.match(html, /Funded research projects/);
