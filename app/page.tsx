@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { academicPublications, cv, episodes, writing } from "../lib/site-data";
 import QuoteCycle from "./quote-cycle";
+import SiteHeader from "./site-header";
 
 const funding = cv.summary.find((item) => item.label.toLowerCase() === "research funding") ?? { label: "Research funding", value: "" };
 const firstAuthorPattern = /^Browne,\s*M\./i;
@@ -17,15 +18,7 @@ function episodeDate(value: string) {
 export default function Home() {
   return (
     <main>
-      <header className="site-header shell">
-        <Link className="wordmark" href="/">Matthew Browne</Link>
-        <nav aria-label="Main navigation">
-          <a href="/Matthew_Browne_CV.pdf">CV</a>
-          <Link href="/publications">Publications</Link>
-          <Link href="/projects">Projects</Link>
-          <Link href="#contact">Contact</Link>
-        </nav>
-      </header>
+      <SiteHeader />
 
       <section className="intro shell">
         <div className="intro-copy">
@@ -37,7 +30,7 @@ export default function Home() {
         <figure className="portrait-frame">
           {/* eslint-disable-next-line @next/next/no-img-element */}
           <img src="/headshot.png" alt="Black and white portrait of Matthew Browne" width="1536" height="1536" />
-          <figcaption>Matt Browne</figcaption>
+          <figcaption className="sr-only min-[761px]:not-sr-only">Matt Browne</figcaption>
         </figure>
       </section>
 
