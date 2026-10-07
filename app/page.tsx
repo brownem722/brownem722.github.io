@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { academicPublications, cv, episodes, introSentence, writing } from "../lib/site-data";
+import { academicPublications, cv, episodes, introSentence, siteDescription, siteUrl, writing } from "../lib/site-data";
 import Dual from "./dual";
 import QuoteCycle from "./quote-cycle";
 import SiteHeader from "./site-header";
@@ -14,6 +14,21 @@ const featuredPublications = [...academicPublications]
 const featuredProjects = [...cv.projects].sort((a, b) => b.year - a.year || a.title.localeCompare(b.title)).slice(0, 6);
 const featuredEpisodes = episodes.slice(0, 5);
 
+export const metadata = { alternates: { canonical: "/" } };
+
+// Tells search engines who this page is about (schema.org Person).
+const personJsonLd = {
+  "@context": "https://schema.org",
+  "@type": "Person",
+  name: cv.name,
+  url: `${siteUrl}/`,
+  image: `${siteUrl}/headshot.png`,
+  jobTitle: cv.currentPosition,
+  worksFor: { "@type": "CollegeOrUniversity", name: cv.institution },
+  email: `mailto:${cv.email}`,
+  description: siteDescription,
+};
+
 function episodeDate(value: string) {
   return new Intl.DateTimeFormat("en-AU", { day: "numeric", month: "short", year: "numeric", timeZone: "UTC" }).format(new Date(value));
 }
@@ -25,6 +40,7 @@ function Sticker({ children }: { children: React.ReactNode }) {
 export default function Home() {
   return (
     <main>
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(personJsonLd) }} />
       <SiteHeader />
 
       <section className="intro shell">

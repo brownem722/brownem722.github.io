@@ -15,6 +15,12 @@ test("static export contains the personal home page", async () => {
   assert.doesNotMatch(html, /advises PhD, master's,? and honours students/);
   assert.match(html, /href="\/about"/);
   assert.equal((html.match(/class="stat"/g) ?? []).length, 4);
+  // Search engines: real description, canonical URL, Person structured data, robots and sitemap.
+  assert.match(html, /<meta name="description" content="Professor Matthew Browne, Central Queensland University/);
+  assert.match(html, /<link rel="canonical" href="https:\/\/brownem722\.github\.io\/"/);
+  assert.match(html, /application\/ld\+json[\s\S]*"@type":"Person"/);
+  assert.match(await readExport("robots.txt"), /Sitemap: https:\/\/brownem722\.github\.io\/sitemap\.xml/);
+  assert.match(await readExport("sitemap.xml"), /<loc>https:\/\/brownem722\.github\.io\/about\/<\/loc>/);
   assert.match(html, /Selected observations/);
   assert.match(html, /Among the world.*top 2% of scientists/);
   const quoteSource = await readFile(new URL("../data/quotes.txt", import.meta.url), "utf8");

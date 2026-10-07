@@ -7,6 +7,7 @@ import PublicationBrowser from "./PublicationBrowser";
 export const metadata = {
   title: "Academic publications | Matthew Browne",
   description: "Academic publications by Professor Matthew Browne.",
+  alternates: { canonical: "/publications/" },
 };
 
 export default function PublicationsPage() {

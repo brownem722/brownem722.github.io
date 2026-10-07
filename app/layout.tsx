@@ -1,9 +1,18 @@
 import type { Metadata } from "next";
+import { siteDescription } from "../lib/site-data";
 import "./globals.css";
 
 export const metadata: Metadata = {
+  metadataBase: new URL("https://brownem722.github.io"),
   title: "Matthew Browne",
-  description: "Matthew Browne",
+  description: siteDescription,
+  openGraph: {
+    type: "profile",
+    siteName: "Matthew Browne",
+    title: "Matthew Browne",
+    description: siteDescription,
+    images: [{ url: "/headshot.png", width: 1536, height: 1536, alt: "Portrait of Matthew Browne" }],
+  },
   icons: {
     icon: "/favicon.svg",
     shortcut: "/favicon.svg",

@@ -7,6 +7,7 @@ import ProjectBrowser from "./ProjectBrowser";
 export const metadata = {
   title: "Research projects | Matthew Browne",
   description: "Research projects involving Professor Matthew Browne.",
+  alternates: { canonical: "/projects/" },
 };
 
 export default function ProjectsPage() {

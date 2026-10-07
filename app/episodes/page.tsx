@@ -6,6 +6,7 @@ import { episodeFeedUrl, episodes } from "../../lib/site-data";
 export const metadata = {
   title: "Podcast episodes | Matthew Browne",
   description: "Episodes of Decoding the Gurus, co-hosted by Matthew Browne and Chris Kavanagh.",
+  alternates: { canonical: "/episodes/" },
 };
 
 function episodeDate(value: string) {

@@ -6,6 +6,7 @@ import PageHeader from "../page-header";
 export const metadata = {
   title: "About | Matthew Browne",
   description: "About Professor Matthew Browne.",
+  alternates: { canonical: "/about/" },
 };
 
 export default function AboutPage() {

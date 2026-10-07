@@ -15,6 +15,10 @@ export const episodeFeedUrl = "https://feeds.captivate.fm/decoding-the-gurus/";
 // One-line introduction under the name on the home page; the full CV profile lives on /about.
 export const introSentence = "Quantitative researcher measuring gambling harm as a public health problem, and co-host of the Decoding the Gurus podcast.";
 
+export const siteUrl = "https://brownem722.github.io";
+export const siteDescription =
+  "Professor Matthew Browne, Central Queensland University: quantitative methods, psychometrics and the measurement of gambling harm. Co-host of the Decoding the Gurus podcast.";
+
 // Splits the single-paragraph CV profile into readable paragraphs: break once a paragraph
 // reaches ~50 words, unless the next sentence leans on the previous one ("Its", "This", ...).
 export const profileParagraphs = cv.profile
