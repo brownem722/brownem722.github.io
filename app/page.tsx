@@ -30,7 +30,7 @@ export default function Home() {
       <section className="intro shell">
         <div className="intro-copy">
           <p className="eyebrow">
-            <Dual serious={`${cv.currentPosition} · ${cv.institution}`} party={`${cv.currentPosition} (allegedly) · ${cv.institution}`} />
+            <Dual serious={`${cv.currentPosition} · ${cv.institution}`} party={`${cv.currentPosition} (kind of a big deal) · ${cv.institution}`} />
           </p>
           <h1>{cv.name}</h1>
           <p className="lede">{cv.profile}</p>

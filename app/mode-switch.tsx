@@ -84,7 +84,7 @@ export default function ModeSwitch() {
       type="button"
       role="switch"
       aria-checked={party}
-      aria-label="Lighthearted mode"
+      aria-label="Light mode"
       className="mode-switch"
       onClick={toggle}
       onPointerEnter={preloadPartyPortrait}
@@ -95,7 +95,7 @@ export default function ModeSwitch() {
         <span className="mode-switch-knob" />
       </span>
       <span className="mode-switch-word mode-switch-light" aria-hidden="true">
-        Light<span className="m-party">(hearted)</span>
+        Light
       </span>
     </button>
   );
