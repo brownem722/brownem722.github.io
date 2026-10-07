@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { academicPublications, cv, episodes, writing } from "../lib/site-data";
+import { academicPublications, cv, episodes, introSentence, writing } from "../lib/site-data";
 import Dual from "./dual";
 import QuoteCycle from "./quote-cycle";
 import SiteHeader from "./site-header";
@@ -33,7 +33,8 @@ export default function Home() {
             <Dual serious={`${cv.currentPosition} · ${cv.institution}`} party={`${cv.currentPosition} (kind of a big deal) · ${cv.institution}`} />
           </p>
           <h1>{cv.name}</h1>
-          <p className="lede">{cv.profile}</p>
+          <p className="lede">{introSentence}</p>
+          <Link className="quiet-link" href="/about"><Dual serious="Read the full bio →" party="The whole story →" /></Link>
           <p className="quiet-note">updated {cv.updated}</p>
         </div>
         <figure className="portrait-frame">
@@ -49,14 +50,14 @@ export default function Home() {
       <QuoteCycle set="party" className="m-party" />
 
       <section className="record-summary shell" aria-label="Record summary">
-        <div><strong>{cv.publications.length}</strong><span><Dual serious="Publications" party="Papers!!" /></span><Sticker>!!</Sticker></div>
-        <div><strong>{cv.projects.length}</strong><span><Dual serious="Funded research projects" party="Projects somebody paid for" /></span><Sticker>!</Sticker></div>
-        <div><strong><Dual serious={funding.value} party={fundingShort} /></strong><span><Dual serious={funding.label} party="Research money. Real money!" /></span><Sticker>wow</Sticker></div>
-        <div><strong>{episodes.length}</strong><span><Dual serious="Podcast episodes" party="Hours of yapping (episodes)" /></span><Sticker>!!!</Sticker></div>
+        <Link className="stat" href="/publications"><strong>{cv.publications.length}</strong><span><Dual serious="Publications" party="Papers!!" /></span><Sticker>!!</Sticker></Link>
+        <Link className="stat" href="/projects"><strong>{cv.projects.length}</strong><span><Dual serious="Funded research projects" party="Projects somebody paid for" /></span><Sticker>!</Sticker></Link>
+        <Link className="stat" href="/projects"><strong><Dual serious={funding.value} party={fundingShort} /></strong><span><Dual serious={funding.label} party="Research money. Real money!" /></span><Sticker>wow</Sticker></Link>
+        <Link className="stat" href="/episodes"><strong>{episodes.length}</strong><span><Dual serious="Podcast episodes" party="Hours of yapping (episodes)" /></span><Sticker>!!!</Sticker></Link>
       </section>
 
       <section className="section section-rule shell" id="cv">
-        <div className="section-label"><Dual serious="CV" party="The lore" /></div>
+        <a className="section-label" href="/Matthew_Browne_CV.pdf"><Dual serious="CV" party="The lore" /></a>
         <div className="section-content two-column">
           <div>
             <h2><Dual serious="Employment" party="Jobs!" /></h2>
@@ -70,7 +71,7 @@ export default function Home() {
       </section>
 
       <section className="section section-rule shell">
-        <div className="section-label"><Dual serious="Academic publications" party="Papers!!" /></div>
+        <Link className="section-label" href="/publications"><Dual serious="Academic publications" party="Papers!!" /></Link>
         <div className="section-content">
           <div className="recent-list compact-list">
             {featuredPublications.map((publication) => (
@@ -89,7 +90,7 @@ export default function Home() {
       </section>
 
       <section className="section section-rule shell">
-        <div className="section-label"><Dual serious="Research projects" party="Science projects!" /></div>
+        <Link className="section-label" href="/projects"><Dual serious="Research projects" party="Science projects!" /></Link>
         <div className="section-content">
           <div className="project-browser compact-list">
             {featuredProjects.map((project) => (
@@ -127,7 +128,7 @@ export default function Home() {
       </section>
 
       <section className="section section-rule shell">
-        <div className="section-label"><Dual serious="Recent episodes" party="Podcast!!" /></div>
+        <Link className="section-label" href="/episodes"><Dual serious="Recent episodes" party="Podcast!!" /></Link>
         <div className="section-content">
           <div className="recent-list compact-list">
             {featuredEpisodes.map((episode) => (

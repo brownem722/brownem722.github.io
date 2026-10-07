@@ -51,6 +51,9 @@ export default function SiteHeader() {
         <span className="nav-toggle-bar" aria-hidden="true" />
       </button>
       <nav id={navId} aria-label="Main navigation">
+        <Link href="/about" onClick={closeMenu}>
+          <Dual serious="About" party="About me" />
+        </Link>
         <a href="/Matthew_Browne_CV.pdf" onClick={closeMenu}>
           CV
         </a>

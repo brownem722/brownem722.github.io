@@ -11,7 +11,10 @@ test("static export contains the personal home page", async () => {
   assert.match(html, /<title>Matthew Browne<\/title>/i);
   assert.match(html, /<h1>Matthew Browne<\/h1>/);
   assert.match(html, /Central Queensland University/);
-  assert.match(html, /advises PhD, master's,? and honours students in the psychology program/);
+  assert.match(html, /measuring gambling harm as a public health problem/);
+  assert.doesNotMatch(html, /advises PhD, master's,? and honours students/);
+  assert.match(html, /href="\/about"/);
+  assert.equal((html.match(/class="stat"/g) ?? []).length, 4);
   assert.match(html, /Selected observations/);
   assert.match(html, /Among the world.*top 2% of scientists/);
   const quoteSource = await readFile(new URL("../data/quotes.txt", import.meta.url), "utf8");
@@ -54,6 +57,14 @@ test("static export contains the personal home page", async () => {
   assert.doesNotMatch(html, /Government-funded projects/);
   assert.match(html, /headshot\.png/);
   assert.doesNotMatch(html, /codex-preview|Your site is taking shape|SkeletonPreview|Selected work|Latest publications|Curriculum vitae updated|CV data updated|<div class="section-label">About<\/div>/i);
+});
+
+test("static export contains the about page with the full CV profile", async () => {
+  const html = await readExport("about/index.html");
+  assert.match(html, /<h1>.*About.*<\/h1>/);
+  assert.match(html, /advises PhD, master's,? and honours students in the psychology program/);
+  assert.match(html, /Decoding the Gurus/);
+  assert.ok((html.match(/<p>/g) ?? []).length >= 3, "profile is split into paragraphs");
 });
 
 test("static export contains the CV-derived publication page", async () => {
