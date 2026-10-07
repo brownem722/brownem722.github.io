@@ -34,14 +34,14 @@ export default function Home() {
           </p>
           <h1>{cv.name}</h1>
           <p className="lede">{cv.profile}</p>
-          <p className="quiet-note"><Dual serious="updated" party="freshly glittered" /> {cv.updated}</p>
+          <p className="quiet-note">updated {cv.updated}</p>
         </div>
         <figure className="portrait-frame">
           {/* eslint-disable-next-line @next/next/no-img-element */}
           <img className="m-serious" src="/headshot.png" alt="Black and white portrait of Matthew Browne" width="1536" height="1536" />
           {/* eslint-disable-next-line @next/next/no-img-element */}
           <img className="m-party" src="/headshot-party.jpg" alt="Matthew Browne in a sun hat and sunglasses, holding a blue parasol in front of a wall of orange and gold sequins" width="1200" height="1200" loading="lazy" />
-          <figcaption className="sr-only min-[761px]:not-sr-only"><Dual serious="Matt Browne" party="Matt Browne, off duty" /></figcaption>
+          <figcaption className="sr-only min-[761px]:not-sr-only">Matt Browne</figcaption>
         </figure>
       </section>
 
