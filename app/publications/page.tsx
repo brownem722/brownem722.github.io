@@ -1,4 +1,6 @@
 import Link from "next/link";
+import Dual from "../dual";
+import PageHeader from "../page-header";
 import { academicPublications } from "../../lib/site-data";
 import PublicationBrowser from "./PublicationBrowser";
 
@@ -10,12 +12,9 @@ export const metadata = {
 export default function PublicationsPage() {
   return (
     <main>
-      <header className="site-header shell">
-        <Link className="wordmark" href="/">Matthew Browne</Link>
-        <Link className="back-link" href="/">← Back to home</Link>
-      </header>
+      <PageHeader />
       <section className="page-hero shell">
-        <p className="eyebrow">Academic publications</p>
+        <p className="eyebrow"><Dual serious="Academic publications" party="Papers!! All of them!!" /></p>
         <h1>Academic publications</h1>
       </section>
       <section className="publications-section shell">

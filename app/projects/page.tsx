@@ -1,4 +1,6 @@
 import Link from "next/link";
+import Dual from "../dual";
+import PageHeader from "../page-header";
 import { cv } from "../../lib/site-data";
 import ProjectBrowser from "./ProjectBrowser";
 
@@ -10,12 +12,9 @@ export const metadata = {
 export default function ProjectsPage() {
   return (
     <main>
-      <header className="site-header shell">
-        <Link className="wordmark" href="/">Matthew Browne</Link>
-        <Link className="back-link" href="/">← Back to home</Link>
-      </header>
+      <PageHeader />
       <section className="page-hero shell">
-        <p className="eyebrow">Research projects</p>
+        <p className="eyebrow"><Dual serious="Research projects" party="Science projects (funded!)" /></p>
         <h1>Research projects</h1>
       </section>
       <section className="projects-section shell">

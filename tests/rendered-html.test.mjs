@@ -24,8 +24,18 @@ test("static export contains the personal home page", async () => {
   assert.match(quoteSource, /Mostly isn't a hassle to work with/);
   assert.match(quoteSource, /mentor, a role-model and a father-figure/);
   assert.match(quoteSource, /When he was 14 he was nothing but a bully to me/);
-  assert.ok(quoteSource.indexOf("After 20 years he still hasn't learned") < quoteSource.indexOf("Ranked among the top 200 specialists"));
+  const [seriousQuotes, partyQuotes] = quoteSource.split(/^\[party\]$/m);
+  assert.match(seriousQuotes, /\[serious\][\s\S]*top 200 specialists in his field/);
+  assert.doesNotMatch(seriousQuotes, /dishwasher|Easter Hat Parade|Orange Belt/);
+  assert.match(partyQuotes, /After 20 years he still hasn't learned/);
   assert.ok(quoteSource.trim().endsWith("Who is Matthew Browne? | Eric Weinstein · Renowned Physicist"));
+  // Mode switch: serious by default, both wordings in the markup, party portrait available.
+  assert.match(html, /<html[^>]*data-mode="serious"/);
+  assert.match(html, /role="switch"/);
+  assert.match(html, /mb-mode/);
+  assert.match(html, /Papers!!/);
+  assert.match(html, /headshot-party\.jpg/);
+  assert.match(html, />wow</);
   assert.match(html, /Research funding/i);
   assert.match(html, /Funded research projects/);
   assert.doesNotMatch(html, /Completed research projects/);

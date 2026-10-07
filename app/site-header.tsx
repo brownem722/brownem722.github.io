@@ -2,6 +2,8 @@
 
 import Link from "next/link";
 import { useEffect, useId, useState } from "react";
+import Dual from "./dual";
+import ModeSwitch from "./mode-switch";
 
 export default function SiteHeader() {
   const [open, setOpen] = useState(false);
@@ -35,6 +37,7 @@ export default function SiteHeader() {
       <Link className="wordmark" href="/" onClick={closeMenu}>
         Matthew Browne
       </Link>
+      <ModeSwitch />
       <button
         type="button"
         className="nav-toggle"
@@ -52,13 +55,13 @@ export default function SiteHeader() {
           CV
         </a>
         <Link href="/publications" onClick={closeMenu}>
-          Publications
+          <Dual serious="Publications" party="Papers!!" />
         </Link>
         <Link href="/projects" onClick={closeMenu}>
           Projects
         </Link>
         <Link href="#contact" onClick={closeMenu}>
-          Contact
+          <Dual serious="Contact" party="Say hi" />
         </Link>
       </nav>
     </header>

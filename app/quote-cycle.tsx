@@ -5,21 +5,28 @@ import { useEffect, useState } from "react";
 import quotesText from "../data/quotes.txt?raw";
 
 type Quote = { text: string; attribution: string };
+type QuoteSet = "serious" | "party";
 
-const quotes: Quote[] = quotesText
-  .split(/\r?\n/)
-  .map((line) => line.trim())
-  .filter((line) => line && !line.startsWith("#"))
-  .map((line, index) => {
-    const separator = line.indexOf(" | ");
-    if (separator < 1) throw new Error(`Invalid quote on line ${index + 1}. Use: quote | attribution`);
-    return { text: line.slice(0, separator), attribution: line.slice(separator + 3) };
-  });
+const quoteSets: Record<QuoteSet, Quote[]> = { serious: [], party: [] };
+let currentSet: QuoteSet | null = null;
+quotesText.split(/\r?\n/).forEach((raw: string, index: number) => {
+  const line = raw.trim();
+  if (!line || line.startsWith("#")) return;
+  const heading = line.match(/^\[(serious|party)\]$/);
+  if (heading) {
+    currentSet = heading[1] as QuoteSet;
+    return;
+  }
+  const separator = line.indexOf(" | ");
+  if (!currentSet || separator < 1) throw new Error(`Invalid quote on line ${index + 1}. Use: quote | attribution, under [serious] or [party]`);
+  quoteSets[currentSet].push({ text: line.slice(0, separator), attribution: line.slice(separator + 3) });
+});
 
 const displayMs = 6500;
 const fadeMs = 3000;
 
-export default function QuoteCycle() {
+export default function QuoteCycle({ set, className = "" }: { set: QuoteSet; className?: string }) {
+  const quotes = quoteSets[set];
   const [index, setIndex] = useState(0);
   const [transitioning, setTransitioning] = useState(false);
 
@@ -37,7 +44,7 @@ export default function QuoteCycle() {
       window.clearTimeout(startTimer);
       if (finishTimer) window.clearTimeout(finishTimer);
     };
-  }, [index]);
+  }, [index, quotes.length]);
 
   const quote = quotes[index];
   const incomingQuote = quotes[(index + 1) % quotes.length];
@@ -52,7 +59,7 @@ export default function QuoteCycle() {
   }
 
   return (
-    <section className="quote-section shell" aria-label="Selected observations">
+    <section className={`quote-section quote-${set} shell ${className}`} aria-label="Selected observations">
       <div className="quote-stack">
         <blockquote className={`quote-cycle quote-current${transitioning ? " is-fading" : ""}`}>
           {renderQuote(quote)}

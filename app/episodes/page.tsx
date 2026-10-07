@@ -1,4 +1,6 @@
 import Link from "next/link";
+import Dual from "../dual";
+import PageHeader from "../page-header";
 import { episodeFeedUrl, episodes } from "../../lib/site-data";
 
 export const metadata = {
@@ -13,12 +15,9 @@ function episodeDate(value: string) {
 export default function EpisodesPage() {
   return (
     <main>
-      <header className="site-header shell">
-        <Link className="wordmark" href="/">Matthew Browne</Link>
-        <Link className="back-link" href="/">← Back to home</Link>
-      </header>
+      <PageHeader />
       <section className="page-hero shell">
-        <p className="eyebrow">Decoding the Gurus</p>
+        <p className="eyebrow"><Dual serious="Decoding the Gurus" party="Decoding the Gurus (yapping, professionally)" /></p>
         <h1>Podcast episodes</h1>
         <a className="quiet-link" href={episodeFeedUrl} target="_blank" rel="noreferrer">RSS feed ↗</a>
       </section>
