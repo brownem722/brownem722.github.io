@@ -21,6 +21,8 @@ test("static export contains the personal home page", async () => {
   assert.match(html, /application\/ld\+json[\s\S]*"@type":"Person"/);
   assert.match(await readExport("robots.txt"), /Sitemap: https:\/\/brownem722\.github\.io\/sitemap\.xml/);
   assert.match(await readExport("sitemap.xml"), /<loc>https:\/\/brownem722\.github\.io\/about\/<\/loc>/);
+  // Google Search Console ownership; removing this file un-verifies the site.
+  assert.match(await readExport("google6a22a3452614bbc2.html"), /google-site-verification: google6a22a3452614bbc2\.html/);
   assert.match(html, /Selected observations/);
   assert.match(html, /Among the world.*top 2% of scientists/);
   const quoteSource = await readFile(new URL("../data/quotes.txt", import.meta.url), "utf8");
