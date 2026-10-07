@@ -145,7 +145,7 @@ const institution = markdown.match(/^\*\*Institution:\*\*\s*(.+)$/m)?.[1]?.trim(
 const qualifications = markdown.match(/^\*\*Qualifications:\*\*\s*(.+)$/m)?.[1]?.trim() ?? "";
 const updated = markdown.match(/^updated:\s*(.+)$/m)?.[1]?.trim() ?? new Date().toISOString().slice(0, 10);
 
-const summary = bullets(section("Research Summary")).map((item) => {
+const summary = bullets(section("Research Standing and Impact")).map((item) => {
   const [label, ...rest] = item.split(":");
   return { label: label.trim(), value: rest.join(":").trim().replace(/[.]$/, "") };
 });

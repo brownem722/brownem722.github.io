@@ -4,7 +4,7 @@
   "institution": "Central Queensland University",
   "qualifications": "B.Beh.Sc (Hons) PhD",
   "email": "m.browne@cqu.edu.au",
-  "profile": "Professor Matthew Browne is an academic researcher at Central Queensland University. His research includes computational statistics, modelling in health research, gambling harm, psychometrics, and applied social science. He advises PhD, master's, and honours students in the psychology program. He is co-host of Decoding the Gurus with Chris Kavanagh, Associate Professor of Psychology at Rikkyo University, where they analyse public intellectuals and online influencers through a psychosocial and anthropological lens.",
+  "profile": "Professor Matthew Browne is a research professor at Central Queensland University, based in the Experimental Gambling Research Laboratory. He holds a PhD in psychophysiology and quantitative methodology (Griffith University, 2002) and first-class honours in behavioural science. His primary expertise is in quantitative research methods, psychometrics, and statistical and epidemiological modelling applied to health and social science. Since 2011 he has applied these methods to the measurement of gambling-related harm. He led the research program that reframed gambling harm as a public health outcome measurable across a continuum of the population, rather than as a clinical attribute of a small group of “problem gamblers”. Its outputs include the conceptual framework and taxonomy of gambling harms (Langham et al., 2016); the burden-of-harm methodology used to estimate gambling harm in Victoria, New Zealand and Australia nationally; the Short Gambling Harm Screen and the Gambling Harms Scales (GHS-10, GHS-20, GHS-10-AO, GHS-20-AO), which are benchmarked to health-state utility and are used in government prevalence surveys in Australia and internationally; and evidence on the distribution of harm across risk categories, including the application of the prevention paradox to gambling. He has led or co-led the design, analysis and reporting of major jurisdictional gambling prevalence and social-cost studies for the governments of New South Wales, Victoria, Tasmania, South Australia, the Australian Capital Territory and New Zealand, and for Gambling Research Australia. He advises PhD, master's and honours students in the psychology program and acts as consulting statistician across a range of disciplines.",
   "education": [
     "Doctor of Philosophy (Ph.D.), Griffith University, Mt Gravatt, Brisbane, Australia, 2002.",
     "Bachelor of Behavioural Science (B.Beh.Sc), first class honours, Griffith University, Mt Gravatt, Brisbane, Australia, 1998."
@@ -12,7 +12,7 @@
   "employment": [
     "2011-present: Professor, School of Health, Human, & Social Sciences, Central Queensland University. Formerly Associate Professor, Senior Lecturer, and Lecturer.",
     "2008-2010: Director, Arden Architectural.",
-    "2009-2010: Principle Research Fellow, CoastalCOMs.",
+    "2009-2010: Principal Research Fellow, CoastalCOMs.",
     "2006-2008: Research Scientist, Commonwealth Scientific and Industrial Research Organisation.",
     "2004-2006: Research Fellow, Griffith University.",
     "2003-2004: Research Fellow, FhG GMD-JRL - Fraunhofer-Gesellschaft Japan Research Laboratory."
@@ -20,19 +20,31 @@
   "summary": [
     {
       "label": "Publications",
-      "value": "271"
+      "value": "275 (peer-reviewed articles, book chapters, and commissioned government reports)"
+    },
+    {
+      "label": "Citations",
+      "value": "10,822 (Google Scholar, as at 17 September 2026); h-index 55; i10-index 176"
     },
     {
       "label": "Funded research projects",
       "value": "65"
     },
     {
-      "label": "Research funding",
+      "label": "Total research funding",
       "value": "$30,904,000"
+    },
+    {
+      "label": "Named in the Stanford University–Elsevier *World's Top 2% Scientists* list (2025 edition), ranked among the top 200 researchers in his field.",
+      "value": ""
+    },
+    {
+      "label": "Research funding has been obtained predominantly from government departments, statutory regulators and public research funding bodies, including the Australian Communications and Media Authority, Gambling Research Australia, the New Zealand Ministry of Health, and the responsible gambling agencies of New South Wales, Victoria, Tasmania, South Australia, Queensland and the Australian Capital Territory.",
+      "value": ""
     }
   ],
-  "publicEngagement": "Co-host of Decoding the Gurus with Chris Kavanagh, Associate Professor of Psychology at Rikkyo University, an educational podcast that analyses public intellectuals and online influencers through a psychosocial and anthropological lens, with particular attention to how they persuade and influence.",
-  "updated": "2026-06-26",
+  "publicEngagement": "Co-host of Decoding the Gurus with Chris Kavanagh, Associate Professor of Psychology at Rikkyo University, an educational, entertaining and lighthearted podcast that analyses public intellectuals and online influencers through a psychosocial and anthropological lens, with particular attention to how they persuade and influence.",
+  "updated": "2026-10-07",
   "publications": [
     {
       "id": "tulloch2026model",
@@ -43,6 +55,16 @@
       "venue": "Journal of Gambling Studies",
       "doi": "10.1007/s10899-026-10529-9",
       "url": "https://doi.org/10.1007/s10899-026-10529-9"
+    },
+    {
+      "id": "zammit2026transtheoretical",
+      "type": "article",
+      "title": "A transtheoretical model of polypsychic defence: A hypothesis-generating integrative framework",
+      "authors": "Zammit, N. and Klockner, K. and Browne, M.",
+      "year": 2026,
+      "venue": "European Journal of Trauma \\& Dissociation",
+      "doi": "10.1016/j.ejtd.2026.100757",
+      "url": "https://doi.org/10.1016/j.ejtd.2026.100757"
     },
     {
       "id": "Rockloff2026DirectGamblingMarketing",
@@ -75,16 +97,6 @@
       "url": "https://doi.org/10.1007/s10899-026-10524-0"
     },
     {
-      "id": "tulloch2026improving",
-      "type": "unpublished",
-      "title": "Improving the odds: How modifiable social factors influence gambling harm and recovery – a narrative review of longitudinal evidence",
-      "authors": "Tulloch, C. and Hing, N. and Browne, M. and Rockloff, M. and Russell, A. M. T.",
-      "year": 2026,
-      "venue": "",
-      "doi": "",
-      "url": ""
-    },
-    {
       "id": "Hing2026Journeys",
       "type": "article",
       "title": "Journeys Towards Harm Among Young Adult Sports Bettors: Dynamic Influences From Childhood to Early Adulthood",
@@ -103,6 +115,26 @@
       "venue": "Australian Journal of Rural Health",
       "doi": "10.1111/ajr.70221",
       "url": "https://doi.org/10.1111/ajr.70221"
+    },
+    {
+      "id": "hing2026a",
+      "type": "article",
+      "title": "Simulated gambling games: An integrative review of links with monetary gambling and harmful gambling in adolescents and adults",
+      "authors": "Hing, N. and Gossner, M. and Lole, L. and Rockloff, M. and Browne, M.",
+      "year": 2026,
+      "venue": "Current Addiction Reports",
+      "doi": "10.1007/s40429-026-00784-6",
+      "url": "https://doi.org/10.1007/s40429-026-00784-6"
+    },
+    {
+      "id": "dittman2025sure",
+      "type": "article",
+      "title": "Sure they Gamble – But At Least They’re Not Being Bullied! A Survey of Parental Perspectives of Adolescent Gambling",
+      "authors": "Dittman, C. K. and Gossner, M. and Browne, M. and Hing, N. and Rockloff, M. and Russell, A. M. T. and Lole, L.",
+      "year": 2026,
+      "venue": "International Journal of Mental Health and Addiction",
+      "doi": "10.1007/s11469-025-01444-y",
+      "url": "https://doi.org/10.1007/s11469-025-01444-y"
     },
     {
       "id": "tulloch2026synthesising",
@@ -171,8 +203,8 @@
       "authors": "Browne, M. and Rawat, V. and Tulloch, C. and Newall, P. and Rockloff, M.",
       "year": 2026,
       "venue": "Journal of Gambling Studies",
-      "doi": "",
-      "url": ""
+      "doi": "10.1007/s10899-026-10541-z",
+      "url": "https://doi.org/10.1007/s10899-026-10541-z"
     },
     {
       "id": "spence2025it",
@@ -243,6 +275,16 @@
       "venue": "Addiction Research \\& Theory",
       "doi": "10.1080/16066359.2024.2365177",
       "url": "https://doi.org/10.1080/16066359.2024.2365177"
+    },
+    {
+      "id": "browne2025economic",
+      "type": "techreport",
+      "title": "Economic and Social Costing of Gambling in Aotearoa New Zealand 2023-24",
+      "authors": "Browne, M. and Tulloch, C. and Dellosa, G. and Thorne, H. and Hing, N. and Doran, C. and Rockloff, M. and Russell, A. M. T. and McGrane, E. and Moore, E. and Pryce, R.",
+      "year": 2025,
+      "venue": "",
+      "doi": "",
+      "url": "https://www.health.govt.nz/publications/economic-and-social-costing-of-gambling-in-aotearoa-new-zealand-2023-24"
     },
     {
       "id": "wilcoxson2025eeg",
@@ -325,16 +367,6 @@
       "url": "https://doi.org/10.3390/clockssleep7010016"
     },
     {
-      "id": "dittman2025sure",
-      "type": "article",
-      "title": "Sure they Gamble – But At Least They’re Not Being Bullied! A Survey of Parental Perspectives of Adolescent Gambling",
-      "authors": "Dittman, C. K. and Gossner, M. and Browne, M. and Hing, N. and Rockloff, M. and Russell, A. M. T. and Lole, L.",
-      "year": 2025,
-      "venue": "International Journal of Mental Health and Addiction",
-      "doi": "10.1007/s11469-025-01444-y",
-      "url": "https://doi.org/10.1007/s11469-025-01444-y"
-    },
-    {
       "id": "hayes2024active",
       "type": "article",
       "title": "The active foundations of the illusion of control: an experimental test of the Henslin effect",
@@ -383,6 +415,16 @@
       "venue": "",
       "doi": "",
       "url": "https://www.justice.vic.gov.au/safer-communities/gambling/social-costs-of-gambling-to-victoria-2023"
+    },
+    {
+      "id": "latvala2025towards",
+      "type": "article",
+      "title": "Towards More Reliable Gambling Cost Estimates, a Population-Based Study with Register-Linkage",
+      "authors": "Latvala, T. A. and Rockloff, M. and Browne, M. and Roukka, T. and Lintonen, T. P. and Salonen, A. H.",
+      "year": 2025,
+      "venue": "BMC Public Health",
+      "doi": "10.1186/s12889-025-24043-x",
+      "url": "https://doi.org/10.1186/s12889-025-24043-x"
     },
     {
       "id": "hing2024immediate",
@@ -963,6 +1005,16 @@
       "venue": "",
       "doi": "",
       "url": "https://www.gambleaware.nsw.gov.au/resources-and-education/research/the-role-of-parents-in-youth-gambling"
+    },
+    {
+      "id": "murrayboyle2022validating",
+      "type": "article",
+      "title": "Validating the Short Gambling Harm Screen Against External Benchmarks",
+      "authors": "Murray Boyle, C. and Browne, M. and Rockloff, M. J. and Thorne, H. B.",
+      "year": 2022,
+      "venue": "Journal of Behavioral Addictions",
+      "doi": "10.1556/2006.2022.00075",
+      "url": "https://doi.org/10.1556/2006.2022.00075"
     },
     {
       "id": "latvala202118",
