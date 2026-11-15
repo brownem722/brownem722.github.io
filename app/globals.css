@@ -204,8 +204,31 @@ html[data-mode="party"] .mode-switch-knob { transform: translateX(26px); backgro
 .sequin-burst { position: fixed; inset: 0; z-index: 100; overflow: hidden; pointer-events: none; perspective: 600px; }
 .sequin-burst span { position: absolute; border-radius: 50%; background: radial-gradient(circle at 32% 30%, rgba(255, 255, 255, .9) 0 14%, transparent 36%), var(--c); box-shadow: inset 0 0 0 1px rgba(0, 0, 0, .18); }
 
+/* Research-area band under the record summary, and the area pages it links to. */
+.topic-band { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); border-bottom: 1px solid var(--line); }
+.topic-link { display: flex; align-items: baseline; gap: 12px; padding: 14px 20px 14px 0; color: var(--muted); transition: color .2s ease; }
+.topic-link:not(:nth-child(3n + 1)) { padding-left: 20px; border-left: 1px solid var(--line); }
+.topic-link:hover { color: var(--ink); }
+.topic-count { color: var(--ink); font: 500 1.25rem/1 var(--display); min-width: 2.2ch; }
+.topic-label { font-size: .66rem; letter-spacing: .14em; text-transform: uppercase; }
+.area-overview { max-width: 720px; margin: 26px 0 0; color: var(--body); font: 500 1.3rem/1.5 var(--display); }
+.area-sections { display: flex; flex-wrap: wrap; gap: 10px 26px; margin: 30px 0 0; padding: 0; list-style: none; font-size: .8rem; }
+.area-sections a { color: var(--ink); border-bottom: 1px solid var(--line); }
+.area-sections span { color: var(--muted); }
+.area-section { padding-top: 34px; scroll-margin-top: 20px; }
+.area-section h2 { margin: 0; font-size: 1.7rem; }
+.area-section-intro { max-width: 680px; margin: 8px 0 18px; color: var(--muted); }
+html[data-mode="party"] .topic-band { gap: 12px; padding-bottom: 30px; border: 0; }
+html[data-mode="party"] .topic-link, html[data-mode="party"] .topic-link:not(:nth-child(3n + 1)) { padding: 12px 16px; border: 2px solid var(--ink); border-radius: 16px; background: var(--soft); color: var(--ink); }
+html[data-mode="party"] .topic-link:hover { transform: rotate(-1deg) scale(1.03); }
+html[data-mode="party"] .topic-label { font: 700 .95rem var(--display); letter-spacing: 0; text-transform: none; }
+
 @media (max-width:  760px) {
   .shell { width: min(100% - 32px, 620px); }
+  .topic-band { grid-template-columns: 1fr; }
+  .topic-link, .topic-link:not(:nth-child(3n + 1)) { padding: 11px 0; border-left: 0; border-bottom: 1px solid var(--line); }
+  .topic-link:last-child { border-bottom: 0; }
+  .area-overview { font-size: 1.15rem; }
   .site-header { position: relative; flex-wrap: wrap; align-items: center; }
   .nav-toggle { display: flex; }
   nav {

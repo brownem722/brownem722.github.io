@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { academicPublications, cv, episodes, introSentence, siteDescription, siteUrl, writing } from "../lib/site-data";
+import { academicPublications, cv, episodes, introSentence, researchAreas, siteDescription, siteUrl, writing } from "../lib/site-data";
 import Dual from "./dual";
 import QuoteCycle from "./quote-cycle";
 import SiteHeader from "./site-header";
@@ -71,6 +71,15 @@ export default function Home() {
         <Link className="stat" href="/projects"><strong><Dual serious={funding.value} party={fundingShort} /></strong><span><Dual serious={funding.label} party="Research money. Real money!" /></span><Sticker>wow</Sticker></Link>
         <Link className="stat" href="/episodes"><strong>{episodes.length}</strong><span><Dual serious="Podcast episodes" party="Hours of yapping (episodes)" /></span><Sticker>!!!</Sticker></Link>
       </section>
+
+      <nav className="topic-band shell" aria-label="Research areas">
+        {researchAreas.map((area) => (
+          <Link className="topic-link" href={`/research/${area.slug}/`} key={area.slug}>
+            <span className="topic-count">{area.publications.length}</span>
+            <span className="topic-label"><Dual serious={area.label} party={area.party} /></span>
+          </Link>
+        ))}
+      </nav>
 
       <section className="section section-rule shell" id="cv">
         <a className="section-label" href="/Matthew_Browne_CV.pdf"><Dual serious="CV" party="The lore" /></a>

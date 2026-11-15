@@ -132,6 +132,7 @@ function parseBibtex(source) {
         venue: fields.journal ?? fields.booktitle ?? fields.publisher ?? "",
         doi: fields.doi ?? "",
         url: fields.url ?? (fields.doi ? `https://doi.org/${fields.doi}` : ""),
+        topics: (fields.topics ?? "").split(/[,;]/).map((code) => code.trim()).filter(Boolean),
       };
     })
     .filter(Boolean)
@@ -176,4 +177,12 @@ if (fs.existsSync(cvPdfPath)) {
   fs.mkdirSync(path.dirname(pdfOutputPath), { recursive: true });
   fs.copyFileSync(cvPdfPath, pdfOutputPath);
 }
+// Research-area pages are driven by the bib's `topics` field; codes are defined in data/topics.json.
+const topicDefinitions = JSON.parse(fs.readFileSync(path.join(projectRoot, "data", "topics.json"), "utf8"));
+const knownCodes = new Set(topicDefinitions.flatMap((topic) => [topic.slug, ...(topic.sections ?? []).map((section) => section.code)]));
+const untagged = output.publications.filter((publication) => !publication.topics.length);
+const unknown = output.publications.filter((publication) => publication.topics.some((code) => !knownCodes.has(code)));
+if (untagged.length) console.warn(`No topics field (missing from research-area pages): ${untagged.map((publication) => publication.id).join(", ")}`);
+if (unknown.length) console.warn(`Unknown topic codes: ${unknown.map((publication) => `${publication.id} [${publication.topics.join(", ")}]`).join("; ")}. Valid codes: ${[...knownCodes].join(", ")}`);
+
 console.log(`Synced ${output.publications.length} publications and ${output.projects.length} projects${fs.existsSync(cvPdfPath) ? " and the CV PDF" : ""} from ${cvRoot}`);

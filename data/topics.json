@@ -1,0 +1,46 @@
+[
+  {
+    "slug": "gambling",
+    "label": "Gambling and public health",
+    "party": "Gambling (the big one)",
+    "overview": "Most of Matthew's research since 2014 has been about gambling, treated as a public health problem. A central thread is measurement: defining what gambling harm is, counting it, and putting a cost on it. With colleagues he developed the Short Gambling Harm Screen and the Gambling Harms Scales, benchmarked harm to health-related quality of life, and used that approach to estimate the burden of gambling in Australia, New Zealand, Finland and Japan. Around this sit studies of the products and marketing that drive harm, young people's exposure through sports betting, loot boxes and simulated gambling games, the people affected by someone else's gambling, and a long run of state and national prevalence surveys.",
+    "sections": [
+      { "code": "gambling-measurement", "label": "Measuring harm and its burden", "intro": "Defining gambling harm, building screens and scales to measure it, and expressing it in health-utility terms so it can be compared with other conditions and costed." },
+      { "code": "gambling-products", "label": "Products, marketing and policy", "intro": "How gambling products, venues and promotions shape behaviour, from EGM jackpots and skill-based machines to wagering inducements and affiliate marketing, and what safer-gambling messages and limits on supply can do." },
+      { "code": "gambling-youth", "label": "Young people and digital gambling", "intro": "Gambling-like features in games, including loot boxes, skin gambling, esports betting and simulated gambling, and how young adults come to bet on sport through their phones." },
+      { "code": "gambling-families", "label": "Families and affected others", "intro": "Harm to the partners, children, family and friends of people who gamble: how many people are affected, and how their wellbeing changes over time." },
+      { "code": "gambling-risk", "label": "Risk factors, thinking and behaviour", "intro": "Who develops gambling problems and why: beliefs and thinking style, illusions of control, sleep, fatigue and stress, and the social factors that predict onset and recovery." },
+      { "code": "gambling-surveys", "label": "Population surveys and government reports", "intro": "State and national prevalence studies and commissioned reports for governments and regulators." }
+    ]
+  },
+  {
+    "slug": "ai",
+    "label": "AI and machine learning",
+    "party": "Robots and neural nets",
+    "overview": "Matthew's early research was in machine learning and signal processing. He used wavelet methods to recover event-related potentials from noisy EEG recordings, and in the early 2000s applied convolutional neural networks to robot vision for autonomous inspection of sewer pipes. Other work from this period covers echo state networks, models of feature maps in the visual cortex, stabilised biped walking, and non-parametric density estimation. Recent collaborations return to the field with explainable AI methods for diagnosing neurological disorders."
+  },
+  {
+    "slug": "environmental-informatics",
+    "label": "Environmental informatics",
+    "party": "Beaches and reefs",
+    "overview": "Through the 2000s Matthew applied statistical and machine-learning methods to coastal and marine data. One line of work used video imagery and neural networks to classify beach states, measure breaking waves, estimate nearshore wave heights and monitor beach safety. Another mapped seabed habitats and biodiversity across the Great Barrier Reef and Torres Strait, providing evidence for assessing the effects of trawling and for marine management."
+  },
+  {
+    "slug": "health-beliefs",
+    "label": "Health beliefs and scepticism",
+    "party": "Why people believe weird stuff",
+    "overview": "This work asks why people turn away from mainstream science and medicine. With colleagues Matthew showed that use of complementary and alternative medicine and vaccine scepticism reflect a shared worldview, linked to intuitive thinking, magical beliefs about health and distrust of scientific authority, and tested how cues about contamination and purity shift attitudes to vaccination. Related papers examine cognitive style and religiosity, impulsivity and the pull of 'supernormal' rewards, public beliefs about deception and EEG lie-detection evidence, and why scientific advances rarely come from contrarian outsiders."
+  },
+  {
+    "slug": "health-services",
+    "label": "Health services and clinical research",
+    "party": "Hospitals and paramedics",
+    "overview": "Matthew has collaborated widely with clinicians and health researchers, contributing study design and analysis. Projects include validating early-warning systems for detecting patient deterioration in Queensland hospitals, assessing fitness to drive after stroke and in dementia, occupational therapy trials, interprofessional training for health students and new graduates, fatigue in emergency services, and violence and occupational injury among paramedics and emergency medical technicians."
+  },
+  {
+    "slug": "statistics",
+    "label": "Statistical contributions",
+    "party": "Number crunching for friends",
+    "overview": "Alongside his own research programmes, Matthew has provided statistical analysis for colleagues across many fields, from children's physical activity and adult sleep to grief, human-dog co-sleeping and small-area cancer risk. This page also includes his methods papers, among them an algorithm for shortening psychometric scales and an approach to stronger causal inference from cross-lagged panel models."
+  }
+]

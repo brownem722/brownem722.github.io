@@ -84,6 +84,18 @@ test("static export contains the CV-derived publication page", async () => {
   assert.doesNotMatch(html, /recorded in the maintained CV bibliography|Showing[\s\S]*?publications/i);
 });
 
+test("static export contains the research-area pages linked from the home page", async () => {
+  const home = await readExport("index.html");
+  const topics = JSON.parse(await readFile(new URL("../data/topics.json", import.meta.url), "utf8"));
+  for (const topic of topics) {
+    assert.match(home, new RegExp(`href="/research/${topic.slug}/"`));
+    assert.match(await readExport(`research/${topic.slug}/index.html`), new RegExp(`<h1>${topic.label}</h1>`));
+  }
+  const gambling = await readExport("research/gambling/index.html");
+  assert.match(gambling, /id="gambling-measurement"/);
+  assert.match(gambling, /Validation of the Short Gambling Harm Screen/);
+});
+
 test("static export contains the podcast episode page", async () => {
   const html = await readExport("episodes/index.html");
   assert.match(html, /<h1>Podcast episodes<\/h1>/);

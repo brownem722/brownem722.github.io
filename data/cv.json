@@ -54,7 +54,10 @@
       "year": 2026,
       "venue": "Journal of Gambling Studies",
       "doi": "10.1007/s10899-026-10529-9",
-      "url": "https://doi.org/10.1007/s10899-026-10529-9"
+      "url": "https://doi.org/10.1007/s10899-026-10529-9",
+      "topics": [
+        "gambling-measurement"
+      ]
     },
     {
       "id": "zammit2026transtheoretical",
@@ -64,7 +67,10 @@
       "year": 2026,
       "venue": "European Journal of Trauma \\& Dissociation",
       "doi": "10.1016/j.ejtd.2026.100757",
-      "url": "https://doi.org/10.1016/j.ejtd.2026.100757"
+      "url": "https://doi.org/10.1016/j.ejtd.2026.100757",
+      "topics": [
+        "health-beliefs"
+      ]
     },
     {
       "id": "close2025development",
@@ -74,7 +80,10 @@
       "year": 2026,
       "venue": "Addiction",
       "doi": "10.1111/add.70727",
-      "url": "https://doi.org/10.1111/add.70727"
+      "url": "https://doi.org/10.1111/add.70727",
+      "topics": [
+        "gambling-measurement"
+      ]
     },
     {
       "id": "Rockloff2026DirectGamblingMarketing",
@@ -84,7 +93,10 @@
       "year": 2026,
       "venue": "Addiction",
       "doi": "10.1111/add.70369",
-      "url": "https://doi.org/10.1111/add.70369"
+      "url": "https://doi.org/10.1111/add.70369",
+      "topics": [
+        "gambling-products"
+      ]
     },
     {
       "id": "browne2026six",
@@ -94,7 +106,10 @@
       "year": 2026,
       "venue": "Journal of Gambling Studies",
       "doi": "10.1007/s10899-026-10521-3",
-      "url": "https://doi.org/10.1007/s10899-026-10521-3"
+      "url": "https://doi.org/10.1007/s10899-026-10521-3",
+      "topics": [
+        "gambling-families"
+      ]
     },
     {
       "id": "browne2026gamblingharms",
@@ -104,7 +119,10 @@
       "year": 2026,
       "venue": "Journal of Gambling Studies",
       "doi": "10.1007/s10899-026-10524-0",
-      "url": "https://doi.org/10.1007/s10899-026-10524-0"
+      "url": "https://doi.org/10.1007/s10899-026-10524-0",
+      "topics": [
+        "gambling-measurement"
+      ]
     },
     {
       "id": "statton2026gambling",
@@ -114,7 +132,10 @@
       "year": 2026,
       "venue": "European Addiction Research",
       "doi": "",
-      "url": ""
+      "url": "",
+      "topics": [
+        "gambling-measurement"
+      ]
     },
     {
       "id": "tulloch2026improving",
@@ -124,7 +145,10 @@
       "year": 2026,
       "venue": "Addiction Research \\& Theory",
       "doi": "",
-      "url": ""
+      "url": "",
+      "topics": [
+        "gambling-risk"
+      ]
     },
     {
       "id": "Hing2026Journeys",
@@ -134,7 +158,10 @@
       "year": 2026,
       "venue": "International Journal of Mental Health and Addiction",
       "doi": "10.1007/s11469-025-01625-9",
-      "url": "https://doi.org/10.1007/s11469-025-01625-9"
+      "url": "https://doi.org/10.1007/s11469-025-01625-9",
+      "topics": [
+        "gambling-youth"
+      ]
     },
     {
       "id": "murphy2026locating",
@@ -144,7 +171,10 @@
       "year": 2026,
       "venue": "Journal of Gambling Studies",
       "doi": "10.1007/s10899-026-10571-7",
-      "url": "https://doi.org/10.1007/s10899-026-10571-7"
+      "url": "https://doi.org/10.1007/s10899-026-10571-7",
+      "topics": [
+        "gambling-risk"
+      ]
     },
     {
       "id": "goodwin2026mapping",
@@ -154,7 +184,10 @@
       "year": 2026,
       "venue": "Australian Journal of Rural Health",
       "doi": "10.1111/ajr.70221",
-      "url": "https://doi.org/10.1111/ajr.70221"
+      "url": "https://doi.org/10.1111/ajr.70221",
+      "topics": [
+        "statistics"
+      ]
     },
     {
       "id": "maguire2026sex",
@@ -164,7 +197,10 @@
       "year": 2026,
       "venue": "International Journal of Paramedicine",
       "doi": "",
-      "url": ""
+      "url": "",
+      "topics": [
+        "health-services"
+      ]
     },
     {
       "id": "hing2026a",
@@ -174,7 +210,10 @@
       "year": 2026,
       "venue": "Current Addiction Reports",
       "doi": "10.1007/s40429-026-00784-6",
-      "url": "https://doi.org/10.1007/s40429-026-00784-6"
+      "url": "https://doi.org/10.1007/s40429-026-00784-6",
+      "topics": [
+        "gambling-youth"
+      ]
     },
     {
       "id": "russell2026sa",
@@ -184,7 +223,10 @@
       "year": 2026,
       "venue": "",
       "doi": "",
-      "url": "https://gamblingharmsupport.sa.gov.au/__data/assets/pdf_file/0008/205973/South-Australian-Gambling-Survey-2025.pdf"
+      "url": "https://gamblingharmsupport.sa.gov.au/__data/assets/pdf_file/0008/205973/South-Australian-Gambling-Survey-2025.pdf",
+      "topics": [
+        "gambling-surveys"
+      ]
     },
     {
       "id": "dittman2025sure",
@@ -194,7 +236,10 @@
       "year": 2026,
       "venue": "International Journal of Mental Health and Addiction",
       "doi": "10.1007/s11469-025-01444-y",
-      "url": "https://doi.org/10.1007/s11469-025-01444-y"
+      "url": "https://doi.org/10.1007/s11469-025-01444-y",
+      "topics": [
+        "gambling-youth"
+      ]
     },
     {
       "id": "tulloch2026synthesising",
@@ -204,7 +249,10 @@
       "year": 2026,
       "venue": "Addictive Behaviors",
       "doi": "10.1016/j.addbeh.2026.108612",
-      "url": "https://doi.org/10.1016/j.addbeh.2026.108612"
+      "url": "https://doi.org/10.1016/j.addbeh.2026.108612",
+      "topics": [
+        "gambling-measurement"
+      ]
     },
     {
       "id": "browne2025temporal",
@@ -214,7 +262,10 @@
       "year": 2026,
       "venue": "Structural Equation Modeling: A Multidisciplinary Journal",
       "doi": "10.1080/10705511.2025.2569468",
-      "url": "https://doi.org/10.1080/10705511.2025.2569468"
+      "url": "https://doi.org/10.1080/10705511.2025.2569468",
+      "topics": [
+        "statistics"
+      ]
     },
     {
       "id": "hing2025wild",
@@ -224,7 +275,10 @@
       "year": 2026,
       "venue": "International Journal of Mental Health and Addiction",
       "doi": "10.1007/s11469-024-01422-w",
-      "url": "https://doi.org/10.1007/s11469-024-01422-w"
+      "url": "https://doi.org/10.1007/s11469-024-01422-w",
+      "topics": [
+        "gambling-products"
+      ]
     },
     {
       "id": "browne2025gambling",
@@ -234,7 +288,10 @@
       "year": 2026,
       "venue": "Addictive Behaviors",
       "doi": "10.1016/j.addbeh.2025.108513",
-      "url": "https://doi.org/10.1016/j.addbeh.2025.108513"
+      "url": "https://doi.org/10.1016/j.addbeh.2025.108513",
+      "topics": [
+        "gambling-measurement"
+      ]
     },
     {
       "id": "hing2026casino",
@@ -244,7 +301,10 @@
       "year": 2026,
       "venue": "",
       "doi": "",
-      "url": "https://www.justice.vic.gov.au/safer-communities/gambling/the-casino-gambling-environment-study"
+      "url": "https://www.justice.vic.gov.au/safer-communities/gambling/the-casino-gambling-environment-study",
+      "topics": [
+        "gambling-surveys"
+      ]
     },
     {
       "id": "dittman2026role",
@@ -254,7 +314,10 @@
       "year": 2026,
       "venue": "Journal of Gambling Studies",
       "doi": "10.1007/s10899-026-10520-4",
-      "url": "https://doi.org/10.1007/s10899-026-10520-4"
+      "url": "https://doi.org/10.1007/s10899-026-10520-4",
+      "topics": [
+        "gambling-youth"
+      ]
     },
     {
       "id": "browne2026weighing",
@@ -264,7 +327,10 @@
       "year": 2026,
       "venue": "Journal of Gambling Studies",
       "doi": "10.1007/s10899-026-10541-z",
-      "url": "https://doi.org/10.1007/s10899-026-10541-z"
+      "url": "https://doi.org/10.1007/s10899-026-10541-z",
+      "topics": [
+        "gambling-measurement"
+      ]
     },
     {
       "id": "spence2025it",
@@ -274,7 +340,10 @@
       "year": 2025,
       "venue": "Journal of Gambling Studies",
       "doi": "10.1007/s10899-025-10388-w",
-      "url": "https://doi.org/10.1007/s10899-025-10388-w"
+      "url": "https://doi.org/10.1007/s10899-025-10388-w",
+      "topics": [
+        "gambling-families"
+      ]
     },
     {
       "id": "rockloff2025act",
@@ -284,7 +353,10 @@
       "year": 2025,
       "venue": "",
       "doi": "",
-      "url": "https://www.gamblingandracing.act.gov.au/__data/assets/pdf_file/0012/2861796/2024-ACT-Gambling-Survey.pdf"
+      "url": "https://www.gamblingandracing.act.gov.au/__data/assets/pdf_file/0012/2861796/2024-ACT-Gambling-Survey.pdf",
+      "topics": [
+        "gambling-surveys"
+      ]
     },
     {
       "id": "collard2025holistic",
@@ -294,7 +366,10 @@
       "year": 2025,
       "venue": "",
       "doi": "10.31234/osf.io/yudq6_v1",
-      "url": "https://doi.org/10.31234/osf.io/yudq6_v1"
+      "url": "https://doi.org/10.31234/osf.io/yudq6_v1",
+      "topics": [
+        "gambling-measurement"
+      ]
     },
     {
       "id": "dowling2025affected",
@@ -304,7 +379,10 @@
       "year": 2025,
       "venue": "Journal of Gambling Studies",
       "doi": "10.1007/s10899-025-10377-z",
-      "url": "https://doi.org/10.1007/s10899-025-10377-z"
+      "url": "https://doi.org/10.1007/s10899-025-10377-z",
+      "topics": [
+        "gambling-families"
+      ]
     },
     {
       "id": "wilcoxson2025beliefs",
@@ -314,7 +392,10 @@
       "year": 2025,
       "venue": "The International Journal of Evidence \\& Proof",
       "doi": "10.1177/13657127251326782",
-      "url": "https://doi.org/10.1177/13657127251326782"
+      "url": "https://doi.org/10.1177/13657127251326782",
+      "topics": [
+        "health-beliefs"
+      ]
     },
     {
       "id": "newall2024does",
@@ -324,7 +405,10 @@
       "year": 2025,
       "venue": "Addiction Research \\& Theory",
       "doi": "10.1080/16066359.2024.2365177",
-      "url": "https://doi.org/10.1080/16066359.2024.2365177"
+      "url": "https://doi.org/10.1080/16066359.2024.2365177",
+      "topics": [
+        "gambling-measurement"
+      ]
     },
     {
       "id": "browne2025economic",
@@ -334,7 +418,10 @@
       "year": 2025,
       "venue": "",
       "doi": "",
-      "url": "https://www.health.govt.nz/publications/economic-and-social-costing-of-gambling-in-aotearoa-new-zealand-2023-24"
+      "url": "https://www.health.govt.nz/publications/economic-and-social-costing-of-gambling-in-aotearoa-new-zealand-2023-24",
+      "topics": [
+        "gambling-measurement"
+      ]
     },
     {
       "id": "wilcoxson2025eeg",
@@ -344,7 +431,10 @@
       "year": 2025,
       "venue": "Journal of Police and Criminal Psychology",
       "doi": "10.1007/s11896-024-09670-1",
-      "url": "https://doi.org/10.1007/s11896-024-09670-1"
+      "url": "https://doi.org/10.1007/s11896-024-09670-1",
+      "topics": [
+        "health-beliefs"
+      ]
     },
     {
       "id": "hing2025quirky",
@@ -354,7 +444,10 @@
       "year": 2025,
       "venue": "International Journal of Mental Health and Addiction",
       "doi": "10.1007/s11469-025-01612-0",
-      "url": "https://doi.org/10.1007/s11469-025-01612-0"
+      "url": "https://doi.org/10.1007/s11469-025-01612-0",
+      "topics": [
+        "gambling-youth"
+      ]
     },
     {
       "id": "browne2025crucial",
@@ -364,7 +457,10 @@
       "year": 2025,
       "venue": "Current Addiction Reports",
       "doi": "10.1007/s40429-025-00647-6",
-      "url": "https://doi.org/10.1007/s40429-025-00647-6"
+      "url": "https://doi.org/10.1007/s40429-025-00647-6",
+      "topics": [
+        "gambling-measurement"
+      ]
     },
     {
       "id": "hing2025journeys",
@@ -374,7 +470,10 @@
       "year": 2025,
       "venue": "",
       "doi": "",
-      "url": "https://www.justice.vic.gov.au/safer-communities/gambling/journeys-towards-harm-gambling-and-gambling-harm-among-young-online"
+      "url": "https://www.justice.vic.gov.au/safer-communities/gambling/journeys-towards-harm-gambling-and-gambling-harm-among-young-online",
+      "topics": [
+        "gambling-youth"
+      ]
     },
     {
       "id": "thorne2025laboratory",
@@ -384,7 +483,10 @@
       "year": 2025,
       "venue": "Scientific Reports",
       "doi": "10.1038/s41598-025-02027-6",
-      "url": "https://doi.org/10.1038/s41598-025-02027-6"
+      "url": "https://doi.org/10.1038/s41598-025-02027-6",
+      "topics": [
+        "gambling-risk"
+      ]
     },
     {
       "id": "hing2025nsw",
@@ -394,7 +496,10 @@
       "year": 2025,
       "venue": "",
       "doi": "",
-      "url": "https://www.gambleaware.nsw.gov.au/resources-and-education/check-out-our-research/published-research/nsw-longitudinal-youth-gambling-study-2024"
+      "url": "https://www.gambleaware.nsw.gov.au/resources-and-education/check-out-our-research/published-research/nsw-longitudinal-youth-gambling-study-2024",
+      "topics": [
+        "gambling-surveys"
+      ]
     },
     {
       "id": "hing2025self",
@@ -404,7 +509,10 @@
       "year": 2025,
       "venue": "International Journal of Mental Health and Addiction",
       "doi": "10.1007/s11469-024-01308-x",
-      "url": "https://doi.org/10.1007/s11469-024-01308-x"
+      "url": "https://doi.org/10.1007/s11469-024-01308-x",
+      "topics": [
+        "gambling-products"
+      ]
     },
     {
       "id": "rigney2025sleep",
@@ -414,7 +522,10 @@
       "year": 2025,
       "venue": "Clocks \\& Sleep",
       "doi": "10.3390/clockssleep7010016",
-      "url": "https://doi.org/10.3390/clockssleep7010016"
+      "url": "https://doi.org/10.3390/clockssleep7010016",
+      "topics": [
+        "statistics"
+      ]
     },
     {
       "id": "hayes2024active",
@@ -424,7 +535,10 @@
       "year": 2025,
       "venue": "Addiction Research \\& Theory",
       "doi": "10.1080/16066359.2024.2415590",
-      "url": "https://doi.org/10.1080/16066359.2024.2415590"
+      "url": "https://doi.org/10.1080/16066359.2024.2415590",
+      "topics": [
+        "gambling-risk"
+      ]
     },
     {
       "id": "hing2025convergence",
@@ -434,7 +548,10 @@
       "year": 2025,
       "venue": "",
       "doi": "",
-      "url": "https://www.health.govt.nz/publications/the-convergence-of-simulated-gambling-monetary-gambling-and-gambling-harm"
+      "url": "https://www.health.govt.nz/publications/the-convergence-of-simulated-gambling-monetary-gambling-and-gambling-harm",
+      "topics": [
+        "gambling-youth"
+      ]
     },
     {
       "id": "hing2025high",
@@ -444,7 +561,10 @@
       "year": 2025,
       "venue": "Journal of Behavioral Addictions",
       "doi": "10.1556/2006.2025.00067",
-      "url": "https://doi.org/10.1556/2006.2025.00067"
+      "url": "https://doi.org/10.1556/2006.2025.00067",
+      "topics": [
+        "gambling-products"
+      ]
     },
     {
       "id": "tulloch2025roles",
@@ -454,7 +574,10 @@
       "year": 2025,
       "venue": "Addictive Behaviors",
       "doi": "10.1016/j.addbeh.2024.108236",
-      "url": "https://doi.org/10.1016/j.addbeh.2024.108236"
+      "url": "https://doi.org/10.1016/j.addbeh.2024.108236",
+      "topics": [
+        "gambling-families"
+      ]
     },
     {
       "id": "browne2025social",
@@ -464,7 +587,10 @@
       "year": 2025,
       "venue": "",
       "doi": "",
-      "url": "https://www.justice.vic.gov.au/safer-communities/gambling/social-costs-of-gambling-to-victoria-2023"
+      "url": "https://www.justice.vic.gov.au/safer-communities/gambling/social-costs-of-gambling-to-victoria-2023",
+      "topics": [
+        "gambling-measurement"
+      ]
     },
     {
       "id": "latvala2025towards",
@@ -474,7 +600,10 @@
       "year": 2025,
       "venue": "BMC Public Health",
       "doi": "10.1186/s12889-025-24043-x",
-      "url": "https://doi.org/10.1186/s12889-025-24043-x"
+      "url": "https://doi.org/10.1186/s12889-025-24043-x",
+      "topics": [
+        "gambling-measurement"
+      ]
     },
     {
       "id": "hing2024immediate",
@@ -484,7 +613,10 @@
       "year": 2024,
       "venue": "International Journal of Mental Health and Addiction",
       "doi": "10.1007/s11469-022-00933-8",
-      "url": "https://doi.org/10.1007/s11469-022-00933-8"
+      "url": "https://doi.org/10.1007/s11469-022-00933-8",
+      "topics": [
+        "gambling-youth"
+      ]
     },
     {
       "id": "newall2024chances",
@@ -494,7 +626,10 @@
       "year": 2024,
       "venue": "Addiction Research \\& Theory",
       "doi": "10.1080/16066359.2023.2282545",
-      "url": "https://doi.org/10.1080/16066359.2023.2282545"
+      "url": "https://doi.org/10.1080/16066359.2023.2282545",
+      "topics": [
+        "gambling-products"
+      ]
     },
     {
       "id": "newall2024no",
@@ -504,7 +639,10 @@
       "year": 2024,
       "venue": "Addiction",
       "doi": "10.1111/add.16369",
-      "url": "https://doi.org/10.1111/add.16369"
+      "url": "https://doi.org/10.1111/add.16369",
+      "topics": [
+        "gambling-products"
+      ]
     },
     {
       "id": "hing2024direct",
@@ -514,7 +652,10 @@
       "year": 2024,
       "venue": "",
       "doi": "10.25946/32051985.v1",
-      "url": "https://www.gamblingresearch.org.au/sites/default/files/2024-08/gra_direct_affiliate_wagering_marketing_final_report_0.pdf"
+      "url": "https://www.gamblingresearch.org.au/sites/default/files/2024-08/gra_direct_affiliate_wagering_marketing_final_report_0.pdf",
+      "topics": [
+        "gambling-products"
+      ]
     },
     {
       "id": "hing2024feature",
@@ -524,7 +665,10 @@
       "year": 2024,
       "venue": "Journal of Behavioral Addictions",
       "doi": "10.1556/2006.2023.00073",
-      "url": "https://doi.org/10.1556/2006.2023.00073"
+      "url": "https://doi.org/10.1556/2006.2023.00073",
+      "topics": [
+        "gambling-youth"
+      ]
     },
     {
       "id": "tulloch2024harm",
@@ -534,7 +678,10 @@
       "year": 2024,
       "venue": "Journal of Behavioral Addictions",
       "doi": "10.1556/2006.2024.00025",
-      "url": "https://doi.org/10.1556/2006.2024.00025"
+      "url": "https://doi.org/10.1556/2006.2024.00025",
+      "topics": [
+        "gambling-measurement"
+      ]
     },
     {
       "id": "rockloff2024illusions",
@@ -544,7 +691,10 @@
       "year": 2024,
       "venue": "Journal of Behavioral Addictions",
       "doi": "10.1556/2006.2024.00057",
-      "url": "https://doi.org/10.1556/2006.2024.00057"
+      "url": "https://doi.org/10.1556/2006.2024.00057",
+      "topics": [
+        "gambling-products"
+      ]
     },
     {
       "id": "lelagadec2024indicators",
@@ -554,7 +704,10 @@
       "year": 2024,
       "venue": "Australian Critical Care",
       "doi": "10.1016/j.aucc.2023.05.006",
-      "url": "https://doi.org/10.1016/j.aucc.2023.05.006"
+      "url": "https://doi.org/10.1016/j.aucc.2023.05.006",
+      "topics": [
+        "health-services"
+      ]
     },
     {
       "id": "russell2025mapping",
@@ -564,7 +717,10 @@
       "year": 2024,
       "venue": "",
       "doi": "",
-      "url": ""
+      "url": "",
+      "topics": [
+        "gambling-risk"
+      ]
     },
     {
       "id": "hwang2024national",
@@ -574,7 +730,10 @@
       "year": 2024,
       "venue": "BMC Public Health",
       "doi": "10.1186/s12889-024-19197-z",
-      "url": "https://doi.org/10.1186/s12889-024-19197-z"
+      "url": "https://doi.org/10.1186/s12889-024-19197-z",
+      "topics": [
+        "gambling-measurement"
+      ]
     },
     {
       "id": "browne2024nsw",
@@ -584,7 +743,10 @@
       "year": 2024,
       "venue": "",
       "doi": "10.25946/29898023.v1",
-      "url": "https://doi.org/10.25946/29898023.v1"
+      "url": "https://doi.org/10.25946/29898023.v1",
+      "topics": [
+        "gambling-surveys"
+      ]
     },
     {
       "id": "woodbright2024optimised",
@@ -594,7 +756,10 @@
       "year": 2024,
       "venue": "2024 International Conference on Data Science and Its Applications (ICoDSA)",
       "doi": "10.1109/ICoDSA62899.2024.10651906",
-      "url": "https://doi.org/10.1109/ICoDSA62899.2024.10651906"
+      "url": "https://doi.org/10.1109/ICoDSA62899.2024.10651906",
+      "topics": [
+        "ai"
+      ]
     },
     {
       "id": "williams2024revising",
@@ -604,7 +769,10 @@
       "year": 2024,
       "venue": "Current Psychology",
       "doi": "10.1007/s12144-024-05611-7",
-      "url": "https://doi.org/10.1007/s12144-024-05611-7"
+      "url": "https://doi.org/10.1007/s12144-024-05611-7",
+      "topics": [
+        "health-beliefs"
+      ]
     },
     {
       "id": "newall2024skill",
@@ -614,7 +782,10 @@
       "year": 2024,
       "venue": "Journal of Gambling Studies",
       "doi": "10.1007/s10899-024-10296-5",
-      "url": "https://doi.org/10.1007/s10899-024-10296-5"
+      "url": "https://doi.org/10.1007/s10899-024-10296-5",
+      "topics": [
+        "gambling-products"
+      ]
     },
     {
       "id": "rockloff2024testing",
@@ -624,7 +795,10 @@
       "year": 2024,
       "venue": "Addictive Behaviors",
       "doi": "10.1016/j.addbeh.2023.107893",
-      "url": "https://doi.org/10.1016/j.addbeh.2023.107893"
+      "url": "https://doi.org/10.1016/j.addbeh.2023.107893",
+      "topics": [
+        "gambling-products"
+      ]
     },
     {
       "id": "hing2024covid",
@@ -634,7 +808,10 @@
       "year": 2024,
       "venue": "Journal of Behavioral Addictions",
       "doi": "10.1556/2006.2023.00085",
-      "url": "https://doi.org/10.1556/2006.2023.00085"
+      "url": "https://doi.org/10.1556/2006.2023.00085",
+      "topics": [
+        "gambling-products"
+      ]
     },
     {
       "id": "dellosa2024influence",
@@ -644,7 +821,10 @@
       "year": 2024,
       "venue": "Journal of Behavioral Addictions",
       "doi": "10.1556/2006.2024.00051",
-      "url": "https://doi.org/10.1556/2006.2024.00051"
+      "url": "https://doi.org/10.1556/2006.2024.00051",
+      "topics": [
+        "gambling-risk"
+      ]
     },
     {
       "id": "woodbright2024toward",
@@ -654,7 +834,10 @@
       "year": 2024,
       "venue": "IEEE Access",
       "doi": "10.1109/ACCESS.2024.3375877",
-      "url": "https://doi.org/10.1109/ACCESS.2024.3375877"
+      "url": "https://doi.org/10.1109/ACCESS.2024.3375877",
+      "topics": [
+        "ai"
+      ]
     },
     {
       "id": "hing2023bad",
@@ -664,7 +847,10 @@
       "year": 2023,
       "venue": "Sport Management Review",
       "doi": "10.1080/14413523.2023.2260079",
-      "url": "https://doi.org/10.1080/14413523.2023.2260079"
+      "url": "https://doi.org/10.1080/14413523.2023.2260079",
+      "topics": [
+        "gambling-youth"
+      ]
     },
     {
       "id": "hing2023adoption",
@@ -674,7 +860,10 @@
       "year": 2023,
       "venue": "Current Addiction Reports",
       "doi": "10.1007/s40429-023-00473-8",
-      "url": "https://doi.org/10.1007/s40429-023-00473-8"
+      "url": "https://doi.org/10.1007/s40429-023-00473-8",
+      "topics": [
+        "gambling-youth"
+      ]
     },
     {
       "id": "hing2023catalyst",
@@ -684,7 +873,10 @@
       "year": 2023,
       "venue": "",
       "doi": "",
-      "url": "https://responsiblegambling.vic.gov.au/resources/publications/catalyst-or-circuit-breaker-a-prospective-study-to-assess-covid-19s-effects-on-relationships-between-gambling-availability-gambling-and-harmful-gambling-and-social-psychological-and-financial-wellbeing-1303/"
+      "url": "https://responsiblegambling.vic.gov.au/resources/publications/catalyst-or-circuit-breaker-a-prospective-study-to-assess-covid-19s-effects-on-relationships-between-gambling-availability-gambling-and-harmful-gambling-and-social-psychological-and-financial-wellbeing-1303/",
+      "topics": [
+        "gambling-products"
+      ]
     },
     {
       "id": "martin2023comparing",
@@ -694,7 +886,10 @@
       "year": 2023,
       "venue": "Journal of Interprofessional Care",
       "doi": "10.1080/13561820.2023.2166906",
-      "url": "https://doi.org/10.1080/13561820.2023.2166906"
+      "url": "https://doi.org/10.1080/13561820.2023.2166906",
+      "topics": [
+        "health-services"
+      ]
     },
     {
       "id": "newall2023designing",
@@ -704,7 +899,10 @@
       "year": 2023,
       "venue": "Journal of Gambling Studies",
       "doi": "10.1007/s10899-023-10203-4",
-      "url": "https://doi.org/10.1007/s10899-023-10203-4"
+      "url": "https://doi.org/10.1007/s10899-023-10203-4",
+      "topics": [
+        "gambling-products"
+      ]
     },
     {
       "id": "russell2023electronic",
@@ -714,7 +912,10 @@
       "year": 2023,
       "venue": "Journal of Behavioral Addictions",
       "doi": "10.1556/2006.2023.00044",
-      "url": "https://doi.org/10.1556/2006.2023.00044"
+      "url": "https://doi.org/10.1556/2006.2023.00044",
+      "topics": [
+        "gambling-products"
+      ]
     },
     {
       "id": "russell2023gambling",
@@ -724,7 +925,10 @@
       "year": 2023,
       "venue": "Journal of Behavioral Addictions",
       "doi": "10.1556/2006.2023.00020",
-      "url": "https://doi.org/10.1556/2006.2023.00020"
+      "url": "https://doi.org/10.1556/2006.2023.00020",
+      "topics": [
+        "gambling-products"
+      ]
     },
     {
       "id": "newall2023how",
@@ -734,7 +938,10 @@
       "year": 2023,
       "venue": "Addiction Research \\& Theory",
       "doi": "10.1080/16066359.2022.2148663",
-      "url": "https://doi.org/10.1080/16066359.2022.2148663"
+      "url": "https://doi.org/10.1080/16066359.2022.2148663",
+      "topics": [
+        "gambling-products"
+      ]
     },
     {
       "id": "tulloch2023how",
@@ -744,7 +951,10 @@
       "year": 2023,
       "venue": "Journal of Behavioral Addictions",
       "doi": "10.1556/2006.2023.00036",
-      "url": "https://doi.org/10.1556/2006.2023.00036"
+      "url": "https://doi.org/10.1556/2006.2023.00036",
+      "topics": [
+        "gambling-families"
+      ]
     },
     {
       "id": "tulloch2023how_b",
@@ -754,7 +964,10 @@
       "year": 2023,
       "venue": "Addictive Behaviors",
       "doi": "10.1016/j.addbeh.2022.107538",
-      "url": "https://doi.org/10.1016/j.addbeh.2022.107538"
+      "url": "https://doi.org/10.1016/j.addbeh.2022.107538",
+      "topics": [
+        "gambling-measurement"
+      ]
     },
     {
       "id": "greer2023motivations",
@@ -764,7 +977,10 @@
       "year": 2023,
       "venue": "Journal of Gambling Studies",
       "doi": "10.1007/s10899-022-10137-3",
-      "url": "https://doi.org/10.1007/s10899-022-10137-3"
+      "url": "https://doi.org/10.1007/s10899-022-10137-3",
+      "topics": [
+        "gambling-youth"
+      ]
     },
     {
       "id": "hing2023not",
@@ -774,7 +990,10 @@
       "year": 2023,
       "venue": "Addictive Behaviors",
       "doi": "10.1016/j.addbeh.2022.107525",
-      "url": "https://doi.org/10.1016/j.addbeh.2022.107525"
+      "url": "https://doi.org/10.1016/j.addbeh.2022.107525",
+      "topics": [
+        "gambling-youth"
+      ]
     },
     {
       "id": "flenady2023queensland",
@@ -784,7 +1003,10 @@
       "year": 2023,
       "venue": "Collegian",
       "doi": "10.1016/j.colegn.2023.05.006",
-      "url": "https://doi.org/10.1016/j.colegn.2023.05.006"
+      "url": "https://doi.org/10.1016/j.colegn.2023.05.006",
+      "topics": [
+        "health-services"
+      ]
     },
     {
       "id": "hing2023situational",
@@ -794,7 +1016,10 @@
       "year": 2023,
       "venue": "Journal of Behavioral Addictions",
       "doi": "10.1556/2006.2023.00065",
-      "url": "https://doi.org/10.1556/2006.2023.00065"
+      "url": "https://doi.org/10.1556/2006.2023.00065",
+      "topics": [
+        "gambling-youth"
+      ]
     },
     {
       "id": "rockloff2024skill",
@@ -804,7 +1029,10 @@
       "year": 2023,
       "venue": "",
       "doi": "10.25946/27023776",
-      "url": "https://doi.org/10.25946/27023776"
+      "url": "https://doi.org/10.25946/27023776",
+      "topics": [
+        "gambling-products"
+      ]
     },
     {
       "id": "greer2023skin",
@@ -814,7 +1042,10 @@
       "year": 2023,
       "venue": "Journal of Gambling Studies",
       "doi": "10.1007/s10899-022-10111-z",
-      "url": "https://doi.org/10.1007/s10899-022-10111-z"
+      "url": "https://doi.org/10.1007/s10899-022-10111-z",
+      "topics": [
+        "gambling-youth"
+      ]
     },
     {
       "id": "newall2022statistical",
@@ -824,7 +1055,10 @@
       "year": 2023,
       "venue": "Behavioural Public Policy",
       "doi": "10.1017/bpp.2020.59",
-      "url": "https://doi.org/10.1017/bpp.2020.59"
+      "url": "https://doi.org/10.1017/bpp.2020.59",
+      "topics": [
+        "gambling-products"
+      ]
     },
     {
       "id": "tulloch2023trajectories",
@@ -834,7 +1068,10 @@
       "year": 2023,
       "venue": "PLOS ONE",
       "doi": "10.1371/journal.pone.0281099",
-      "url": "https://doi.org/10.1371/journal.pone.0281099"
+      "url": "https://doi.org/10.1371/journal.pone.0281099",
+      "topics": [
+        "gambling-families"
+      ]
     },
     {
       "id": "browne2023unambiguous",
@@ -844,7 +1081,10 @@
       "year": 2023,
       "venue": "Journal of Behavioral Addictions",
       "doi": "10.1556/2006.2022.00083",
-      "url": "https://doi.org/10.1556/2006.2022.00083"
+      "url": "https://doi.org/10.1556/2006.2022.00083",
+      "topics": [
+        "gambling-products"
+      ]
     },
     {
       "id": "syvertsen2023validation",
@@ -854,7 +1094,10 @@
       "year": 2023,
       "venue": "Addictive Behaviors Reports",
       "doi": "10.1016/j.abrep.2023.100499",
-      "url": "https://doi.org/10.1016/j.abrep.2023.100499"
+      "url": "https://doi.org/10.1016/j.abrep.2023.100499",
+      "topics": [
+        "gambling-measurement"
+      ]
     },
     {
       "id": "hing2022adolescent",
@@ -864,7 +1107,10 @@
       "year": 2022,
       "venue": "PLOS ONE",
       "doi": "10.1371/journal.pone.0266571",
-      "url": "https://doi.org/10.1371/journal.pone.0266571"
+      "url": "https://doi.org/10.1371/journal.pone.0266571",
+      "topics": [
+        "gambling-youth"
+      ]
     },
     {
       "id": "hing2022adolescents",
@@ -874,7 +1120,10 @@
       "year": 2022,
       "venue": "International Journal of Environmental Research and Public Health",
       "doi": "10.3390/ijerph191710652",
-      "url": "https://doi.org/10.3390/ijerph191710652"
+      "url": "https://doi.org/10.3390/ijerph191710652",
+      "topics": [
+        "gambling-youth"
+      ]
     },
     {
       "id": "russell2022samples",
@@ -884,7 +1133,10 @@
       "year": 2022,
       "venue": "International Gambling Studies",
       "doi": "10.1080/14459795.2021.1973535",
-      "url": "https://doi.org/10.1080/14459795.2021.1973535"
+      "url": "https://doi.org/10.1080/14459795.2021.1973535",
+      "topics": [
+        "gambling-measurement"
+      ]
     },
     {
       "id": "browne2022benchmarking",
@@ -894,7 +1146,10 @@
       "year": 2022,
       "venue": "BMC Public Health",
       "doi": "10.1186/s12889-022-13243-4",
-      "url": "https://doi.org/10.1186/s12889-022-13243-4"
+      "url": "https://doi.org/10.1186/s12889-022-13243-4",
+      "topics": [
+        "gambling-measurement"
+      ]
     },
     {
       "id": "hing2022development",
@@ -904,7 +1159,10 @@
       "year": 2022,
       "venue": "",
       "doi": "",
-      "url": "https://www.gambleaware.nsw.gov.au/resources-and-education/research/development-and-randomised-controlled-trial-of-safer-gambling-practices-for-egm-play"
+      "url": "https://www.gambleaware.nsw.gov.au/resources-and-education/research/development-and-randomised-controlled-trial-of-safer-gambling-practices-for-egm-play",
+      "topics": [
+        "gambling-products"
+      ]
     },
     {
       "id": "lee2022differential",
@@ -914,7 +1172,10 @@
       "year": 2022,
       "venue": "Maternal and Child Health Journal",
       "doi": "10.1007/s10995-021-03251-y",
-      "url": "https://doi.org/10.1007/s10995-021-03251-y"
+      "url": "https://doi.org/10.1007/s10995-021-03251-y",
+      "topics": [
+        "statistics"
+      ]
     },
     {
       "id": "hing2022gamblification",
@@ -924,7 +1185,10 @@
       "year": 2022,
       "venue": "The Lancet Child \\& Adolescent Health",
       "doi": "10.1016/S2352-4642(22)00124-9",
-      "url": "https://doi.org/10.1016/S2352-4642(22)00124-9"
+      "url": "https://doi.org/10.1016/S2352-4642(22)00124-9",
+      "topics": [
+        "gambling-youth"
+      ]
     },
     {
       "id": "hing2022gambling",
@@ -934,7 +1198,10 @@
       "year": 2022,
       "venue": "Computers in Human Behavior",
       "doi": "10.1016/j.chb.2022.107269",
-      "url": "https://doi.org/10.1016/j.chb.2022.107269"
+      "url": "https://doi.org/10.1016/j.chb.2022.107269",
+      "topics": [
+        "gambling-products"
+      ]
     },
     {
       "id": "hing2022harms",
@@ -944,7 +1211,10 @@
       "year": 2022,
       "venue": "Journal of Behavioral Addictions",
       "doi": "10.1556/2006.2022.00045",
-      "url": "https://doi.org/10.1556/2006.2022.00045"
+      "url": "https://doi.org/10.1556/2006.2022.00045",
+      "topics": [
+        "gambling-families"
+      ]
     },
     {
       "id": "tulloch2022how",
@@ -954,7 +1224,10 @@
       "year": 2022,
       "venue": "International Gambling Studies",
       "doi": "10.1080/14459795.2021.2002384",
-      "url": "https://doi.org/10.1080/14459795.2021.2002384"
+      "url": "https://doi.org/10.1080/14459795.2021.2002384",
+      "topics": [
+        "gambling-families"
+      ]
     },
     {
       "id": "rockloff2022legacy_b",
@@ -964,7 +1237,10 @@
       "year": 2022,
       "venue": "Journal of Behavioral Addictions",
       "doi": "10.1556/2006.2022.00073",
-      "url": "https://doi.org/10.1556/2006.2022.00073"
+      "url": "https://doi.org/10.1556/2006.2022.00073",
+      "topics": [
+        "gambling-measurement"
+      ]
     },
     {
       "id": "rockloff2022legacy",
@@ -974,7 +1250,10 @@
       "year": 2022,
       "venue": "Current Addiction Reports",
       "doi": "10.1007/s40429-022-00434-7",
-      "url": "https://doi.org/10.1007/s40429-022-00434-7"
+      "url": "https://doi.org/10.1007/s40429-022-00434-7",
+      "topics": [
+        "gambling-measurement"
+      ]
     },
     {
       "id": "hing2022loot",
@@ -984,7 +1263,10 @@
       "year": 2022,
       "venue": "Journal of Behavioral Addictions",
       "doi": "10.1556/2006.2022.00015",
-      "url": "https://doi.org/10.1556/2006.2022.00015"
+      "url": "https://doi.org/10.1556/2006.2022.00015",
+      "topics": [
+        "gambling-youth"
+      ]
     },
     {
       "id": "li2022minding",
@@ -994,7 +1276,10 @@
       "year": 2022,
       "venue": "Frontiers in Psychology",
       "doi": "10.3389/fpsyg.2022.905785",
-      "url": "https://doi.org/10.3389/fpsyg.2022.905785"
+      "url": "https://doi.org/10.3389/fpsyg.2022.905785",
+      "topics": [
+        "gambling-risk"
+      ]
     },
     {
       "id": "tulloch2022parental",
@@ -1004,7 +1289,10 @@
       "year": 2022,
       "venue": "Applied Research in Quality of Life",
       "doi": "10.1007/s11482-022-10052-0",
-      "url": "https://doi.org/10.1007/s11482-022-10052-0"
+      "url": "https://doi.org/10.1007/s11482-022-10052-0",
+      "topics": [
+        "gambling-families"
+      ]
     },
     {
       "id": "williams2022protective",
@@ -1014,7 +1302,10 @@
       "year": 2022,
       "venue": "Journal of Gambling Studies",
       "doi": "10.1007/s10899-021-10028-z",
-      "url": "https://doi.org/10.1007/s10899-021-10028-z"
+      "url": "https://doi.org/10.1007/s10899-021-10028-z",
+      "topics": [
+        "gambling-risk"
+      ]
     },
     {
       "id": "hing2022smartphone",
@@ -1024,7 +1315,10 @@
       "year": 2022,
       "venue": "",
       "doi": "10.25946/31697380.v1",
-      "url": "https://www.gambleaware.nsw.gov.au/resources-and-education/research/smartphone-betting-on-sports-esports-and-daily-fantasy-sports-amongst-young-adults"
+      "url": "https://www.gambleaware.nsw.gov.au/resources-and-education/research/smartphone-betting-on-sports-esports-and-daily-fantasy-sports-amongst-young-adults",
+      "topics": [
+        "gambling-youth"
+      ]
     },
     {
       "id": "russell2022stressful",
@@ -1034,7 +1328,10 @@
       "year": 2022,
       "venue": "Journal of Gambling Studies",
       "doi": "10.1007/s10899-021-10090-7",
-      "url": "https://doi.org/10.1007/s10899-021-10090-7"
+      "url": "https://doi.org/10.1007/s10899-021-10090-7",
+      "topics": [
+        "gambling-risk"
+      ]
     },
     {
       "id": "browne2022gambling",
@@ -1044,7 +1341,10 @@
       "year": 2022,
       "venue": "",
       "doi": "",
-      "url": "https://responsiblegambling.vic.gov.au/resources/publications/the-gambling-harms-scales-instruments-to-assess-impact-to-gamblers-and-affected-others-that-are-benchmarked-to-health-utility-1206/"
+      "url": "https://responsiblegambling.vic.gov.au/resources/publications/the-gambling-harms-scales-instruments-to-assess-impact-to-gamblers-and-affected-others-that-are-benchmarked-to-health-utility-1206/",
+      "topics": [
+        "gambling-families"
+      ]
     },
     {
       "id": "dittman2023role",
@@ -1054,7 +1354,10 @@
       "year": 2022,
       "venue": "",
       "doi": "",
-      "url": "https://www.gambleaware.nsw.gov.au/resources-and-education/research/the-role-of-parents-in-youth-gambling"
+      "url": "https://www.gambleaware.nsw.gov.au/resources-and-education/research/the-role-of-parents-in-youth-gambling",
+      "topics": [
+        "gambling-youth"
+      ]
     },
     {
       "id": "murrayboyle2022validating",
@@ -1064,7 +1367,10 @@
       "year": 2022,
       "venue": "Journal of Behavioral Addictions",
       "doi": "10.1556/2006.2022.00075",
-      "url": "https://doi.org/10.1556/2006.2022.00075"
+      "url": "https://doi.org/10.1556/2006.2022.00075",
+      "topics": [
+        "gambling-measurement"
+      ]
     },
     {
       "id": "latvala202118",
@@ -1074,7 +1380,10 @@
       "year": 2021,
       "venue": "International Journal of Environmental Research and Public Health",
       "doi": "10.3390/ijerph182111552",
-      "url": "https://doi.org/10.3390/ijerph182111552"
+      "url": "https://doi.org/10.3390/ijerph182111552",
+      "topics": [
+        "gambling-measurement"
+      ]
     },
     {
       "id": "alley2021pandemic",
@@ -1084,7 +1393,10 @@
       "year": 2021,
       "venue": "International Journal of Environmental Research and Public Health",
       "doi": "10.3390/ijerph18020797",
-      "url": "https://doi.org/10.3390/ijerph18020797"
+      "url": "https://doi.org/10.3390/ijerph18020797",
+      "topics": [
+        "health-beliefs"
+      ]
     },
     {
       "id": "rockloff2021behavioural",
@@ -1094,7 +1406,10 @@
       "year": 2021,
       "venue": "",
       "doi": "",
-      "url": "https://www.gamblingresearch.org.au/publications/behavioural-trial-consistent-gambling-messaging-under-national-consumer-protection-framework"
+      "url": "https://www.gamblingresearch.org.au/publications/behavioural-trial-consistent-gambling-messaging-under-national-consumer-protection-framework",
+      "topics": [
+        "gambling-products"
+      ]
     },
     {
       "id": "bryden2021effect",
@@ -1104,7 +1419,10 @@
       "year": 2021,
       "venue": "Vaccine",
       "doi": "10.1016/j.vaccine.2021.09.063",
-      "url": "https://doi.org/10.1016/j.vaccine.2021.09.063"
+      "url": "https://doi.org/10.1016/j.vaccine.2021.09.063",
+      "topics": [
+        "health-beliefs"
+      ]
     },
     {
       "id": "scott2021fitness",
@@ -1114,7 +1432,10 @@
       "year": 2021,
       "venue": "Australian Occupational Therapy Journal",
       "doi": "10.1111/1440-1630.12733",
-      "url": "https://doi.org/10.1111/1440-1630.12733"
+      "url": "https://doi.org/10.1111/1440-1630.12733",
+      "topics": [
+        "health-services"
+      ]
     },
     {
       "id": "thorne2021gambling",
@@ -1124,7 +1445,10 @@
       "year": 2021,
       "venue": "International Journal of Environmental Research and Public Health",
       "doi": "10.3390/ijerph18136683",
-      "url": "https://doi.org/10.3390/ijerph18136683"
+      "url": "https://doi.org/10.3390/ijerph18136683",
+      "topics": [
+        "gambling-risk"
+      ]
     },
     {
       "id": "murrayboyle2021opportunity",
@@ -1134,7 +1458,10 @@
       "year": 2021,
       "venue": "Journal of Clinical Medicine",
       "doi": "10.3390/jcm10030549",
-      "url": "https://doi.org/10.3390/jcm10030549"
+      "url": "https://doi.org/10.3390/jcm10030549",
+      "topics": [
+        "gambling-measurement"
+      ]
     },
     {
       "id": "lelagadec2020patient",
@@ -1144,7 +1471,10 @@
       "year": 2021,
       "venue": "Journal of Patient Safety",
       "doi": "10.1097/PTS.0000000000000689",
-      "url": "https://doi.org/10.1097/PTS.0000000000000689"
+      "url": "https://doi.org/10.1097/PTS.0000000000000689",
+      "topics": [
+        "health-services"
+      ]
     },
     {
       "id": "dwyer2021predictive",
@@ -1154,7 +1484,10 @@
       "year": 2021,
       "venue": "Human Resources for Health",
       "doi": "10.1186/s12960-021-00562-7",
-      "url": "https://doi.org/10.1186/s12960-021-00562-7"
+      "url": "https://doi.org/10.1186/s12960-021-00562-7",
+      "topics": [
+        "health-services"
+      ]
     },
     {
       "id": "hing2021skin",
@@ -1164,7 +1497,10 @@
       "year": 2021,
       "venue": "Journal of Behavioral Addictions",
       "doi": "10.1556/2006.2021.00078",
-      "url": "https://doi.org/10.1556/2006.2021.00078"
+      "url": "https://doi.org/10.1556/2006.2021.00078",
+      "topics": [
+        "gambling-youth"
+      ]
     },
     {
       "id": "latvala2021social",
@@ -1174,7 +1510,10 @@
       "year": 2021,
       "venue": "European Journal of Public Health",
       "doi": "10.1093/eurpub/ckab162",
-      "url": "https://doi.org/10.1093/eurpub/ckab162"
+      "url": "https://doi.org/10.1093/eurpub/ckab162",
+      "topics": [
+        "gambling-risk"
+      ]
     },
     {
       "id": "browne2021survey",
@@ -1184,7 +1523,10 @@
       "year": 2021,
       "venue": "",
       "doi": "",
-      "url": "https://acquire.cqu.edu.au/articles/report/Survey_of_South_Australian_adults_18_attitudes_beliefs_and_behaviours_regarding_sports_betting_2021/27222450"
+      "url": "https://acquire.cqu.edu.au/articles/report/Survey_of_South_Australian_adults_18_attitudes_beliefs_and_behaviours_regarding_sports_betting_2021/27222450",
+      "topics": [
+        "gambling-surveys"
+      ]
     },
     {
       "id": "tulloch2021effect",
@@ -1194,7 +1536,10 @@
       "year": 2021,
       "venue": "Journal of Behavioral Addictions",
       "doi": "10.1556/2006.2021.00077",
-      "url": "https://doi.org/10.1556/2006.2021.00077"
+      "url": "https://doi.org/10.1556/2006.2021.00077",
+      "topics": [
+        "gambling-families"
+      ]
     },
     {
       "id": "browne2021evolution",
@@ -1204,7 +1549,10 @@
       "year": 2021,
       "venue": "International Journal of Environmental Research and Public Health",
       "doi": "10.3390/ijerph18094395",
-      "url": "https://doi.org/10.3390/ijerph18094395"
+      "url": "https://doi.org/10.3390/ijerph18094395",
+      "topics": [
+        "gambling-measurement"
+      ]
     },
     {
       "id": "dowling2021identification",
@@ -1214,7 +1562,10 @@
       "year": 2021,
       "venue": "Journal of Behavioral Addictions",
       "doi": "10.1556/2006.2021.00012",
-      "url": "https://doi.org/10.1556/2006.2021.00012"
+      "url": "https://doi.org/10.1556/2006.2021.00012",
+      "topics": [
+        "gambling-measurement"
+      ]
     },
     {
       "id": "tulloch2021relationship",
@@ -1224,7 +1575,10 @@
       "year": 2021,
       "venue": "Journal of Gambling Studies",
       "doi": "10.1007/s10899-020-09990-x",
-      "url": "https://doi.org/10.1007/s10899-020-09990-x"
+      "url": "https://doi.org/10.1007/s10899-020-09990-x",
+      "topics": [
+        "gambling-families"
+      ]
     },
     {
       "id": "hing2021second",
@@ -1234,7 +1588,10 @@
       "year": 2021,
       "venue": "",
       "doi": "",
-      "url": "https://www.gamblingresearch.org.au/publications/second-national-study-interactive-gambling-australia-2019-20"
+      "url": "https://www.gamblingresearch.org.au/publications/second-national-study-interactive-gambling-australia-2019-20",
+      "topics": [
+        "gambling-surveys"
+      ]
     },
     {
       "id": "browne2021galileo",
@@ -1244,7 +1601,10 @@
       "year": 2021,
       "venue": "The Skeptic",
       "doi": "",
-      "url": "https://www.skeptic.org.uk/2021/06/youre-probably-not-galileo-scientific-advance-rarely-comes-from-lone-contrarian-outsiders/"
+      "url": "https://www.skeptic.org.uk/2021/06/youre-probably-not-galileo-scientific-advance-rarely-comes-from-lone-contrarian-outsiders/",
+      "topics": [
+        "health-beliefs"
+      ]
     },
     {
       "id": "rockloff2021young",
@@ -1254,7 +1614,10 @@
       "year": 2021,
       "venue": "Journal of Behavioral Addictions",
       "doi": "10.1556/2006.2021.00007",
-      "url": "https://doi.org/10.1556/2006.2021.00007"
+      "url": "https://doi.org/10.1556/2006.2021.00007",
+      "topics": [
+        "gambling-youth"
+      ]
     },
     {
       "id": "browne2020framework",
@@ -1264,7 +1627,10 @@
       "year": 2020,
       "venue": "BMC Public Health",
       "doi": "10.1186/s12889-020-09813-z",
-      "url": "https://doi.org/10.1186/s12889-020-09813-z"
+      "url": "https://doi.org/10.1186/s12889-020-09813-z",
+      "topics": [
+        "gambling-measurement"
+      ]
     },
     {
       "id": "armstrong2020beliefs",
@@ -1274,7 +1640,10 @@
       "year": 2020,
       "venue": "Journal of Gambling Studies",
       "doi": "10.1007/s10899-020-09942-5",
-      "url": "https://doi.org/10.1007/s10899-020-09942-5"
+      "url": "https://doi.org/10.1007/s10899-020-09942-5",
+      "topics": [
+        "gambling-risk"
+      ]
     },
     {
       "id": "wilcoxon2020brain",
@@ -1284,7 +1653,10 @@
       "year": 2020,
       "venue": "Australian Police Journal",
       "doi": "",
-      "url": ""
+      "url": "",
+      "topics": [
+        "health-beliefs"
+      ]
     },
     {
       "id": "flenady2020developing",
@@ -1294,7 +1666,10 @@
       "year": 2020,
       "venue": "BMC Health Services Research",
       "doi": "10.1186/s12913-020-05615-6",
-      "url": "https://doi.org/10.1186/s12913-020-05615-6"
+      "url": "https://doi.org/10.1186/s12913-020-05615-6",
+      "topics": [
+        "health-services"
+      ]
     },
     {
       "id": "delfabbro2020do",
@@ -1304,7 +1679,10 @@
       "year": 2020,
       "venue": "Journal of Gambling Studies",
       "doi": "10.1007/s10899-020-09950-5",
-      "url": "https://doi.org/10.1007/s10899-020-09950-5"
+      "url": "https://doi.org/10.1007/s10899-020-09950-5",
+      "topics": [
+        "gambling-products"
+      ]
     },
     {
       "id": "lastella2020electronic",
@@ -1314,7 +1692,10 @@
       "year": 2020,
       "venue": "Sleep and Biological Rhythms",
       "doi": "10.1007/s41105-019-00251-y",
-      "url": "https://doi.org/10.1007/s41105-019-00251-y"
+      "url": "https://doi.org/10.1007/s41105-019-00251-y",
+      "topics": [
+        "statistics"
+      ]
     },
     {
       "id": "armstrong2020encouraging",
@@ -1324,7 +1705,10 @@
       "year": 2020,
       "venue": "Journal of Gambling Studies",
       "doi": "10.1007/s10899-019-09910-8",
-      "url": "https://doi.org/10.1007/s10899-019-09910-8"
+      "url": "https://doi.org/10.1007/s10899-019-09910-8",
+      "topics": [
+        "gambling-risk"
+      ]
     },
     {
       "id": "mclauchlan2020evaluating",
@@ -1334,7 +1718,10 @@
       "year": 2020,
       "venue": "Journal of Gambling Issues",
       "doi": "10.4309/jgi.2020.44.6",
-      "url": "https://doi.org/10.4309/jgi.2020.44.6"
+      "url": "https://doi.org/10.4309/jgi.2020.44.6",
+      "topics": [
+        "gambling-measurement"
+      ]
     },
     {
       "id": "russell2020exploring",
@@ -1344,7 +1731,10 @@
       "year": 2020,
       "venue": "",
       "doi": "10.25946/5f2335f6d50d1",
-      "url": "https://www.responsiblegambling.nsw.gov.au/__data/assets/pdf_file/0008/294029/Exploring-the-changing-landscape-of-gambling-in-childhood-adolescence-and-young-adulthood.pdf"
+      "url": "https://www.responsiblegambling.nsw.gov.au/__data/assets/pdf_file/0008/294029/Exploring-the-changing-landscape-of-gambling-in-childhood-adolescence-and-young-adulthood.pdf",
+      "topics": [
+        "gambling-youth"
+      ]
     },
     {
       "id": "armstrong2020gamble",
@@ -1354,7 +1744,10 @@
       "year": 2020,
       "venue": "Journal of Gambling Studies",
       "doi": "10.1007/s10899-019-09927-z",
-      "url": "https://doi.org/10.1007/s10899-019-09927-z"
+      "url": "https://doi.org/10.1007/s10899-019-09927-z",
+      "topics": [
+        "gambling-risk"
+      ]
     },
     {
       "id": "hoffman2020human",
@@ -1364,7 +1757,10 @@
       "year": 2020,
       "venue": "Animals",
       "doi": "10.3390/ani10020278",
-      "url": "https://doi.org/10.3390/ani10020278"
+      "url": "https://doi.org/10.3390/ani10020278",
+      "topics": [
+        "statistics"
+      ]
     },
     {
       "id": "rockloff2020loot",
@@ -1374,7 +1770,10 @@
       "year": 2020,
       "venue": "",
       "doi": "10.25946/5ef151ac1ce6f",
-      "url": "https://www.responsiblegambling.nsw.gov.au/__data/assets/pdf_file/0017/294020/Loot-boxes-Are-they-grooming-youth-for-gambling.pdf"
+      "url": "https://www.responsiblegambling.nsw.gov.au/__data/assets/pdf_file/0017/294020/Loot-boxes-Are-they-grooming-youth-for-gambling.pdf",
+      "topics": [
+        "gambling-youth"
+      ]
     },
     {
       "id": "unsworth2020maze",
@@ -1384,7 +1783,10 @@
       "year": 2020,
       "venue": "International Journal of Rehabilitation Research",
       "doi": "10.1097/MRR.0000000000000429",
-      "url": "https://doi.org/10.1097/MRR.0000000000000429"
+      "url": "https://doi.org/10.1097/MRR.0000000000000429",
+      "topics": [
+        "health-services"
+      ]
     },
     {
       "id": "browne2020measuring",
@@ -1394,7 +1796,10 @@
       "year": 2020,
       "venue": "Journal of Gambling Studies",
       "doi": "10.1007/s10899-019-09916-2",
-      "url": "https://doi.org/10.1007/s10899-019-09916-2"
+      "url": "https://doi.org/10.1007/s10899-019-09916-2",
+      "topics": [
+        "gambling-measurement"
+      ]
     },
     {
       "id": "browne2019measuring",
@@ -1404,7 +1809,10 @@
       "year": 2020,
       "venue": "Harm Reduction for Gambling: A Public Health Approach",
       "doi": "10.4324/9780429490750-3",
-      "url": "https://doi.org/10.4324/9780429490750-3"
+      "url": "https://doi.org/10.4324/9780429490750-3",
+      "topics": [
+        "gambling-measurement"
+      ]
     },
     {
       "id": "rockloff2020mobile",
@@ -1414,7 +1822,10 @@
       "year": 2020,
       "venue": "Journal of Gambling Studies",
       "doi": "10.1007/s10899-019-09869-6",
-      "url": "https://doi.org/10.1007/s10899-019-09869-6"
+      "url": "https://doi.org/10.1007/s10899-019-09869-6",
+      "topics": [
+        "gambling-youth"
+      ]
     },
     {
       "id": "hing2020nsw",
@@ -1424,7 +1835,10 @@
       "year": 2020,
       "venue": "",
       "doi": "",
-      "url": "https://www.responsiblegambling.nsw.gov.au/__data/assets/pdf_file/0009/280548/NSW-Youth-Gambling-Study-2020.pdf"
+      "url": "https://www.responsiblegambling.nsw.gov.au/__data/assets/pdf_file/0009/280548/NSW-Youth-Gambling-Study-2020.pdf",
+      "topics": [
+        "gambling-surveys"
+      ]
     },
     {
       "id": "timmer2020occupational",
@@ -1434,7 +1848,10 @@
       "year": 2020,
       "venue": "Disability and Rehabilitation",
       "doi": "10.1080/09638288.2018.1535630",
-      "url": "https://doi.org/10.1080/09638288.2018.1535630"
+      "url": "https://doi.org/10.1080/09638288.2018.1535630",
+      "topics": [
+        "health-services"
+      ]
     },
     {
       "id": "lelagadec2020efficacy",
@@ -1444,7 +1861,10 @@
       "year": 2020,
       "venue": "Australian Critical Care",
       "doi": "10.1016/j.aucc.2019.03.001",
-      "url": "https://doi.org/10.1016/j.aucc.2019.03.001"
+      "url": "https://doi.org/10.1016/j.aucc.2019.03.001",
+      "topics": [
+        "health-services"
+      ]
     },
     {
       "id": "browne2020prevention",
@@ -1454,7 +1874,10 @@
       "year": 2020,
       "venue": "Journal of Behavioral Addictions",
       "doi": "10.1556/2006.2020.00018",
-      "url": "https://doi.org/10.1556/2006.2020.00018"
+      "url": "https://doi.org/10.1556/2006.2020.00018",
+      "topics": [
+        "gambling-measurement"
+      ]
     },
     {
       "id": "armstrong2020training",
@@ -1464,7 +1887,10 @@
       "year": 2020,
       "venue": "Journal of Behavioral Addictions",
       "doi": "10.1556/2006.2020.00049",
-      "url": "https://doi.org/10.1556/2006.2020.00049"
+      "url": "https://doi.org/10.1556/2006.2020.00049",
+      "topics": [
+        "gambling-products"
+      ]
     },
     {
       "id": "rockloff2020victorian",
@@ -1474,7 +1900,10 @@
       "year": 2020,
       "venue": "",
       "doi": "",
-      "url": "https://responsiblegambling.vic.gov.au/resources/publications/victorian-population-gambling-and-health-study-20182019-759/"
+      "url": "https://responsiblegambling.vic.gov.au/resources/publications/victorian-population-gambling-and-health-study-20182019-759/",
+      "topics": [
+        "gambling-surveys"
+      ]
     },
     {
       "id": "browne2019multivariate",
@@ -1484,7 +1913,10 @@
       "year": 2019,
       "venue": "Journal of Clinical Medicine",
       "doi": "10.3390/jcm8040509",
-      "url": "https://doi.org/10.3390/jcm8040509"
+      "url": "https://doi.org/10.3390/jcm8040509",
+      "topics": [
+        "gambling-risk"
+      ]
     },
     {
       "id": "rockloff2019quantification",
@@ -1494,7 +1926,10 @@
       "year": 2019,
       "venue": "Journal of Gambling Studies",
       "doi": "10.1007/s10899-019-09845-0",
-      "url": "https://doi.org/10.1007/s10899-019-09845-0"
+      "url": "https://doi.org/10.1007/s10899-019-09845-0",
+      "topics": [
+        "gambling-measurement"
+      ]
     },
     {
       "id": "hing2019avoiding",
@@ -1504,7 +1939,10 @@
       "year": 2019,
       "venue": "PLOS ONE",
       "doi": "10.1371/journal.pone.0224083",
-      "url": "https://doi.org/10.1371/journal.pone.0224083"
+      "url": "https://doi.org/10.1371/journal.pone.0224083",
+      "topics": [
+        "gambling-products"
+      ]
     },
     {
       "id": "blackman2019contrasting",
@@ -1514,7 +1952,10 @@
       "year": 2019,
       "venue": "Journal of Gambling Studies",
       "doi": "10.1007/s10899-019-09862-z",
-      "url": "https://doi.org/10.1007/s10899-019-09862-z"
+      "url": "https://doi.org/10.1007/s10899-019-09862-z",
+      "topics": [
+        "gambling-measurement"
+      ]
     },
     {
       "id": "armstrong2019development",
@@ -1524,7 +1965,10 @@
       "year": 2019,
       "venue": "International Gambling Studies",
       "doi": "10.1080/14459795.2018.1500624",
-      "url": "https://doi.org/10.1080/14459795.2018.1500624"
+      "url": "https://doi.org/10.1080/14459795.2018.1500624",
+      "topics": [
+        "gambling-risk"
+      ]
     },
     {
       "id": "unsworth2019effect",
@@ -1534,7 +1978,10 @@
       "year": 2019,
       "venue": "Journal of Alzheimer's Disease",
       "doi": "10.3233/JAD-181069",
-      "url": "https://doi.org/10.3233/JAD-181069"
+      "url": "https://doi.org/10.3233/JAD-181069",
+      "topics": [
+        "health-services"
+      ]
     },
     {
       "id": "greer2023esports",
@@ -1544,7 +1991,10 @@
       "year": 2019,
       "venue": "Journal of Gambling Issues",
       "doi": "10.4309/jgi.2019.43.8",
-      "url": "https://doi.org/10.4309/jgi.2019.43.8"
+      "url": "https://doi.org/10.4309/jgi.2019.43.8",
+      "topics": [
+        "gambling-youth"
+      ]
     },
     {
       "id": "dwyer2019final",
@@ -1554,7 +2004,10 @@
       "year": 2019,
       "venue": "",
       "doi": "",
-      "url": ""
+      "url": "",
+      "topics": [
+        "health-services"
+      ]
     },
     {
       "id": "gainsbury2019identifying",
@@ -1564,7 +2017,10 @@
       "year": 2019,
       "venue": "New Media \\& Society",
       "doi": "10.1177/1461444818815442",
-      "url": "https://doi.org/10.1177/1461444818815442"
+      "url": "https://doi.org/10.1177/1461444818815442",
+      "topics": [
+        "statistics"
+      ]
     },
     {
       "id": "edwards2019investigating",
@@ -1574,7 +2030,10 @@
       "year": 2019,
       "venue": "PLOS ONE",
       "doi": "10.1371/journal.pone.0215416",
-      "url": "https://doi.org/10.1371/journal.pone.0215416"
+      "url": "https://doi.org/10.1371/journal.pone.0215416",
+      "topics": [
+        "statistics"
+      ]
     },
     {
       "id": "browne2019nsw",
@@ -1584,7 +2043,10 @@
       "year": 2019,
       "venue": "",
       "doi": "10.25946/29897957.v1",
-      "url": "https://www.responsiblegambling.nsw.gov.au/__data/assets/pdf_file/0007/280537/NSW-Gambling-Survey-2019-Full-Report.PDF"
+      "url": "https://www.responsiblegambling.nsw.gov.au/__data/assets/pdf_file/0007/280537/NSW-Gambling-Survey-2019-Full-Report.PDF",
+      "topics": [
+        "gambling-surveys"
+      ]
     },
     {
       "id": "unsworth2019predicting",
@@ -1594,7 +2056,10 @@
       "year": 2019,
       "venue": "Disability and Rehabilitation",
       "doi": "10.1080/09638288.2018.1445784",
-      "url": "https://doi.org/10.1080/09638288.2018.1445784"
+      "url": "https://doi.org/10.1080/09638288.2018.1445784",
+      "topics": [
+        "health-services"
+      ]
     },
     {
       "id": "russell2019risk",
@@ -1604,7 +2069,10 @@
       "year": 2019,
       "venue": "Journal of Gambling Studies",
       "doi": "10.1007/s10899-019-09848-x",
-      "url": "https://doi.org/10.1007/s10899-019-09848-x"
+      "url": "https://doi.org/10.1007/s10899-019-09848-x",
+      "topics": [
+        "gambling-risk"
+      ]
     },
     {
       "id": "rockloff2019sports",
@@ -1614,7 +2082,10 @@
       "year": 2019,
       "venue": "Journal of Behavioral Addictions",
       "doi": "10.1556/2006.8.2019.30",
-      "url": "https://doi.org/10.1556/2006.8.2019.30"
+      "url": "https://doi.org/10.1556/2006.8.2019.30",
+      "topics": [
+        "gambling-products"
+      ]
     },
     {
       "id": "thorne2019thats",
@@ -1624,7 +2095,10 @@
       "year": 2019,
       "venue": "Journal of Gambling Issues",
       "doi": "10.4309/jgi.2019.42.8",
-      "url": "https://doi.org/10.4309/jgi.2019.42.8"
+      "url": "https://doi.org/10.4309/jgi.2019.42.8",
+      "topics": [
+        "gambling-risk"
+      ]
     },
     {
       "id": "browne2019impact",
@@ -1634,7 +2108,10 @@
       "year": 2019,
       "venue": "Journal of Behavioral Addictions",
       "doi": "10.1556/2006.8.2019.10",
-      "url": "https://doi.org/10.1556/2006.8.2019.10"
+      "url": "https://doi.org/10.1556/2006.8.2019.10",
+      "topics": [
+        "gambling-products"
+      ]
     },
     {
       "id": "bryden2019privilege",
@@ -1644,7 +2121,10 @@
       "year": 2019,
       "venue": "Vaccine",
       "doi": "10.1016/j.vaccine.2019.06.060",
-      "url": "https://doi.org/10.1016/j.vaccine.2019.06.060"
+      "url": "https://doi.org/10.1016/j.vaccine.2019.06.060",
+      "topics": [
+        "health-beliefs"
+      ]
     },
     {
       "id": "jeffrey2019til",
@@ -1654,7 +2134,10 @@
       "year": 2019,
       "venue": "Journal of Gambling Studies",
       "doi": "10.1007/s10899-019-09826-3",
-      "url": "https://doi.org/10.1007/s10899-019-09826-3"
+      "url": "https://doi.org/10.1007/s10899-019-09826-3",
+      "topics": [
+        "gambling-families"
+      ]
     },
     {
       "id": "hing2019wheres",
@@ -1664,7 +2147,10 @@
       "year": 2019,
       "venue": "Journal of Gambling Studies",
       "doi": "10.1007/s10899-018-9800-0",
-      "url": "https://doi.org/10.1007/s10899-018-9800-0"
+      "url": "https://doi.org/10.1007/s10899-018-9800-0",
+      "topics": [
+        "gambling-products"
+      ]
     },
     {
       "id": "russell2019who",
@@ -1674,7 +2160,10 @@
       "year": 2019,
       "venue": "Journal of Gambling Studies",
       "doi": "10.1007/s10899-018-9810-y",
-      "url": "https://doi.org/10.1007/s10899-018-9810-y"
+      "url": "https://doi.org/10.1007/s10899-018-9810-y",
+      "topics": [
+        "gambling-youth"
+      ]
     },
     {
       "id": "browne2018sem",
@@ -1684,7 +2173,10 @@
       "year": 2018,
       "venue": "Sociological Methods \\& Research",
       "doi": "10.1177/0049124116661580",
-      "url": "https://doi.org/10.1177/0049124116661580"
+      "url": "https://doi.org/10.1177/0049124116661580",
+      "topics": [
+        "statistics"
+      ]
     },
     {
       "id": "rawat2018tale",
@@ -1694,7 +2186,10 @@
       "year": 2018,
       "venue": "Quality of Life Research",
       "doi": "10.1007/s11136-018-1882-8",
-      "url": "https://doi.org/10.1007/s11136-018-1882-8"
+      "url": "https://doi.org/10.1007/s11136-018-1882-8",
+      "topics": [
+        "gambling-measurement"
+      ]
     },
     {
       "id": "armstrong2018exploration",
@@ -1704,7 +2199,10 @@
       "year": 2018,
       "venue": "Journal of Gambling Studies",
       "doi": "10.1007/s10899-018-9742-6",
-      "url": "https://doi.org/10.1007/s10899-018-9742-6"
+      "url": "https://doi.org/10.1007/s10899-018-9742-6",
+      "topics": [
+        "gambling-youth"
+      ]
     },
     {
       "id": "smith2018exploratory",
@@ -1714,7 +2212,10 @@
       "year": 2018,
       "venue": "Anthrozoös",
       "doi": "10.1080/08927936.2018.1529355",
-      "url": "https://doi.org/10.1080/08927936.2018.1529355"
+      "url": "https://doi.org/10.1080/08927936.2018.1529355",
+      "topics": [
+        "statistics"
+      ]
     },
     {
       "id": "bryden2018anti",
@@ -1724,7 +2225,10 @@
       "year": 2018,
       "venue": "Vaccine",
       "doi": "10.1016/j.vaccine.2017.12.068",
-      "url": "https://doi.org/10.1016/j.vaccine.2017.12.068"
+      "url": "https://doi.org/10.1016/j.vaccine.2017.12.068",
+      "topics": [
+        "health-beliefs"
+      ]
     },
     {
       "id": "russell2018direct",
@@ -1734,7 +2238,10 @@
       "year": 2018,
       "venue": "Journal of Behavioral Addictions",
       "doi": "10.1556/2006.7.2018.99",
-      "url": "https://doi.org/10.1556/2006.7.2018.99"
+      "url": "https://doi.org/10.1556/2006.7.2018.99",
+      "topics": [
+        "gambling-products"
+      ]
     },
     {
       "id": "hing2018effects",
@@ -1744,7 +2251,10 @@
       "year": 2018,
       "venue": "",
       "doi": "",
-      "url": "https://responsiblegambling.vic.gov.au/resources/publications/effects-of-wagering-marketing-on-vulnerable-adults-408/"
+      "url": "https://responsiblegambling.vic.gov.au/resources/publications/effects-of-wagering-marketing-on-vulnerable-adults-408/",
+      "topics": [
+        "gambling-products"
+      ]
     },
     {
       "id": "browne2018epistemic",
@@ -1754,7 +2264,10 @@
       "year": 2018,
       "venue": "Human Vaccines \\& Immunotherapeutics",
       "doi": "10.1080/21645515.2018.1480244",
-      "url": "https://doi.org/10.1080/21645515.2018.1480244"
+      "url": "https://doi.org/10.1080/21645515.2018.1480244",
+      "topics": [
+        "health-beliefs"
+      ]
     },
     {
       "id": "hing2018evaluation",
@@ -1764,7 +2277,10 @@
       "year": 2018,
       "venue": "",
       "doi": "10.25946/24718770.v1",
-      "url": "https://responsiblegambling.vic.gov.au/resources/publications/evaluation-of-the-my-moola-indigenous-money-management-program-as-a-gambling-harm-minimisation-tool-410/"
+      "url": "https://responsiblegambling.vic.gov.au/resources/publications/evaluation-of-the-my-moola-indigenous-money-management-program-as-a-gambling-harm-minimisation-tool-410/",
+      "topics": [
+        "gambling-products"
+      ]
     },
     {
       "id": "armstrong2018exploring",
@@ -1774,7 +2290,10 @@
       "year": 2018,
       "venue": "Journal of Gambling Issues",
       "doi": "10.4309/jgi.2018.38.4",
-      "url": "https://doi.org/10.4309/jgi.2018.38.4"
+      "url": "https://doi.org/10.4309/jgi.2018.38.4",
+      "topics": [
+        "gambling-products"
+      ]
     },
     {
       "id": "li2018gambling",
@@ -1784,7 +2303,10 @@
       "year": 2018,
       "venue": "Journal of Gambling Studies",
       "doi": "10.1007/s10899-018-9756-0",
-      "url": "https://doi.org/10.1007/s10899-018-9756-0"
+      "url": "https://doi.org/10.1007/s10899-018-9756-0",
+      "topics": [
+        "gambling-youth"
+      ]
     },
     {
       "id": "martin2018good",
@@ -1794,7 +2316,10 @@
       "year": 2018,
       "venue": "BMJ Open",
       "doi": "10.1136/bmjopen-2017-021264",
-      "url": "https://doi.org/10.1136/bmjopen-2017-021264"
+      "url": "https://doi.org/10.1136/bmjopen-2017-021264",
+      "topics": [
+        "health-services"
+      ]
     },
     {
       "id": "li2018implicit",
@@ -1804,7 +2329,10 @@
       "year": 2018,
       "venue": "",
       "doi": "",
-      "url": "https://responsiblegambling.vic.gov.au/resources/publications/implicit-associations-between-gambling-and-sport-350/"
+      "url": "https://responsiblegambling.vic.gov.au/resources/publications/implicit-associations-between-gambling-and-sport-350/",
+      "topics": [
+        "gambling-youth"
+      ]
     },
     {
       "id": "maguire2018international",
@@ -1814,7 +2342,10 @@
       "year": 2018,
       "venue": "Prehospital and Disaster Medicine",
       "doi": "10.1017/S1049023X18000870",
-      "url": "https://doi.org/10.1017/S1049023X18000870"
+      "url": "https://doi.org/10.1017/S1049023X18000870",
+      "topics": [
+        "health-services"
+      ]
     },
     {
       "id": "rockloff2018mobile",
@@ -1824,7 +2355,10 @@
       "year": 2018,
       "venue": "",
       "doi": "",
-      "url": "https://responsiblegambling.vic.gov.au/resources/publications/mobile-egms-apps-the-perfect-substitute-or-the-perfect-storm-407/"
+      "url": "https://responsiblegambling.vic.gov.au/resources/publications/mobile-egms-apps-the-perfect-substitute-or-the-perfect-storm-407/",
+      "topics": [
+        "gambling-youth"
+      ]
     },
     {
       "id": "browne2018prevalence",
@@ -1834,7 +2368,10 @@
       "year": 2018,
       "venue": "Journal of Behavioral Addictions",
       "doi": "10.1556/2006.7.2018.41",
-      "url": "https://doi.org/10.1556/2006.7.2018.41"
+      "url": "https://doi.org/10.1556/2006.7.2018.41",
+      "topics": [
+        "gambling-measurement"
+      ]
     },
     {
       "id": "maguire2018preventing",
@@ -1844,7 +2381,10 @@
       "year": 2018,
       "venue": "Injury",
       "doi": "10.1016/j.injury.2018.05.007",
-      "url": "https://doi.org/10.1016/j.injury.2018.05.007"
+      "url": "https://doi.org/10.1016/j.injury.2018.05.007",
+      "topics": [
+        "health-services"
+      ]
     },
     {
       "id": "browne2018then",
@@ -1854,7 +2394,10 @@
       "year": 2018,
       "venue": "Addictive Behaviors",
       "doi": "10.1016/j.addbeh.2017.07.034",
-      "url": "https://doi.org/10.1016/j.addbeh.2017.07.034"
+      "url": "https://doi.org/10.1016/j.addbeh.2017.07.034",
+      "topics": [
+        "statistics"
+      ]
     },
     {
       "id": "browne2018validation",
@@ -1864,7 +2407,10 @@
       "year": 2018,
       "venue": "Journal of Gambling Studies",
       "doi": "10.1007/s10899-017-9698-y",
-      "url": "https://doi.org/10.1007/s10899-017-9698-y"
+      "url": "https://doi.org/10.1007/s10899-017-9698-y",
+      "topics": [
+        "gambling-measurement"
+      ]
     },
     {
       "id": "russell2017randomised",
@@ -1874,7 +2420,10 @@
       "year": 2017,
       "venue": "Alzheimer's \\& Dementia",
       "doi": "10.1016/j.jalz.2017.07.311",
-      "url": "https://doi.org/10.1016/j.jalz.2017.07.311"
+      "url": "https://doi.org/10.1016/j.jalz.2017.07.311",
+      "topics": [
+        "health-services"
+      ]
     },
     {
       "id": "browne2017population",
@@ -1884,7 +2433,10 @@
       "year": 2017,
       "venue": "International Gambling Studies",
       "doi": "10.1080/14459795.2017.1304973",
-      "url": "https://doi.org/10.1080/14459795.2017.1304973"
+      "url": "https://doi.org/10.1080/14459795.2017.1304973",
+      "topics": [
+        "gambling-measurement"
+      ]
     },
     {
       "id": "goodwin2017typical",
@@ -1894,7 +2446,10 @@
       "year": 2017,
       "venue": "International Gambling Studies",
       "doi": "10.1080/14459795.2017.1331252",
-      "url": "https://doi.org/10.1080/14459795.2017.1331252"
+      "url": "https://doi.org/10.1080/14459795.2017.1331252",
+      "topics": [
+        "gambling-families"
+      ]
     },
     {
       "id": "goodwin2017applying",
@@ -1904,7 +2459,10 @@
       "year": 2017,
       "venue": "Personality and Individual Differences",
       "doi": "10.1016/j.paid.2017.02.029",
-      "url": "https://doi.org/10.1016/j.paid.2017.02.029"
+      "url": "https://doi.org/10.1016/j.paid.2017.02.029",
+      "topics": [
+        "health-beliefs"
+      ]
     },
     {
       "id": "li2017breaking",
@@ -1914,7 +2472,10 @@
       "year": 2017,
       "venue": "Journal of Gambling Studies",
       "doi": "10.1007/s10899-016-9632-8",
-      "url": "https://doi.org/10.1007/s10899-016-9632-8"
+      "url": "https://doi.org/10.1007/s10899-016-9632-8",
+      "topics": [
+        "gambling-families"
+      ]
     },
     {
       "id": "langham2017could",
@@ -1924,7 +2485,10 @@
       "year": 2017,
       "venue": "International Gambling Studies",
       "doi": "10.1080/14459795.2017.1359849",
-      "url": "https://doi.org/10.1080/14459795.2017.1359849"
+      "url": "https://doi.org/10.1080/14459795.2017.1359849",
+      "topics": [
+        "gambling-products"
+      ]
     },
     {
       "id": "rockloff2017environmental",
@@ -1934,7 +2498,10 @@
       "year": 2017,
       "venue": "Journal of Gambling Studies",
       "doi": "10.1007/s10899-016-9622-x",
-      "url": "https://doi.org/10.1007/s10899-016-9622-x"
+      "url": "https://doi.org/10.1007/s10899-016-9622-x",
+      "topics": [
+        "gambling-products"
+      ]
     },
     {
       "id": "hayman2017feasibility",
@@ -1944,7 +2511,10 @@
       "year": 2017,
       "venue": "BMC Pregnancy and Childbirth",
       "doi": "10.1186/s12884-017-1277-9",
-      "url": "https://doi.org/10.1186/s12884-017-1277-9"
+      "url": "https://doi.org/10.1186/s12884-017-1277-9",
+      "topics": [
+        "statistics"
+      ]
     },
     {
       "id": "fahrer2017fourth_vol1",
@@ -1954,7 +2524,10 @@
       "year": 2017,
       "venue": "",
       "doi": "",
-      "url": ""
+      "url": "",
+      "topics": [
+        "gambling-surveys"
+      ]
     },
     {
       "id": "fahrer2017fourth_vol2",
@@ -1964,7 +2537,10 @@
       "year": 2017,
       "venue": "",
       "doi": "",
-      "url": ""
+      "url": "",
+      "topics": [
+        "gambling-surveys"
+      ]
     },
     {
       "id": "hilton2017longitudinal",
@@ -1974,7 +2550,10 @@
       "year": 2017,
       "venue": "Spinal Cord",
       "doi": "10.1038/sc.2017.24",
-      "url": "https://doi.org/10.1038/sc.2017.24"
+      "url": "https://doi.org/10.1038/sc.2017.24",
+      "topics": [
+        "health-services"
+      ]
     },
     {
       "id": "browne2017measuring",
@@ -1984,7 +2563,10 @@
       "year": 2017,
       "venue": "",
       "doi": "",
-      "url": "https://www.health.govt.nz/publication/measuring-burden-gambling-harm-new-zealand"
+      "url": "https://www.health.govt.nz/publication/measuring-burden-gambling-harm-new-zealand",
+      "topics": [
+        "gambling-measurement"
+      ]
     },
     {
       "id": "smith2017owner",
@@ -1994,7 +2576,10 @@
       "year": 2017,
       "venue": "Applied Animal Behaviour Science",
       "doi": "10.1016/j.applanim.2016.11.010",
-      "url": "https://doi.org/10.1016/j.applanim.2016.11.010"
+      "url": "https://doi.org/10.1016/j.applanim.2016.11.010",
+      "topics": [
+        "statistics"
+      ]
     },
     {
       "id": "hing2017risk",
@@ -2004,7 +2589,10 @@
       "year": 2017,
       "venue": "Frontiers in Psychology",
       "doi": "10.3389/fpsyg.2017.00779",
-      "url": "https://doi.org/10.3389/fpsyg.2017.00779"
+      "url": "https://doi.org/10.3389/fpsyg.2017.00779",
+      "topics": [
+        "gambling-risk"
+      ]
     },
     {
       "id": "browne2017dangers",
@@ -2014,7 +2602,10 @@
       "year": 2017,
       "venue": "Journal of Behavioral Addictions",
       "doi": "10.1556/2006.6.2017.059",
-      "url": "https://doi.org/10.1556/2006.6.2017.059"
+      "url": "https://doi.org/10.1556/2006.6.2017.059",
+      "topics": [
+        "gambling-measurement"
+      ]
     },
     {
       "id": "rockloff2017gambling",
@@ -2024,7 +2615,10 @@
       "year": 2017,
       "venue": "Bulletin of the National Association for Gambling Studies",
       "doi": "",
-      "url": ""
+      "url": "",
+      "topics": [
+        "gambling-surveys"
+      ]
     },
     {
       "id": "browne2017social",
@@ -2034,7 +2628,10 @@
       "year": 2017,
       "venue": "",
       "doi": "",
-      "url": "https://responsiblegambling.vic.gov.au/resources/publications/the-social-cost-of-gambling-to-victoria-121/"
+      "url": "https://responsiblegambling.vic.gov.au/resources/publications/the-social-cost-of-gambling-to-victoria-121/",
+      "topics": [
+        "gambling-measurement"
+      ]
     },
     {
       "id": "browne2017what",
@@ -2044,7 +2641,10 @@
       "year": 2017,
       "venue": "Journal of Gambling Issues",
       "doi": "10.4309/jgi.2017.36.2",
-      "url": "https://doi.org/10.4309/jgi.2017.36.2"
+      "url": "https://doi.org/10.4309/jgi.2017.36.2",
+      "topics": [
+        "gambling-measurement"
+      ]
     },
     {
       "id": "browne2016anti",
@@ -2054,7 +2654,10 @@
       "year": 2016,
       "venue": "Australasian Science",
       "doi": "",
-      "url": "https://web.archive.org/web/20190324111334/http://www.australasianscience.com.au/article/issue-november-2016/anti-vaccination-and-cam-reflect-common-worldview.html"
+      "url": "https://web.archive.org/web/20190324111334/http://www.australasianscience.com.au/article/issue-november-2016/anti-vaccination-and-cam-reflect-common-worldview.html",
+      "topics": [
+        "health-beliefs"
+      ]
     },
     {
       "id": "browne2016assessing",
@@ -2064,7 +2667,10 @@
       "year": 2016,
       "venue": "",
       "doi": "",
-      "url": ""
+      "url": "",
+      "topics": [
+        "gambling-measurement"
+      ]
     },
     {
       "id": "donaldson2016attitudes",
@@ -2074,7 +2680,10 @@
       "year": 2016,
       "venue": "Journal of Gambling Studies",
       "doi": "10.1007/s10899-015-9529-y",
-      "url": "https://doi.org/10.1007/s10899-015-9529-y"
+      "url": "https://doi.org/10.1007/s10899-015-9529-y",
+      "topics": [
+        "gambling-surveys"
+      ]
     },
     {
       "id": "bryden2016development",
@@ -2084,7 +2693,10 @@
       "year": 2016,
       "venue": "Complementary Therapies in Medicine",
       "doi": "10.1016/j.ctim.2016.05.007",
-      "url": "https://doi.org/10.1016/j.ctim.2016.05.007"
+      "url": "https://doi.org/10.1016/j.ctim.2016.05.007",
+      "topics": [
+        "health-beliefs"
+      ]
     },
     {
       "id": "goodwin2016differential",
@@ -2094,7 +2706,10 @@
       "year": 2016,
       "venue": "Journal of Behavioral Addictions",
       "doi": "10.1556/2006.5.2016.047",
-      "url": "https://doi.org/10.1556/2006.5.2016.047"
+      "url": "https://doi.org/10.1556/2006.5.2016.047",
+      "topics": [
+        "health-beliefs"
+      ]
     },
     {
       "id": "pitcher2016effects",
@@ -2104,7 +2719,10 @@
       "year": 2016,
       "venue": "ICES Journal of Marine Science",
       "doi": "10.1093/icesjms/fsv055",
-      "url": "https://doi.org/10.1093/icesjms/fsv055"
+      "url": "https://doi.org/10.1093/icesjms/fsv055",
+      "topics": [
+        "environmental-informatics"
+      ]
     },
     {
       "id": "ferguson2016fatigue",
@@ -2114,7 +2732,10 @@
       "year": 2016,
       "venue": "International Journal of Environmental Research and Public Health",
       "doi": "10.3390/ijerph13020171",
-      "url": "https://doi.org/10.3390/ijerph13020171"
+      "url": "https://doi.org/10.3390/ijerph13020171",
+      "topics": [
+        "health-services"
+      ]
     },
     {
       "id": "rockloff2016innovation",
@@ -2124,7 +2745,10 @@
       "year": 2016,
       "venue": "",
       "doi": "",
-      "url": "http://www.gamblingresearch.org.au/home/research/gra+research+reports/innovation+in+traditional+gambling+products"
+      "url": "http://www.gamblingresearch.org.au/home/research/gra+research+reports/innovation+in+traditional+gambling+products",
+      "topics": [
+        "gambling-products"
+      ]
     },
     {
       "id": "martin2016interprofessional",
@@ -2134,7 +2758,10 @@
       "year": 2016,
       "venue": "Internet Journal of Allied Health Sciences and Practice",
       "doi": "10.46743/1540-580X/2016.1572",
-      "url": "https://nsuworks.nova.edu/ijahsp/vol14/iss3/6/"
+      "url": "https://nsuworks.nova.edu/ijahsp/vol14/iss3/6/",
+      "topics": [
+        "health-services"
+      ]
     },
     {
       "id": "li2016jackpot",
@@ -2144,7 +2771,10 @@
       "year": 2016,
       "venue": "Journal of Gambling Studies",
       "doi": "10.1007/s10899-015-9557-7",
-      "url": "https://doi.org/10.1007/s10899-015-9557-7"
+      "url": "https://doi.org/10.1007/s10899-015-9557-7",
+      "topics": [
+        "gambling-products"
+      ]
     },
     {
       "id": "paterson2016prior",
@@ -2154,7 +2784,10 @@
       "year": 2016,
       "venue": "Sleep and Biological Rhythms",
       "doi": "10.1007/s41105-016-0058-6",
-      "url": "https://doi.org/10.1007/s41105-016-0058-6"
+      "url": "https://doi.org/10.1007/s41105-016-0058-6",
+      "topics": [
+        "statistics"
+      ]
     },
     {
       "id": "goodwin2016rash",
@@ -2164,7 +2797,10 @@
       "year": 2016,
       "venue": "Personality and Individual Differences",
       "doi": "10.1016/j.paid.2016.01.030",
-      "url": "https://doi.org/10.1016/j.paid.2016.01.030"
+      "url": "https://doi.org/10.1016/j.paid.2016.01.030",
+      "topics": [
+        "health-beliefs"
+      ]
     },
     {
       "id": "omullan2016risky",
@@ -2174,7 +2810,10 @@
       "year": 2016,
       "venue": "Health Promotion Journal of Australia",
       "doi": "10.1071/HE15011",
-      "url": "https://doi.org/10.1071/HE15011"
+      "url": "https://doi.org/10.1071/HE15011",
+      "topics": [
+        "statistics"
+      ]
     },
     {
       "id": "rose2016scepticism",
@@ -2184,7 +2823,10 @@
       "year": 2016,
       "venue": "Focus on Alternative and Complementary Therapies",
       "doi": "10.1111/fct.12234",
-      "url": "https://doi.org/10.1111/fct.12234"
+      "url": "https://doi.org/10.1111/fct.12234",
+      "topics": [
+        "health-beliefs"
+      ]
     },
     {
       "id": "smith2016accuracy",
@@ -2194,7 +2836,10 @@
       "year": 2016,
       "venue": "Safety Science",
       "doi": "10.1016/j.ssci.2016.03.006",
-      "url": "https://doi.org/10.1016/j.ssci.2016.03.006"
+      "url": "https://doi.org/10.1016/j.ssci.2016.03.006",
+      "topics": [
+        "health-services"
+      ]
     },
     {
       "id": "langham2016understanding",
@@ -2204,7 +2849,10 @@
       "year": 2016,
       "venue": "BMC Public Health",
       "doi": "10.1186/s12889-016-2747-0",
-      "url": "https://doi.org/10.1186/s12889-016-2747-0"
+      "url": "https://doi.org/10.1186/s12889-016-2747-0",
+      "topics": [
+        "gambling-measurement"
+      ]
     },
     {
       "id": "donaldson2016veiled",
@@ -2214,7 +2862,10 @@
       "year": 2016,
       "venue": "Journal of Gambling Studies",
       "doi": "10.1007/s10899-015-9566-6",
-      "url": "https://doi.org/10.1007/s10899-015-9566-6"
+      "url": "https://doi.org/10.1007/s10899-015-9566-6",
+      "topics": [
+        "gambling-products"
+      ]
     },
     {
       "id": "james2015exploratory",
@@ -2224,7 +2875,10 @@
       "year": 2015,
       "venue": "International Studies in Widening Participation",
       "doi": "",
-      "url": ""
+      "url": "",
+      "topics": [
+        "statistics"
+      ]
     },
     {
       "id": "schoeppe2015associations",
@@ -2234,7 +2888,10 @@
       "year": 2015,
       "venue": "Journal of Transport \\& Health",
       "doi": "10.1016/j.jth.2015.05.001",
-      "url": "https://doi.org/10.1016/j.jth.2015.05.001"
+      "url": "https://doi.org/10.1016/j.jth.2015.05.001",
+      "topics": [
+        "statistics"
+      ]
     },
     {
       "id": "browne2015delusions",
@@ -2244,7 +2901,10 @@
       "year": 2015,
       "venue": "Journal of Gambling Studies",
       "doi": "10.1007/s10899-013-9420-7",
-      "url": "https://doi.org/10.1007/s10899-013-9420-7"
+      "url": "https://doi.org/10.1007/s10899-013-9420-7",
+      "topics": [
+        "gambling-risk"
+      ]
     },
     {
       "id": "donaldson2015developing",
@@ -2254,7 +2914,10 @@
       "year": 2015,
       "venue": "",
       "doi": "",
-      "url": ""
+      "url": "",
+      "topics": [
+        "gambling-measurement"
+      ]
     },
     {
       "id": "goodwin2015gamblers",
@@ -2264,7 +2927,10 @@
       "year": 2015,
       "venue": "Journal of Behavioral Addictions",
       "doi": "10.1556/2006.4.2015.022",
-      "url": "https://doi.org/10.1556/2006.4.2015.022"
+      "url": "https://doi.org/10.1556/2006.4.2015.022",
+      "topics": [
+        "gambling-risk"
+      ]
     },
     {
       "id": "rockloff2015egm",
@@ -2274,7 +2940,10 @@
       "year": 2015,
       "venue": "",
       "doi": "",
-      "url": ""
+      "url": "",
+      "topics": [
+        "gambling-products"
+      ]
     },
     {
       "id": "browne2015egm",
@@ -2284,7 +2953,10 @@
       "year": 2015,
       "venue": "Journal of Gambling Studies",
       "doi": "10.1007/s10899-014-9485-y",
-      "url": "https://doi.org/10.1007/s10899-014-9485-y"
+      "url": "https://doi.org/10.1007/s10899-014-9485-y",
+      "topics": [
+        "gambling-products"
+      ]
     },
     {
       "id": "browne2015going",
@@ -2294,7 +2966,10 @@
       "year": 2015,
       "venue": "PLOS ONE",
       "doi": "10.1371/journal.pone.0132562",
-      "url": "https://doi.org/10.1371/journal.pone.0132562"
+      "url": "https://doi.org/10.1371/journal.pone.0132562",
+      "topics": [
+        "health-beliefs"
+      ]
     },
     {
       "id": "scholtes2015internalized",
@@ -2304,7 +2979,10 @@
       "year": 2015,
       "venue": "Death Studies",
       "doi": "10.1080/07481187.2014.890680",
-      "url": "https://doi.org/10.1080/07481187.2014.890680"
+      "url": "https://doi.org/10.1080/07481187.2014.890680",
+      "topics": [
+        "statistics"
+      ]
     },
     {
       "id": "rockloff2015jackpot",
@@ -2314,7 +2992,10 @@
       "year": 2015,
       "venue": "Journal of Gambling Studies",
       "doi": "10.1007/s10899-014-9472-3",
-      "url": "https://doi.org/10.1007/s10899-014-9472-3"
+      "url": "https://doi.org/10.1007/s10899-014-9472-3",
+      "topics": [
+        "gambling-products"
+      ]
     },
     {
       "id": "goodwin2015measuring",
@@ -2324,7 +3005,10 @@
       "year": 2015,
       "venue": "Evolutionary Psychology",
       "doi": "10.1177/1474704915613914",
-      "url": "https://doi.org/10.1177/1474704915613914"
+      "url": "https://doi.org/10.1177/1474704915613914",
+      "topics": [
+        "health-beliefs"
+      ]
     },
     {
       "id": "happell2015scoping",
@@ -2334,7 +3018,10 @@
       "year": 2015,
       "venue": "International Journal of Mental Health Nursing",
       "doi": "10.1111/inm.12142",
-      "url": "https://doi.org/10.1111/inm.12142"
+      "url": "https://doi.org/10.1111/inm.12142",
+      "topics": [
+        "health-services"
+      ]
     },
     {
       "id": "donaldson2015validation",
@@ -2344,7 +3031,10 @@
       "year": 2015,
       "venue": "Journal of Gambling Issues",
       "doi": "10.4309/jgi.2015.31.8",
-      "url": "https://doi.org/10.4309/jgi.2015.31.8"
+      "url": "https://doi.org/10.4309/jgi.2015.31.8",
+      "topics": [
+        "gambling-measurement"
+      ]
     },
     {
       "id": "schoeppe2014associations",
@@ -2354,7 +3044,10 @@
       "year": 2014,
       "venue": "BMC Public Health",
       "doi": "10.1186/1471-2458-14-91",
-      "url": "https://doi.org/10.1186/1471-2458-14-91"
+      "url": "https://doi.org/10.1186/1471-2458-14-91",
+      "topics": [
+        "statistics"
+      ]
     },
     {
       "id": "harlow2014can",
@@ -2364,7 +3057,10 @@
       "year": 2014,
       "venue": "Australian Health Review",
       "doi": "10.1071/AH13212",
-      "url": "https://doi.org/10.1071/AH13212"
+      "url": "https://doi.org/10.1071/AH13212",
+      "topics": [
+        "health-services"
+      ]
     },
     {
       "id": "rockloff2014sure",
@@ -2374,7 +3070,10 @@
       "year": 2014,
       "venue": "Gambling Research",
       "doi": "",
-      "url": ""
+      "url": "",
+      "topics": [
+        "gambling-risk"
+      ]
     },
     {
       "id": "gal2014long",
@@ -2384,7 +3083,10 @@
       "year": 2014,
       "venue": "IEEE Transactions on Geoscience and Remote Sensing",
       "doi": "10.1109/TGRS.2013.2272790",
-      "url": "https://doi.org/10.1109/TGRS.2013.2272790"
+      "url": "https://doi.org/10.1109/TGRS.2013.2272790",
+      "topics": [
+        "environmental-informatics"
+      ]
     },
     {
       "id": "thomson2014psychosocial",
@@ -2394,7 +3096,10 @@
       "year": 2014,
       "venue": "Complementary Therapies in Clinical Practice",
       "doi": "10.1016/j.ctcp.2014.09.004",
-      "url": "https://doi.org/10.1016/j.ctcp.2014.09.004"
+      "url": "https://doi.org/10.1016/j.ctcp.2014.09.004",
+      "topics": [
+        "health-beliefs"
+      ]
     },
     {
       "id": "browne2014reflective",
@@ -2404,7 +3109,10 @@
       "year": 2014,
       "venue": "European Journal of Social Psychology",
       "doi": "10.1002/ejsp.2059",
-      "url": "https://doi.org/10.1002/ejsp.2059"
+      "url": "https://doi.org/10.1002/ejsp.2059",
+      "topics": [
+        "health-beliefs"
+      ]
     },
     {
       "id": "rockloff2013impact",
@@ -2414,7 +3122,10 @@
       "year": 2014,
       "venue": "",
       "doi": "",
-      "url": ""
+      "url": "",
+      "topics": [
+        "gambling-products"
+      ]
     },
     {
       "id": "thomson2014why",
@@ -2424,7 +3135,10 @@
       "year": 2014,
       "venue": "Complementary Therapies in Clinical Practice",
       "doi": "10.1016/j.ctcp.2014.07.008",
-      "url": "https://doi.org/10.1016/j.ctcp.2014.07.008"
+      "url": "https://doi.org/10.1016/j.ctcp.2014.07.008",
+      "topics": [
+        "health-beliefs"
+      ]
     },
     {
       "id": "wolkenhauer2012daily",
@@ -2434,7 +3148,10 @@
       "year": 2013,
       "venue": "Echinoderms in a Changing World: Proceedings of the 13th International Echinoderm Conference",
       "doi": "",
-      "url": ""
+      "url": "",
+      "topics": [
+        "environmental-informatics"
+      ]
     },
     {
       "id": "browne2013too",
@@ -2444,7 +3161,10 @@
       "year": 2013,
       "venue": "Australasian Science",
       "doi": "",
-      "url": ""
+      "url": "",
+      "topics": [
+        "health-beliefs"
+      ]
     },
     {
       "id": "browne2012regularized",
@@ -2454,7 +3174,10 @@
       "year": 2012,
       "venue": "Pattern Recognition",
       "doi": "10.1016/j.patcog.2011.09.003",
-      "url": "https://doi.org/10.1016/j.patcog.2011.09.003"
+      "url": "https://doi.org/10.1016/j.patcog.2011.09.003",
+      "topics": [
+        "ai"
+      ]
     },
     {
       "id": "lane2011new",
@@ -2464,7 +3187,10 @@
       "year": 2011,
       "venue": "Australasian Coasts and Ports 2011 Conference",
       "doi": "",
-      "url": ""
+      "url": "",
+      "topics": [
+        "environmental-informatics"
+      ]
     },
     {
       "id": "gal2011automatic",
@@ -2474,7 +3200,10 @@
       "year": 2011,
       "venue": "Proceedings of the 2011 International Conference on Digital Image Computing: Techniques and Applications (DICTA 2011)",
       "doi": "10.1109/DICTA.2011.68",
-      "url": "https://doi.org/10.1109/DICTA.2011.68"
+      "url": "https://doi.org/10.1109/DICTA.2011.68",
+      "topics": [
+        "environmental-informatics"
+      ]
     },
     {
       "id": "lane2010new",
@@ -2484,7 +3213,10 @@
       "year": 2010,
       "venue": "2010 IEEE International Geoscience and Remote Sensing Symposium (IGARSS)",
       "doi": "10.1109/IGARSS.2010.5652740",
-      "url": "https://doi.org/10.1109/IGARSS.2010.5652740"
+      "url": "https://doi.org/10.1109/IGARSS.2010.5652740",
+      "topics": [
+        "environmental-informatics"
+      ]
     },
     {
       "id": "mayer2010esns",
@@ -2494,7 +3226,10 @@
       "year": 2010,
       "venue": "Neural Information Processing. Models and Applications (ICONIP 2010)",
       "doi": "10.1007/978-3-642-17534-3_26",
-      "url": "https://doi.org/10.1007/978-3-642-17534-3_26"
+      "url": "https://doi.org/10.1007/978-3-642-17534-3_26",
+      "topics": [
+        "ai"
+      ]
     },
     {
       "id": "browne2008convolutional",
@@ -2504,7 +3239,10 @@
       "year": 2008,
       "venue": "Speech, Audio, Image and Biomedical Signal Processing Using Neural Networks",
       "doi": "10.1007/978-3-540-75398-8_15",
-      "url": "https://doi.org/10.1007/978-3-540-75398-8_15"
+      "url": "https://doi.org/10.1007/978-3-540-75398-8_15",
+      "topics": [
+        "ai"
+      ]
     },
     {
       "id": "pitcher2008integrated",
@@ -2514,7 +3252,10 @@
       "year": 2008,
       "venue": "",
       "doi": "10.17895/ices.pub.25243687.v1",
-      "url": "http://www.ices.dk/sites/pub/CM%20Doccuments/CM-2008/E/E2708.pdf"
+      "url": "http://www.ices.dk/sites/pub/CM%20Doccuments/CM-2008/E/E2708.pdf",
+      "topics": [
+        "environmental-informatics"
+      ]
     },
     {
       "id": "pitcher2008mapping",
@@ -2524,7 +3265,10 @@
       "year": 2008,
       "venue": "",
       "doi": "10.17895/ices.pub.25243780.v1",
-      "url": "http://www.ices.dk/sites/pub/CM%20Doccuments/CM-2008/G/G1908.pdf"
+      "url": "http://www.ices.dk/sites/pub/CM%20Doccuments/CM-2008/G/G1908.pdf",
+      "topics": [
+        "environmental-informatics"
+      ]
     },
     {
       "id": "mayer2008symmetries",
@@ -2534,7 +3278,10 @@
       "year": 2008,
       "venue": "Biological Cybernetics",
       "doi": "10.1007/s00422-008-0238-9",
-      "url": "https://doi.org/10.1007/s00422-008-0238-9"
+      "url": "https://doi.org/10.1007/s00422-008-0238-9",
+      "topics": [
+        "ai"
+      ]
     },
     {
       "id": "browne2007geometric",
@@ -2544,7 +3291,10 @@
       "year": 2007,
       "venue": "Pattern Recognition",
       "doi": "10.1016/j.patcog.2006.05.012",
-      "url": "https://doi.org/10.1016/j.patcog.2006.05.012"
+      "url": "https://doi.org/10.1016/j.patcog.2006.05.012",
+      "topics": [
+        "ai"
+      ]
     },
     {
       "id": "browne2007multi",
@@ -2554,7 +3304,10 @@
       "year": 2007,
       "venue": "Digital Signal Processing",
       "doi": "10.1016/j.dsp.2006.01.006",
-      "url": "https://doi.org/10.1016/j.dsp.2006.01.006"
+      "url": "https://doi.org/10.1016/j.dsp.2006.01.006",
+      "topics": [
+        "ai"
+      ]
     },
     {
       "id": "kuhnert2007conceptual",
@@ -2564,7 +3317,10 @@
       "year": 2007,
       "venue": "",
       "doi": "",
-      "url": ""
+      "url": "",
+      "topics": [
+        "environmental-informatics"
+      ]
     },
     {
       "id": "haywood2007improved",
@@ -2574,7 +3330,10 @@
       "year": 2007,
       "venue": "",
       "doi": "",
-      "url": ""
+      "url": "",
+      "topics": [
+        "environmental-informatics"
+      ]
     },
     {
       "id": "pitcher2007indicators",
@@ -2584,7 +3343,10 @@
       "year": 2007,
       "venue": "",
       "doi": "",
-      "url": ""
+      "url": "",
+      "topics": [
+        "environmental-informatics"
+      ]
     },
     {
       "id": "pitcher2007mapping",
@@ -2594,7 +3356,10 @@
       "year": 2007,
       "venue": "",
       "doi": "",
-      "url": ""
+      "url": "",
+      "topics": [
+        "environmental-informatics"
+      ]
     },
     {
       "id": "browne2007near",
@@ -2604,7 +3369,11 @@
       "year": 2007,
       "venue": "Coastal Engineering",
       "doi": "10.1016/j.coastaleng.2006.11.007",
-      "url": "https://doi.org/10.1016/j.coastaleng.2006.11.007"
+      "url": "https://doi.org/10.1016/j.coastaleng.2006.11.007",
+      "topics": [
+        "ai",
+        "environmental-informatics"
+      ]
     },
     {
       "id": "browne2004review",
@@ -2614,7 +3383,10 @@
       "year": 2007,
       "venue": "",
       "doi": "",
-      "url": ""
+      "url": "",
+      "topics": [
+        "environmental-informatics"
+      ]
     },
     {
       "id": "pantus2006torres",
@@ -2624,7 +3396,10 @@
       "year": 2007,
       "venue": "",
       "doi": "",
-      "url": ""
+      "url": "",
+      "topics": [
+        "environmental-informatics"
+      ]
     },
     {
       "id": "browne2006empirical",
@@ -2634,7 +3409,10 @@
       "year": 2006,
       "venue": "IEEE Geoscience and Remote Sensing Letters",
       "doi": "10.1109/LGRS.2006.876225",
-      "url": "https://doi.org/10.1109/LGRS.2006.876225"
+      "url": "https://doi.org/10.1109/LGRS.2006.876225",
+      "topics": [
+        "environmental-informatics"
+      ]
     },
     {
       "id": "mayer2006gyro",
@@ -2644,7 +3422,10 @@
       "year": 2006,
       "venue": "2006 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2006)",
       "doi": "10.1109/IROS.2006.281934",
-      "url": "https://doi.org/10.1109/IROS.2006.281934"
+      "url": "https://doi.org/10.1109/IROS.2006.281934",
+      "topics": [
+        "ai"
+      ]
     },
     {
       "id": "strauss2006numerical",
@@ -2654,7 +3435,10 @@
       "year": 2006,
       "venue": "Proceedings of the 7th International Conference on HydroScience and Engineering (ICHE 2006)",
       "doi": "",
-      "url": ""
+      "url": "",
+      "topics": [
+        "environmental-informatics"
+      ]
     },
     {
       "id": "browne2006objective",
@@ -2664,7 +3448,10 @@
       "year": 2006,
       "venue": "IEEE Transactions on Geoscience and Remote Sensing",
       "doi": "10.1109/TGRS.2006.877758",
-      "url": "https://doi.org/10.1109/TGRS.2006.877758"
+      "url": "https://doi.org/10.1109/TGRS.2006.877758",
+      "topics": [
+        "environmental-informatics"
+      ]
     },
     {
       "id": "green2006detection",
@@ -2674,7 +3461,11 @@
       "year": 2006,
       "venue": "International Journal of Computational Intelligence and Applications",
       "doi": "10.1142/S1469026806001927",
-      "url": "https://doi.org/10.1142/S1469026806001927"
+      "url": "https://doi.org/10.1142/S1469026806001927",
+      "topics": [
+        "ai",
+        "environmental-informatics"
+      ]
     },
     {
       "id": "mayer2006using",
@@ -2684,7 +3475,10 @@
       "year": 2006,
       "venue": "Applied Bionics and Biomechanics",
       "doi": "10.1533/abbi.2006.0032",
-      "url": "https://doi.org/10.1533/abbi.2006.0032"
+      "url": "https://doi.org/10.1533/abbi.2006.0032",
+      "topics": [
+        "ai"
+      ]
     },
     {
       "id": "browne2005intelligent",
@@ -2694,7 +3488,11 @@
       "year": 2005,
       "venue": "Proceedings of the 12th International Conference on Artificial Intelligence and Applications (AIA 2005)",
       "doi": "",
-      "url": ""
+      "url": "",
+      "topics": [
+        "ai",
+        "environmental-informatics"
+      ]
     },
     {
       "id": "green2005detection",
@@ -2704,7 +3502,11 @@
       "year": 2005,
       "venue": "Proceedings of the 6th International Conference on Computational Intelligence and Multimedia Applications (ICCIMA 2005)",
       "doi": "10.1109/ICCIMA.2005.57",
-      "url": "https://doi.org/10.1109/ICCIMA.2005.57"
+      "url": "https://doi.org/10.1109/ICCIMA.2005.57",
+      "topics": [
+        "ai",
+        "environmental-informatics"
+      ]
     },
     {
       "id": "mayer2005metric",
@@ -2714,7 +3516,10 @@
       "year": 2005,
       "venue": "Proceedings of the 2nd International Symposium on Information Geometry and its Applications",
       "doi": "",
-      "url": ""
+      "url": "",
+      "topics": [
+        "ai"
+      ]
     },
     {
       "id": "mayer2004asymmetric",
@@ -2724,7 +3529,10 @@
       "year": 2004,
       "venue": "Proceedings of the 9th International Symposium on Artificial Life and Robotics (AROB 9th '04)",
       "doi": "",
-      "url": ""
+      "url": "",
+      "topics": [
+        "ai"
+      ]
     },
     {
       "id": "mayer2004echo",
@@ -2734,7 +3542,10 @@
       "year": 2004,
       "venue": "Biologically Inspired Approaches to Advanced Information Technology",
       "doi": "10.1007/978-3-540-27835-1_4",
-      "url": "https://doi.org/10.1007/978-3-540-27835-1_4"
+      "url": "https://doi.org/10.1007/978-3-540-27835-1_4",
+      "topics": [
+        "ai"
+      ]
     },
     {
       "id": "ouellette2004genetic",
@@ -2744,7 +3555,10 @@
       "year": 2004,
       "venue": "Proceedings of the 2004 Congress on Evolutionary Computation (CEC2004)",
       "doi": "10.1109/CEC.2004.1330900",
-      "url": "https://doi.org/10.1109/CEC.2004.1330900"
+      "url": "https://doi.org/10.1109/CEC.2004.1330900",
+      "topics": [
+        "ai"
+      ]
     },
     {
       "id": "pitcher2004seabed",
@@ -2754,7 +3568,10 @@
       "year": 2004,
       "venue": "",
       "doi": "",
-      "url": ""
+      "url": "",
+      "topics": [
+        "environmental-informatics"
+      ]
     },
     {
       "id": "browne2003convolutional",
@@ -2764,7 +3581,10 @@
       "year": 2003,
       "venue": "AI 2003: Advances in Artificial Intelligence",
       "doi": "10.1007/978-3-540-24581-0_55",
-      "url": "https://doi.org/10.1007/978-3-540-24581-0_55"
+      "url": "https://doi.org/10.1007/978-3-540-24581-0_55",
+      "topics": [
+        "ai"
+      ]
     },
     {
       "id": "ghidary2003convolutional",
@@ -2774,7 +3594,10 @@
       "year": 2003,
       "venue": "Proceedings of the 8th Australian and New Zealand Intelligent Information Systems Conference (ANZIIS 2003)",
       "doi": "",
-      "url": ""
+      "url": "",
+      "topics": [
+        "ai"
+      ]
     },
     {
       "id": "dorn2003landmark",
@@ -2784,7 +3607,10 @@
       "year": 2003,
       "venue": "Proceedings of the 2nd International Conference on Mechatronics and Information Technology (ICMIT 2003)",
       "doi": "",
-      "url": ""
+      "url": "",
+      "topics": [
+        "ai"
+      ]
     },
     {
       "id": "ghidary2003omni",
@@ -2794,7 +3620,10 @@
       "year": 2003,
       "venue": "Proceedings of the 2nd International Conference on Mechatronics and Information Technology (ICMIT 2003)",
       "doi": "",
-      "url": ""
+      "url": "",
+      "topics": [
+        "ai"
+      ]
     },
     {
       "id": "cutmore2003statistical",
@@ -2804,7 +3633,10 @@
       "year": 2003,
       "venue": "Australian Journal of Psychology",
       "doi": "",
-      "url": ""
+      "url": "",
+      "topics": [
+        "ai"
+      ]
     },
     {
       "id": "browne2002low",
@@ -2814,7 +3646,10 @@
       "year": 2002,
       "venue": "Clinical Neurophysiology",
       "doi": "10.1016/S1388-2457(02)00194-3",
-      "url": "https://doi.org/10.1016/S1388-2457(02)00194-3"
+      "url": "https://doi.org/10.1016/S1388-2457(02)00194-3",
+      "topics": [
+        "ai"
+      ]
     },
     {
       "id": "browne2002visual",
@@ -2824,7 +3659,10 @@
       "year": 2002,
       "venue": "Proceedings of the 3rd International Symposium on Robots and Automation (ISRA 2002)",
       "doi": "",
-      "url": ""
+      "url": "",
+      "topics": [
+        "ai"
+      ]
     },
     {
       "id": "browne2002wavelet",
@@ -2834,7 +3672,10 @@
       "year": 2002,
       "venue": "Proceedings of the 6th International Conference on Mechatronics Technology (ICMT 2002)",
       "doi": "",
-      "url": ""
+      "url": "",
+      "topics": [
+        "ai"
+      ]
     },
     {
       "id": "browne2000adaptive",
@@ -2844,7 +3685,10 @@
       "year": 2000,
       "venue": "Medical and Biological Engineering and Computing",
       "doi": "10.1007/BF02344870",
-      "url": "https://doi.org/10.1007/BF02344870"
+      "url": "https://doi.org/10.1007/BF02344870",
+      "topics": [
+        "ai"
+      ]
     }
   ],
   "projects": [

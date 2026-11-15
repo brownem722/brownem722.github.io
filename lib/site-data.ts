@@ -3,6 +3,7 @@ import episodes from "../data/episodes.json";
 import links from "../data/links.json";
 import writing from "../data/writing.json";
 import appearances from "../data/appearances.json";
+import topics from "../data/topics.json";
 
 export type Publication = (typeof cv.publications)[number];
 export type Project = (typeof cv.projects)[number];
@@ -31,5 +32,23 @@ export const profileParagraphs = cv.profile
     return paragraphs;
   }, [])
   .map((sentences) => sentences.join(" "));
+
+// Research areas: topic codes come from the CV bib's `topics` field via sync-cv; a paper
+// belongs to an area when any of its codes is the area slug or one of its section codes.
+type TopicDefinition = { slug: string; label: string; party: string; overview: string; sections?: { code: string; label: string; intro: string }[] };
+const byNewest = (a: Publication, b: Publication) => (b.year ?? 0) - (a.year ?? 0) || a.title.localeCompare(b.title);
+export const researchAreas = (topics as TopicDefinition[]).map((topic) => {
+  const codes = new Set([topic.slug, ...(topic.sections ?? []).map((section) => section.code)]);
+  const publications = cv.publications.filter((publication) => publication.topics.some((code) => codes.has(code))).sort(byNewest);
+  const sections = (topic.sections ?? []).map((section) => ({
+    ...section,
+    publications: publications.filter((publication) => publication.topics.includes(section.code)),
+  }));
+  // Papers tagged with the bare area slug still need a home on a sectioned page.
+  const unsectioned = publications.filter((publication) => !sections.some((section) => section.publications.includes(publication)));
+  if (sections.length && unsectioned.length) sections.push({ code: `${topic.slug}-other`, label: "Other work", intro: "", publications: unsectioned });
+  return { ...topic, publications, sections };
+});
+export type ResearchArea = (typeof researchAreas)[number];
 
 export { appearances, cv, episodes, links, writing };

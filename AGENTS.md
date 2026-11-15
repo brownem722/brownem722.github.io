@@ -14,6 +14,7 @@ This repository is the public GitHub Pages site at <https://brownem722.github.io
 
 - The maintained CV, BibTeX bibliography, research-project CSV, and generated PDF live outside this repository in the CV archive. Treat those sources as canonical.
 - After a CV change, run `D:\archive\CV\Build-CV.ps1` (regenerates sources and compiles the PDF; `Generate-CV.ps1` alone leaves the PDF stale), then `npm run sync-cv`. This refreshes `data/cv.json` and the public CV PDF.
+- Research-area pages (`/research/<slug>/`) and the home-page topic band are built from each bib entry's `topics` field, carried into `data/cv.json` by the sync. `data/topics.json` holds the areas, gambling sections and overview paragraphs; paper assignments belong in the bib, not here. Fix any missing-topic or unknown-code warning from `sync-cv` in the bib.
 - Run `npm run sync-rss` when updating the checked-in Decoding the Gurus episode snapshot. GitHub Actions refreshes the RSS data during the scheduled daily build.
 - `data/writing.json` holds selected popular articles; `data/appearances.json` is reserved for the later recorded-appearances database.
 - When adding a page route, add its URL to `public/sitemap.xml` and give the page a `canonical` in its metadata.
