@@ -20,7 +20,7 @@
   "summary": [
     {
       "label": "Publications",
-      "value": "275 (peer-reviewed articles, book chapters, and commissioned government reports)"
+      "value": "280 (peer-reviewed articles, book chapters, and commissioned government reports)"
     },
     {
       "label": "Citations",
@@ -44,7 +44,7 @@
     }
   ],
   "publicEngagement": "Co-host of Decoding the Gurus with Chris Kavanagh, Associate Professor of Psychology at Rikkyo University, an educational, entertaining and lighthearted podcast that analyses public intellectuals and online influencers through a psychosocial and anthropological lens, with particular attention to how they persuade and influence.",
-  "updated": "2026-10-07",
+  "updated": "2026-11-15",
   "publications": [
     {
       "id": "tulloch2026model",
@@ -65,6 +65,16 @@
       "venue": "European Journal of Trauma \\& Dissociation",
       "doi": "10.1016/j.ejtd.2026.100757",
       "url": "https://doi.org/10.1016/j.ejtd.2026.100757"
+    },
+    {
+      "id": "close2025development",
+      "type": "article",
+      "title": "Development and Validation of the Gambling Harms Severity Index (GHSI-10) and the GHSI for Affected Others (GHSI-AO-10): Measurement Instruments for People Experiencing Gambling Harms and Affected Others",
+      "authors": "Close, J. and Statton, R. and Collard, S. and Wheaton, J. and Davies, S. and Martin, I. and Pinto, C. and Conway, M. and Walsh, C. and Browne, M.",
+      "year": 2026,
+      "venue": "Addiction",
+      "doi": "10.1111/add.70727",
+      "url": "https://doi.org/10.1111/add.70727"
     },
     {
       "id": "Rockloff2026DirectGamblingMarketing",
@@ -97,6 +107,26 @@
       "url": "https://doi.org/10.1007/s10899-026-10524-0"
     },
     {
+      "id": "statton2026gambling",
+      "type": "article",
+      "title": "Gambling Harms: Locating the Harm from Gambling alongside Substance Addiction using Multi-Criteria Decision Analysis",
+      "authors": "Statton, R. and Close, J. and Collard, S. and Wheaton, J. and Davies, S. and Martin, I. and Pinto, C. and Conway, M. and Walsh, C. and Browne, M. and Baily, O. and Crick, E. and Gani, J. E. and Hollingsworth, D. and Penazzi, G. and Paxton, R. and Temmerman, I. L. and Quinti, D. and Airoldi, M.",
+      "year": 2026,
+      "venue": "European Addiction Research",
+      "doi": "",
+      "url": ""
+    },
+    {
+      "id": "tulloch2026improving",
+      "type": "article",
+      "title": "Improving the odds: How modifiable social factors influence gambling harm and recovery – a narrative review of longitudinal evidence",
+      "authors": "Tulloch, C. and Hing, N. and Browne, M. and Rockloff, M. and Russell, A. M. T.",
+      "year": 2026,
+      "venue": "Addiction Research \\& Theory",
+      "doi": "",
+      "url": ""
+    },
+    {
       "id": "Hing2026Journeys",
       "type": "article",
       "title": "Journeys Towards Harm Among Young Adult Sports Bettors: Dynamic Influences From Childhood to Early Adulthood",
@@ -105,6 +135,16 @@
       "venue": "International Journal of Mental Health and Addiction",
       "doi": "10.1007/s11469-025-01625-9",
       "url": "https://doi.org/10.1007/s11469-025-01625-9"
+    },
+    {
+      "id": "murphy2026locating",
+      "type": "article",
+      "title": "Locating gambling severity within polysubstance involvement: The specific role of methamphetamine in 9,421 adults entering treatment",
+      "authors": "Murphy, G. and Browne, M. and Russell, A. M. T.",
+      "year": 2026,
+      "venue": "Journal of Gambling Studies",
+      "doi": "10.1007/s10899-026-10571-7",
+      "url": "https://doi.org/10.1007/s10899-026-10571-7"
     },
     {
       "id": "goodwin2026mapping",
@@ -117,6 +157,16 @@
       "url": "https://doi.org/10.1111/ajr.70221"
     },
     {
+      "id": "maguire2026sex",
+      "type": "article",
+      "title": "Sex differences in the distribution of reported occupational injury and illness cases among emergency medical technicians and paramedics",
+      "authors": "Maguire, B. J. and Al Amiry, A. and O'Neill, B. J. and Browne, M.",
+      "year": 2026,
+      "venue": "International Journal of Paramedicine",
+      "doi": "",
+      "url": ""
+    },
+    {
       "id": "hing2026a",
       "type": "article",
       "title": "Simulated gambling games: An integrative review of links with monetary gambling and harmful gambling in adolescents and adults",
@@ -125,6 +175,16 @@
       "venue": "Current Addiction Reports",
       "doi": "10.1007/s40429-026-00784-6",
       "url": "https://doi.org/10.1007/s40429-026-00784-6"
+    },
+    {
+      "id": "russell2026sa",
+      "type": "techreport",
+      "title": "South Australian Gambling Survey 2025",
+      "authors": "Russell, A. M. T. and Browne, M.",
+      "year": 2026,
+      "venue": "",
+      "doi": "",
+      "url": "https://gamblingharmsupport.sa.gov.au/__data/assets/pdf_file/0008/205973/South-Australian-Gambling-Survey-2025.pdf"
     },
     {
       "id": "dittman2025sure",
@@ -255,16 +315,6 @@
       "venue": "The International Journal of Evidence \\& Proof",
       "doi": "10.1177/13657127251326782",
       "url": "https://doi.org/10.1177/13657127251326782"
-    },
-    {
-      "id": "close2025development",
-      "type": "unpublished",
-      "title": "Development and Validation of the Gambling Harms Severity Index (GHSI-10) and the GHSI for Affected Others (GHSI-AO-10): Measurement Instruments for People Experiencing Gambling Related Harms and Affected Others",
-      "authors": "Close, J. and Statton, R. and Collard, S. and Wheaton, J. and Davies, S. and Martin, I. and Pinto, C. and Conway, M. and Walsh, C. and Browne, M.",
-      "year": 2025,
-      "venue": "",
-      "doi": "10.31234/osf.io/w8fb6_v1",
-      "url": "https://doi.org/10.31234/osf.io/w8fb6_v1"
     },
     {
       "id": "newall2024does",
